@@ -17,7 +17,7 @@
    version="1.2"
    gorn="0"
    sodipodi:docname="svg.breadboard.8ChannelRelay_breadboard.svg"
-   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"><metadata
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
    id="metadata1394" /><defs
    id="defs1392">
         
@@ -32,15 +32,15 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1904"
-   inkscape:window-height="1096"
+   inkscape:window-width="1600"
+   inkscape:window-height="961"
    id="namedview1390"
    showgrid="false"
-   inkscape:zoom="0.98928181"
-   inkscape:cx="292.21262"
-   inkscape:cy="393.09426"
-   inkscape:window-x="306"
-   inkscape:window-y="-1312"
+   inkscape:zoom="1.9785636"
+   inkscape:cx="255.08294"
+   inkscape:cy="911.31878"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
    inkscape:window-maximized="1"
    inkscape:current-layer="EightChannelRelay"
    inkscape:document-rotation="0" />
@@ -149,6 +149,7 @@
    y="1.0860597"
    id="tspan4291"
    gorn="0.1.0.0.0.8.0.0.0.1.0.0.0.0">K1</text>
+
                                                 </g>
                                             </g>
                                         </g>
@@ -208,6 +209,7 @@
    y="1.0937815"
    id="tspan4287"
    gorn="0.1.0.0.0.7.0.0.0.1.0.0.0.0">K2</text>
+
                                                 </g>
                                             </g>
                                         </g>
@@ -255,6 +257,7 @@
    gorn="0.1.0.0.0.9.0.0.0.0"
    transform="matrix(0,-1.410538,0.70894934,0,0,0)"
    style="font-size:8.68581px">8 Relay Module</text>
+
                                 </g>
                             </g>
                         </g>
@@ -301,6 +304,7 @@
    y="1.1080694"
    id="tspan4287-5"
    gorn="0.1.0.0.0.10.0.0.0.1.0.0.0.0">K4</text>
+
                                                 </g>
                                             </g>
                                         </g>
@@ -360,6 +364,7 @@
    y="1.0860597"
    id="tspan4291-0"
    gorn="0.1.0.0.0.11.0.0.0.1.0.0.0.0">K3</text>
+
                                                 </g>
                                             </g>
                                         </g>
@@ -401,6 +406,7 @@
    y="119.84716"
    id="tspan4873"
    gorn="0.1.0.0.0.12.0.0.0.0">JD-VCC</text>
+
                                 </g>
                             </g>
                         </g>
@@ -424,11 +430,12 @@
    xml:space="preserve"
    gorn="0.1.0.0.0.13.0.0.0">
                                     <text
-   x="140.56929"
-   stroke-width="0.0679573"
+   x="139.83113"
    y="119.77171"
    id="tspan4873-5"
-   gorn="0.1.0.0.0.13.0.0.0.0">VCC</text>
+   gorn="0.1.0.0.0.13.0.0.0.0"
+   style="stroke-width:0.0679573">VCC</text>
+
                                 </g>
                             </g>
                         </g>
@@ -452,18 +459,18 @@
    xml:space="preserve"
    gorn="0.1.0.0.0.14.0.0.0">
                                     <text
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.1555px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;stroke-width:0.0619222;stroke-miterlimit:4;stroke-dasharray:none"
-   x="-69.684685"
-   stroke-width="0.0657045"
-   y="106.45096"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38523197px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;stroke-width:0.06643037;stroke-miterlimit:4;stroke-dasharray:none"
+   x="-66.83667"
+   y="114.36832"
    id="tspan4869"
    gorn="0.1.0.0.0.14.0.0.0.0"
-   transform="scale(0.94118717,1.0624879)"><tspan
+   transform="scale(1.0112046,0.98891952)"><tspan
      sodipodi:role="line"
      id="tspan1784"
-     x="-69.684685"
-     y="106.45096"
-     style="stroke-width:0.0619222">GND  IN1  IN2  IN3  IN4  IN5  IN6  IN7  IN8  VCC</tspan></text>
+     x="-66.83667"
+     y="114.36832"
+     style="stroke-width:0.06643037">GND  IN1  IN2  IN3  IN4  IN5  IN6  IN7  IN8  VCC</tspan></text>
+
                                 </g>
                             </g>
                         </g>
@@ -521,6 +528,7 @@
    gorn="0.1.0.0.0.15.0.0.0.1.0.0.0.0.0.0.0.0"
    transform="scale(0.79177142,1.2629908)"
    style="font-size:1.56006px;stroke-width:1.23361">SONGLE</text>
+
                                                                 </g>
                                                             </g>
                                                         </g>
@@ -557,10 +565,11 @@
    xml:space="preserve"
    gorn="0.1.0.0.0.15.0.0.0.1.0.0.0.2.0.0.0">
                                                                     <text
-   x="7.8129954"
+   x="7.639595"
    y="40.507298"
    id="tspan4396"
    gorn="0.1.0.0.0.15.0.0.0.1.0.0.0.2.0.0.0.0">CQC</text>
+
                                                                 </g>
                                                             </g>
                                                         </g>
@@ -584,12 +593,13 @@
    xml:space="preserve"
    gorn="0.1.0.0.0.15.0.0.0.1.0.0.0.3.0.0.0">
                                                                     <text
-   x="6.8100262"
-   y="41.905846"
+   x="6.0684471"
+   y="43.477573"
    id="tspan4400"
    gorn="0.1.0.0.0.15.0.0.0.1.0.0.0.3.0.0.0.0"
-   transform="scale(0.98438919,1.0158584)"
-   style="font-size:1.14605px;stroke-width:0.980528">10A  250VAC   10A  125VAC</text>
+   transform="scale(1.0213099,0.97913473)"
+   style="font-size:1.1890341px;stroke-width:1.01730394">10A  250VAC   10A  125VAC</text>
+
                                                                 </g>
                                                             </g>
                                                         </g>
@@ -613,12 +623,13 @@
    xml:space="preserve"
    gorn="0.1.0.0.0.15.0.0.0.1.0.0.0.4.0.0.0">
                                                                     <text
-   x="6.9465547"
-   y="42.299442"
+   x="6.3021913"
+   y="42.922386"
    id="tspan4400-3"
    gorn="0.1.0.0.0.15.0.0.0.1.0.0.0.4.0.0.0.0"
-   transform="scale(0.96527702,1.035972)"
-   style="font-size:1.12379px;stroke-width:0.961491">10A    30VDC   10A   28VDC</text>
+   transform="scale(0.97709175,1.0234453)"
+   style="font-size:1.27902472px;stroke-width:1.09430623">10A    30VDC  10A   28VDC</text>
+
                                                                 </g>
                                                             </g>
                                                         </g>
@@ -642,12 +653,13 @@
    xml:space="preserve"
    gorn="0.1.0.0.0.15.0.0.0.1.0.0.0.5.0.0.0">
                                                                     <text
-   x="6.0879941"
-   y="45.954979"
+   x="6.2820258"
+   y="44.594696"
    id="tspan4422"
    gorn="0.1.0.0.0.15.0.0.0.1.0.0.0.5.0.0.0.0"
-   transform="scale(1.0419236,0.95976324)"
-   style="font-size:2.11771px;stroke-width:1.03784">SRD-05VDC-SL-C</text>
+   transform="scale(1.0110823,0.98903916)"
+   style="font-size:2.0550251px;stroke-width:1.00711954">SRD-05VDC-SL-C</text>
+
                                                                 </g>
                                                             </g>
                                                         </g>
@@ -978,7 +990,8 @@
      id="tspan4390-2"
      gorn="0.1.0.0.0.17.0.0.0.1.0.0.0.0.0.0.0.0"
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Times New Roman, Italic';letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter"
-     transform="scale(1.4718583,0.67941322)">SONGLE</text><ellipse
+     transform="scale(1.4718583,0.67941322)">SONGLE</text>
+<ellipse
      rx="2.3374286"
      stroke="#ffffff"
      ry="0.59912831"
@@ -991,30 +1004,34 @@
      cx="10.869333"
      cy="38.60796"
      gorn="0.1.0.0.0.17.0.0.0.1.0.0.0.1" /><text
-     x="6.7598429"
+     x="6.531518"
      y="54.542915"
      id="tspan4396-3"
      gorn="0.1.0.0.0.17.0.0.0.1.0.0.0.2.0.0.0.0"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.12744px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;stroke-width:0.552532;stroke-linecap:butt;stroke-linejoin:miter"
-     transform="scale(1.4039495,0.71227634)">CQC</text><text
-     x="5.6454415"
-     y="50.383118"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.12743998px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;stroke-width:0.55253202;stroke-linecap:butt;stroke-linejoin:miter"
+     transform="scale(1.4039495,0.71227634)">CQC</text>
+<text
+     x="5.5324855"
+     y="51.331352"
      id="tspan4400-8"
      gorn="0.1.0.0.0.17.0.0.0.1.0.0.0.3.0.0.0.0"
-     style="font-style:normal;font-weight:normal;font-size:1.71241px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;stroke-width:0.839208;stroke-linecap:butt;stroke-linejoin:miter"
-     transform="scale(1.2367738,0.80855527)">10A  250VAC   10A  125VAC</text><text
-     x="5.5471663"
-     y="52.820892"
+     style="font-style:normal;font-weight:normal;font-size:1.74463832px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;stroke-width:0.85500228;stroke-linecap:butt;stroke-linejoin:miter"
+     transform="scale(1.2600505,0.79361899)">10A  250VAC   10A  125VAC</text>
+<text
+     x="5.3240585"
+     y="54.862492"
      id="tspan4400-3-0"
      gorn="0.1.0.0.0.17.0.0.0.1.0.0.0.4.0.0.0.0"
-     style="font-style:normal;font-weight:normal;font-size:1.61986px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;stroke-width:0.793856;stroke-linecap:butt;stroke-linejoin:miter"
-     transform="scale(1.2594775,0.79398007)">10A    30VDC   10A   28VDC</text><text
-     x="4.743257"
-     y="60.811153"
+     style="font-style:normal;font-weight:normal;font-size:1.68246984px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;stroke-width:0.8245396;stroke-linecap:butt;stroke-linejoin:miter"
+     transform="scale(1.3081579,0.76443369)">10A    30VDC   10A   28VDC</text>
+<text
+     x="4.9108353"
+     y="58.878452"
      id="tspan4422-4"
      gorn="0.1.0.0.0.17.0.0.0.1.0.0.0.5.0.0.0.0"
-     transform="scale(1.382602,0.72327396)"
-     style="font-size:2.81013px;stroke-width:1.37718">SRD-05VDC-SL-C</text></g>
+     transform="scale(1.33866,0.74701565)"
+     style="font-size:2.72081828px;stroke-width:1.33341038">SRD-05VDC-SL-C</text>
+</g>
                                                                 </g>
                                                             </g>
                                                         </g>
@@ -1160,17 +1177,12 @@
                                             <g
    id="g992">
                                                 <rect
-   stroke="#ddd3d3"
-   fill="#000000"
-   style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+   style="fill:#000000;fill-opacity:1;stroke:#ddd3d3;stroke-width:0.192426;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    height="6.0393486"
    width="1.5031933"
-   x="34.686447"
-   stroke-width="0.192426"
-   y="-8.0954351"
+   x="34.682308"
+   y="-9.3814259"
    id="rect4775"
-   fill-opacity="1"
-   stroke-opacity="1"
    gorn="0.1.0.0.0.21.0.0.0.0.0.0.0"
    transform="matrix(-0.00457851,0.99998952,-0.99999342,0.00362854,0,0)" />
                                             </g>
@@ -1184,17 +1196,12 @@
                                             <g
    id="g999">
                                                 <rect
-   stroke="#66d0ed"
-   fill="none"
-   style="stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+   style="fill:none;fill-opacity:1;stroke:#66d0ed;stroke-width:0.40000299;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    height="3.3942134"
    width="0.87358862"
-   x="34.996071"
-   stroke-width="0.400003"
-   y="-7.4669714"
+   x="34.990837"
+   y="-8.7529631"
    id="rect4848"
-   fill-opacity="1"
-   stroke-opacity="1"
    gorn="0.1.0.0.0.21.0.0.0.1.0.0.0"
    transform="matrix(-0.00275898,0.99999619,-0.99999616,0.00277027,0,0)" />
                                             </g>
@@ -1203,7 +1210,7 @@
                                     <ellipse
    style="fill:#aca793;fill-opacity:1"
    id="path4205-5-5-7-9-5"
-   cx="-6.2991104"
+   cx="-7.5851178"
    cy="-35.459641"
    gorn="0.1.0.0.0.21.0.0.0.2"
    rx="0.30424127"
@@ -1212,7 +1219,7 @@
                                     <ellipse
    style="fill:#aca793;fill-opacity:1"
    id="path4205-5-5-7-9-5-3"
-   cx="-4.5503001"
+   cx="-5.8363075"
    cy="-35.457008"
    gorn="0.1.0.0.0.21.0.0.0.3"
    rx="0.30424127"
@@ -1898,6 +1905,7 @@
    y="54.751587"
    id="tspan4390-3"
    gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.0.0.0.0.0">SONGLE</text>
+
                                                                 </g>
                                                             </g>
                                                         </g>
@@ -1934,10 +1942,11 @@
    xml:space="preserve"
    gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.2.0.0.0">
                                                                     <text
-   x="7.8129954"
+   x="7.639595"
    y="41.086338"
    id="tspan4396-6"
    gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.2.0.0.0.0">CQC</text>
+
                                                                 </g>
                                                             </g>
                                                         </g>
@@ -1961,12 +1970,13 @@
    xml:space="preserve"
    gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.3.0.0.0">
                                                                     <text
-   x="6.2395902"
-   y="43.314064"
+   x="6.1126456"
+   y="44.169041"
    id="tspan4400-0"
    gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.3.0.0.0.0"
-   transform="scale(1.0037734,0.99624081)"
-   style="font-size:1.16185px;stroke-width:0.999837;-inkscape-font-specification:'Droid Sans, @wght=400';font-family:'Droid Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variation-settings:'wght' 400;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">10A  250VAC   10A  125VAC</text>
+   transform="scale(1.0235868,0.9769567)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.1847837px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;stroke-width:1.01957273">10A  250VAC   10A  125VAC</text>
+
                                                                 </g>
                                                             </g>
                                                         </g>
@@ -1990,12 +2000,13 @@
    xml:space="preserve"
    gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.4.0.0.0">
                                                                     <text
-   x="6.465435"
-   y="43.335953"
+   x="6.2263927"
+   y="44.91877"
    id="tspan4400-3-06"
    gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.4.0.0.0.0"
-   transform="scale(0.97598852,1.0246022)"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.15154px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;stroke-width:0.972161">10A    30VDC   10A   28VDC</text>
+   transform="scale(1.0116359,0.98849792)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.19359934px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;stroke-width:1.00766861">10A    30VDC   10A   28VDC</text>
+
                                                                 </g>
                                                             </g>
                                                         </g>
@@ -2019,12 +2030,13 @@
    xml:space="preserve"
    gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.5.0.0.0">
                                                                     <text
-   x="6.0756884"
-   y="46.625988"
+   x="6.276823"
+   y="45.194263"
    id="tspan4422-6"
    gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.5.0.0.0.0"
-   transform="scale(1.0439451,0.95790478)"
-   style="font-size:2.12182px;stroke-width:1.03985">SRD-05VDC-SL-C</text>
+   transform="scale(1.0118892,0.98825054)"
+   style="font-size:2.05666614px;stroke-width:1.00791979">SRD-05VDC-SL-C</text>
+
                                                                 </g>
                                                             </g>
                                                         </g>
@@ -2259,6 +2271,7 @@
    y="54.772221"
    id="tspan4390-2-7"
    gorn="0.1.0.0.0.46.0.0.0.1.0.0.0.0.0.0.0.0">SONGLE</text>
+
                                                                 </g>
                                                             </g>
                                                         </g>
@@ -2295,10 +2308,11 @@
    xml:space="preserve"
    gorn="0.1.0.0.0.46.0.0.0.1.0.0.0.2.0.0.0">
                                                                     <text
-   x="7.8129954"
+   x="7.639595"
    y="40.956779"
    id="tspan4396-3-1"
    gorn="0.1.0.0.0.46.0.0.0.1.0.0.0.2.0.0.0.0">CQC</text>
+
                                                                 </g>
                                                             </g>
                                                         </g>
@@ -2322,12 +2336,13 @@
    xml:space="preserve"
    gorn="0.1.0.0.0.46.0.0.0.1.0.0.0.3.0.0.0">
                                                                     <text
-   x="6.7839918"
-   y="42.507862"
+   x="5.9911962"
+   y="44.057812"
    id="tspan4400-8-6"
    gorn="0.1.0.0.0.46.0.0.0.1.0.0.0.3.0.0.0.0"
-   transform="scale(0.9880637,1.0120805)"
-   style="font-size:1.15032px;stroke-width:0.984189">10A  250VAC   10A  125VAC</text>
+   transform="scale(1.0240911,0.9764756)"
+   style="font-size:1.19226384px;stroke-width:1.02007508">10A  250VAC   10A  125VAC</text>
+
                                                                 </g>
                                                             </g>
                                                         </g>
@@ -2351,12 +2366,13 @@
    xml:space="preserve"
    gorn="0.1.0.0.0.46.0.0.0.1.0.0.0.4.0.0.0">
                                                                     <text
-   x="6.9205632"
-   y="42.891014"
+   x="6.0604167"
+   y="45.245701"
    id="tspan4400-3-0-1"
    gorn="0.1.0.0.0.46.0.0.0.1.0.0.0.4.0.0.0.0"
-   transform="scale(0.96880694,1.0321974)"
-   style="font-size:1.1279px;stroke-width:0.965007">10A    30VDC   10A   28VDC</text>
+   transform="scale(1.0219938,0.97847954)"
+   style="font-size:1.18982089px;stroke-width:1.01798522">10A    30VDC   10A   28VDC</text>
+
                                                                 </g>
                                                             </g>
                                                         </g>
@@ -2380,12 +2396,13 @@
    xml:space="preserve"
    gorn="0.1.0.0.0.46.0.0.0.1.0.0.0.5.0.0.0">
                                                                     <text
-   x="6.081378"
-   y="46.45396"
+   x="6.2872095"
+   y="44.996445"
    id="tspan4422-4-0"
    gorn="0.1.0.0.0.46.0.0.0.1.0.0.0.5.0.0.0.0"
-   transform="scale(1.0430094,0.95876413)"
-   style="font-size:2.11992px;stroke-width:1.03892">SRD-05VDC-SL-C</text>
+   transform="scale(1.0102845,0.9898202)"
+   style="font-size:2.05340648px;stroke-width:1.00632346">SRD-05VDC-SL-C</text>
+
                                                                 </g>
                                                             </g>
                                                         </g>
@@ -2434,7 +2451,8 @@
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.69598px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, @wght=400';letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;stroke-width:0.474665;stroke-linecap:butt;stroke-linejoin:miter;font-variation-settings:'wght' 400;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
      transform="matrix(0,-1.0689485,0.93549876,0,0,0)"><tspan
        sodipodi:role="line"
-       id="tspan734">K6</tspan></text><path
+       id="tspan734">K6</tspan></text>
+<path
      stroke="#ffffff"
      fill="none"
      style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
@@ -2458,7 +2476,8 @@
      style="font-style:normal;font-weight:normal;font-size:5.26592px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:0.438827;stroke-linecap:butt;stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, @wght=400';font-stretch:normal;font-variant:normal;font-variation-settings:'wght' 400;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
      transform="matrix(0,-0.91168786,1.0968666,0,0,0)"><tspan
        sodipodi:role="line"
-       id="tspan732">K5</tspan></text></g><g
+       id="tspan732">K5</tspan></text>
+</g><g
    id="g789"><rect
      style="display:inline;fill:#00a7ff;fill-opacity:1;stroke-width:0.955399"
      height="53.695805"
@@ -2472,7 +2491,8 @@
      id="tspan4390-3-2"
      gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.0.0.0.0.0"
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.87032px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Times New Roman, Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;stroke-width:0.57253;stroke-linecap:butt;stroke-linejoin:miter"
-     transform="scale(1.181487,0.84639107)">SONGLE</text><ellipse
+     transform="scale(1.181487,0.84639107)">SONGLE</text>
+<ellipse
      rx="6.4059258"
      stroke="#ffffff"
      ry="3.7814581"
@@ -2485,30 +2505,34 @@
      cx="35.324837"
      cy="-25.451305"
      gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.1" /><text
-     x="35.113304"
+     x="34.142391"
      y="-21.090441"
      id="tspan4396-6-2"
      gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.2.0.0.0.0"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.90681px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;stroke-width:0.408901;stroke-linecap:butt;stroke-linejoin:miter"
-     transform="scale(0.89184983,1.121265)">CQC</text><text
-     x="24.427122"
-     y="-12.01861"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.90680981px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;stroke-width:0.40890101;stroke-linecap:butt;stroke-linejoin:miter"
+     transform="scale(0.89184983,1.121265)">CQC</text>
+<text
+     x="24.948982"
+     y="-11.785106"
      id="tspan4400-0-2"
      gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.3.0.0.0.0"
-     transform="scale(0.9806985,1.0196814)"
-     style="font-style:normal;font-weight:normal;font-size:7.10979px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:6.08295;stroke-linecap:butt;stroke-linejoin:miter">10A 250VAC 10A 125VAC</text><text
-     x="22.294811"
-     y="-5.063077"
+     transform="scale(0.96164491,1.0398849)"
+     style="font-style:normal;font-weight:normal;font-size:6.9716568px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:5.96476698;stroke-linecap:butt;stroke-linejoin:miter">10A 250VAC 10A 125VAC</text>
+<text
+     x="25.096714"
+     y="-3.948879"
      id="tspan4400-3-06-5"
      gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.4.0.0.0.0"
-     transform="scale(1.056442,0.94657349)"
-     style="font-style:normal;font-weight:normal;font-size:7.33459px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:6.27531;stroke-linecap:butt;stroke-linejoin:miter">10A 30VDC 10A 28VDC</text><text
-     x="25.109161"
-     y="7.3001304"
+     transform="scale(0.9430911,1.060343)"
+     style="font-style:normal;font-weight:normal;font-size:7.31539726px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:6.2588892;stroke-linecap:butt;stroke-linejoin:miter">10A  30VDC 10A  28VDC</text>
+<text
+     x="26.048794"
+     y="7.0510626"
      id="tspan4422-6-6"
      gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.5.0.0.0.0"
-     transform="scale(0.91820357,1.0890831)"
-     style="font-style:normal;font-weight:normal;font-size:11.5967px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:5.68322;stroke-linecap:butt;stroke-linejoin:miter;fill:#f9f9f9;">SRD-05VDC-SL-C</text></g><g
+     transform="scale(0.88687605,1.1275533)"
+     style="font-style:normal;font-weight:normal;font-size:11.20104027px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;stroke-width:5.48931837;stroke-linecap:butt;stroke-linejoin:miter">SRD-05VDC-SL-C</text>
+</g><g
    id="g1271"><rect
      stroke="#ffffff"
      fill="#007dff"
@@ -2661,7 +2685,8 @@
      id="tspan4390-2-7-8"
      gorn="0.1.0.0.0.46.0.0.0.1.0.0.0.0.0.0.0.0"
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.80921px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Times New Roman, Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;stroke-width:0.56743;stroke-linecap:butt;stroke-linejoin:miter"
-     transform="scale(1.2683677,0.78841491)">SONGLE</text><ellipse
+     transform="scale(1.2683677,0.78841491)">SONGLE</text>
+<ellipse
      rx="6.4059258"
      stroke="#ffffff"
      ry="3.7952709"
@@ -2674,30 +2699,34 @@
      cx="35.539761"
      cy="28.9771"
      gorn="0.1.0.0.0.46.0.0.0.1.0.0.0.1" /><text
-     x="32.919197"
+     x="32.014847"
      y="29.629042"
      id="tspan4396-3-1-0"
      gorn="0.1.0.0.0.46.0.0.0.1.0.0.0.2.0.0.0.0"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.84153px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:0.403461;stroke-linecap:butt;stroke-linejoin:miter"
-     transform="scale(0.95749379,1.0443932)">CQC</text><text
-     x="24.062725"
-     y="42.222267"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.84152985px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:0.40346101;stroke-linecap:butt;stroke-linejoin:miter"
+     transform="scale(0.95749379,1.0443932)">CQC</text>
+<text
+     x="24.507296"
+     y="41.510796"
      id="tspan4400-8-6-9"
      gorn="0.1.0.0.0.46.0.0.0.1.0.0.0.3.0.0.0.0"
-     transform="scale(0.9999588,1.0000412)"
-     style="font-style:normal;font-weight:normal;font-size:6.9678px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:5.9615;stroke-linecap:butt;stroke-linejoin:miter">10A 250VAC 10A 125VAC</text><text
-     x="22.795542"
-     y="52.313416"
+     transform="scale(0.98310884,1.0171814)"
+     style="font-style:normal;font-weight:normal;font-size:6.85038805px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:5.86104488;stroke-linecap:butt;stroke-linejoin:miter">10A 250VAC 10A 125VAC</text>
+<text
+     x="24.213396"
+     y="49.477013"
      id="tspan4400-3-0-1-7"
      gorn="0.1.0.0.0.46.0.0.0.1.0.0.0.4.0.0.0.0"
-     transform="scale(1.0523857,0.95022198)"
-     style="font-style:normal;font-weight:normal;font-size:7.33311px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;stroke-width:6.27405;stroke-linecap:butt;stroke-linejoin:miter">10A 30VDC 10A 28VDC</text><text
-     x="25.413595"
-     y="57.23082"
+     transform="scale(0.99532588,1.0046961)"
+     style="font-style:normal;font-weight:normal;font-size:6.93551254px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;stroke-width:5.93387461;stroke-linecap:butt;stroke-linejoin:miter">10A  30VDC 10A  28VDC</text>
+<text
+     x="26.285217"
+     y="55.435173"
      id="tspan4422-4-0-4"
      gorn="0.1.0.0.0.46.0.0.0.1.0.0.0.5.0.0.0.0"
-     transform="scale(0.91570965,1.0920492)"
-     style="font-style:normal;font-weight:normal;font-size:11.6074px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:5.6885;stroke-linecap:butt;stroke-linejoin:miter;fill:#ffffff;">SRD-05VDC-SL-C</text></g><g
+     transform="scale(0.88697881,1.1274226)"
+     style="font-style:normal;font-weight:normal;font-size:11.24321175px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:5.51002026;stroke-linecap:butt;stroke-linejoin:miter">SRD-05VDC-SL-C</text>
+</g><g
    id="g789-6"
    transform="matrix(1,0,0,0.97982865,-0.15473099,-55.558478)"><rect
      style="display:inline;fill:#00a7ff;fill-opacity:1;stroke-width:0.955399"
@@ -2712,7 +2741,8 @@
      id="tspan4390-3-2-7"
      gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.0.0.0.0.0"
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.87032px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Times New Roman, Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;stroke-width:0.57253;stroke-linecap:butt;stroke-linejoin:miter"
-     transform="scale(1.181487,0.84639107)">SONGLE</text><ellipse
+     transform="scale(1.181487,0.84639107)">SONGLE</text>
+<ellipse
      rx="6.4059258"
      stroke="#ffffff"
      ry="3.7814581"
@@ -2725,30 +2755,34 @@
      cx="35.324837"
      cy="-25.451305"
      gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.1" /><text
-     x="35.113304"
+     x="34.142391"
      y="-21.090441"
      id="tspan4396-6-2-7"
      gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.2.0.0.0.0"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.90681px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;stroke-width:0.408901;stroke-linecap:butt;stroke-linejoin:miter"
-     transform="scale(0.89184983,1.121265)">CQC</text><text
-     x="24.427122"
-     y="-12.01861"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.90680981px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;stroke-width:0.40890101;stroke-linecap:butt;stroke-linejoin:miter"
+     transform="scale(0.89184983,1.121265)">CQC</text>
+<text
+     x="24.948982"
+     y="-11.785106"
      id="tspan4400-0-2-4"
      gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.3.0.0.0.0"
-     transform="scale(0.9806985,1.0196814)"
-     style="font-style:normal;font-weight:normal;font-size:7.10979px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:6.08295;stroke-linecap:butt;stroke-linejoin:miter">10A 250VAC 10A 125VAC</text><text
-     x="22.294811"
-     y="-5.063077"
+     transform="scale(0.96164491,1.0398849)"
+     style="font-style:normal;font-weight:normal;font-size:6.9716568px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:5.96476698;stroke-linecap:butt;stroke-linejoin:miter">10A 250VAC 10A 125VAC</text>
+<text
+     x="25.074713"
+     y="-3.9400134"
      id="tspan4400-3-06-5-6"
      gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.4.0.0.0.0"
-     transform="scale(1.056442,0.94657349)"
-     style="font-style:normal;font-weight:normal;font-size:7.33459px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:6.27531;stroke-linecap:butt;stroke-linejoin:miter">10A 30VDC 10A 28VDC</text><text
-     x="25.109161"
-     y="7.3001304"
+     transform="scale(0.94378294,1.0595657)"
+     style="font-style:normal;font-weight:normal;font-size:7.33658171px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:6.27701378;stroke-linecap:butt;stroke-linejoin:miter">10A  30VDC 10A  28VDC</text>
+<text
+     x="26.048794"
+     y="7.0510626"
      id="tspan4422-6-6-9"
      gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.5.0.0.0.0"
-     transform="scale(0.91820357,1.0890831)"
-     style="font-style:normal;font-weight:normal;font-size:11.5967px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;stroke-width:5.68322;stroke-linecap:butt;stroke-linejoin:miter">SRD-05VDC-SL-C</text></g><g
+     transform="scale(0.88687605,1.1275533)"
+     style="font-style:normal;font-weight:normal;font-size:11.20104027px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;stroke-width:5.48931837;stroke-linecap:butt;stroke-linejoin:miter">SRD-05VDC-SL-C</text>
+</g><g
    id="g789-65"
    transform="matrix(1,0,0,0.97694703,-0.15115049,-110.29926)"><rect
      style="display:inline;fill:#00a7ff;fill-opacity:1;stroke-width:0.955399"
@@ -2763,7 +2797,8 @@
      id="tspan4390-3-2-1"
      gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.0.0.0.0.0"
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.87032px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Times New Roman, Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;stroke-width:0.57253;stroke-linecap:butt;stroke-linejoin:miter"
-     transform="scale(1.181487,0.84639107)">SONGLE</text><ellipse
+     transform="scale(1.181487,0.84639107)">SONGLE</text>
+<ellipse
      rx="6.4059258"
      stroke="#ffffff"
      ry="3.7814581"
@@ -2776,30 +2811,34 @@
      cx="35.324837"
      cy="-25.451305"
      gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.1" /><text
-     x="35.113304"
+     x="34.142391"
      y="-21.090441"
      id="tspan4396-6-2-8"
      gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.2.0.0.0.0"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.90681px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;stroke-width:0.408901;stroke-linecap:butt;stroke-linejoin:miter"
-     transform="scale(0.89184983,1.121265)">CQC</text><text
-     x="24.427122"
-     y="-12.01861"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.90680981px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;stroke-width:0.40890101;stroke-linecap:butt;stroke-linejoin:miter"
+     transform="scale(0.89184983,1.121265)">CQC</text>
+<text
+     x="24.99794"
+     y="-11.763648"
      id="tspan4400-0-2-2"
      gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.3.0.0.0.0"
-     transform="scale(0.9806985,1.0196814)"
-     style="font-style:normal;font-weight:normal;font-size:7.10979px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:6.08295;stroke-linecap:butt;stroke-linejoin:miter">10A 250VAC 10A 125VAC</text><text
-     x="22.294811"
-     y="-5.063077"
+     transform="scale(0.95989401,1.0417817)"
+     style="font-style:normal;font-weight:normal;font-size:6.95896339px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:5.95390701;stroke-linecap:butt;stroke-linejoin:miter">10A 250VAC 10A 125VAC</text>
+<text
+     x="25.099127"
+     y="-3.9346981"
      id="tspan4400-3-06-5-1"
      gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.4.0.0.0.0"
-     transform="scale(1.056442,0.94657349)"
-     style="font-style:normal;font-weight:normal;font-size:7.33459px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:6.27531;stroke-linecap:butt;stroke-linejoin:miter">10A 30VDC 10A 28VDC</text><text
-     x="25.109161"
-     y="7.3001304"
+     transform="scale(0.94292144,1.0605337)"
+     style="font-style:normal;font-weight:normal;font-size:7.33219528px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:6.27326107;stroke-linecap:butt;stroke-linejoin:miter">10A  30VDC 10A  28VDC</text>
+<text
+     x="26.048794"
+     y="7.0510626"
      id="tspan4422-6-6-6"
      gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.5.0.0.0.0"
-     transform="scale(0.91820357,1.0890831)"
-     style="font-style:normal;font-weight:normal;font-size:11.5967px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;stroke-width:5.68322;stroke-linecap:butt;stroke-linejoin:miter">SRD-05VDC-SL-C</text></g><g
+     transform="scale(0.88687605,1.1275533)"
+     style="font-style:normal;font-weight:normal;font-size:11.20104027px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;stroke-width:5.48931837;stroke-linecap:butt;stroke-linejoin:miter">SRD-05VDC-SL-C</text>
+</g><g
    id="g1271-7"
    transform="translate(0.0027257,-109.50125)"><rect
      stroke="#ffffff"
@@ -2965,7 +3004,8 @@
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.69598px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;stroke-width:0.474665;stroke-linecap:butt;stroke-linejoin:miter;"
      transform="matrix(0,-1.0689485,0.93549876,0,0,0)"><tspan
        sodipodi:role="line"
-       id="tspan1410">K8</tspan></text><path
+       id="tspan1410">K8</tspan></text>
+<path
      stroke="#ffffff"
      fill="none"
      style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
@@ -2989,7 +3029,8 @@
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26592px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:0.438827;stroke-linecap:butt;stroke-linejoin:miter;"
      transform="matrix(0,-0.91168786,1.0968666,0,0,0)"><tspan
        sodipodi:role="line"
-       id="tspan1408">K7</tspan></text></g><g
+       id="tspan1408">K7</tspan></text>
+</g><g
    id="g1504-6"
    transform="matrix(1,0,0,0.91278784,0.33094978,119.7819)"><rect
      stroke="#625862"
@@ -4570,9 +4611,9 @@
    id="path4681-6-3-1-2-3-3-2-2-21"
    stroke-opacity="1"
    gorn="0.1.0.0.0.41.0.0.0.2" /><ellipse
-   style="fill:#aca793;fill-opacity:1;stroke-width:4.7085"
+   style="fill:#aca793;fill-opacity:1;stroke-width:4.70849991"
    id="path4205-5-5-7-9-5-3-4"
-   cx="-114.67471"
+   cx="-120.73603"
    cy="-169.9158"
    gorn="0.1.0.0.0.21.0.0.0.3"
    rx="1.4339848"
