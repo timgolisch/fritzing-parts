@@ -7,11 +7,11 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 172.54902 292.63158"
+   viewBox="0 -68 163 430"
    enable-background="new 0 0 80 80"
-   height="278mm"
+   height="138mm"
    x="0px"
-   width="110mm"
+   width="57mm"
    y="0px"
    id="Layer_1"
    xml:space="preserve"
@@ -27,489 +27,60 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1600"
-   inkscape:window-height="961"
+   inkscape:window-width="1386"
+   inkscape:window-height="893"
    id="namedview65"
    showgrid="false"
-   inkscape:zoom="1.8093444"
-   inkscape:cx="110.81575"
-   inkscape:cy="141.74852"
-   inkscape:window-x="-8"
-   inkscape:window-y="-8"
-   inkscape:window-maximized="1"
-   inkscape:current-layer="Layer_1" />
-    <desc
-   id="desc2">
-        <referenceFile>4-Channel_relay-5v10a_pcb.svg</referenceFile>
+   inkscape:zoom="1.2793997"
+   inkscape:cx="171.86824"
+   inkscape:cy="946.07319"
+   inkscape:window-x="77"
+   inkscape:window-y="19"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="layer1" />
+    <desc id="desc2">
+        <referenceFile>8-Channel_relay-5v10a_pcb.svg</referenceFile>
     </desc>
-    <metadata
-   id="metadata8802">
-        <rdf:RDF>
-            <cc:Work
-   rdf:about="">
-                <dc:format>image/svg+xml</dc:format>
-                <dc:type
-   rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-            <dc:title /></cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <defs
-   id="defs8800" />
-    <g
-   transform="matrix(1.5795635,0,0,1.0436819,0.00583809,0.49082362)"
-   id="g15">
-        <g
-   id="g13">
-            <g
-   id="g11">
-                <g
-   id="silkscreen"
-   gorn="0.3.0.0.0">
-                    <line
-   stroke="#ffffff"
-   fill="none"
-   stroke-width="0.75"
-   id="line8767"
-   y1="0.72000003"
-   y2="75.279999"
-   gorn="0.3.0.0.0.0"
-   x1="0.72000003"
-   x2="0.72000003" />
-                    <line
-   stroke="#ffffff"
-   fill="none"
-   stroke-width="0.75"
-   id="line8769"
-   y1="75.279999"
-   y2="75.279999"
-   gorn="0.3.0.0.0.1"
-   x1="0.72000003"
-   x2="50.279999" />
-                    <line
-   stroke="#ffffff"
-   fill="none"
-   stroke-width="0.75"
-   id="line8771"
-   y1="75.279999"
-   y2="0.72000003"
-   gorn="0.3.0.0.0.2"
-   x1="50.279999"
-   x2="50.279999" />
-                    <line
-   stroke="#ffffff"
-   fill="none"
-   stroke-width="0.75"
-   id="line8773"
-   y1="0.72000003"
-   y2="0.72000003"
-   gorn="0.3.0.0.0.3"
-   x1="0.72000003"
-   x2="50.279999" />
-                </g>
-            </g>
-        </g>
-    </g>
     
-    <g
-   transform="translate(1,1)"
-   id="g48">
-        <g
-   id="g46">
-            <g
-   id="g44">
-                <g
-   id="keepout"
-   gorn="0.5.0.0.0" />
-            </g>
-        </g>
-    </g>
-    <g
-   transform="translate(1,1)"
-   id="g55">
-        <g
-   id="g53">
-            <g
-   id="g51">
-                <g
-   id="soldermask"
-   gorn="0.6.0.0.0" />
-            </g>
-        </g>
-    </g>
-    <g
-   transform="translate(1,1)"
-   id="g62">
-        <g
-   id="g60">
-            <g
-   id="g58">
-                <g
-   id="outline"
-   gorn="0.7.0.0.0" />
-            </g>
-        </g>
-    </g>
-<ellipse
-   stroke="#ffbf00"
-   fill="none"
-   stroke-width="3.41777"
-   id="connector1pin5"
-   cx="160.82867"
-   cy="163.47887"
-   gorn="0.4.0.0.0.0.12"
-   rx="3.7895226"
-   ry="3.9012673" /><ellipse
-   stroke="#ffbf00"
-   fill="none"
-   stroke-width="3.41777"
-   id="connector1pin4"
-   cx="160.82867"
-   cy="174.31572"
-   gorn="0.4.0.0.0.0.13"
-   rx="3.7895226"
-   ry="3.9012673" /><ellipse
-   stroke="#ffbf00"
-   fill="none"
-   stroke-width="3.41777"
-   id="connector1pin3"
-   cx="160.82867"
-   cy="185.15259"
-   gorn="0.4.0.0.0.0.14"
-   rx="3.7895226"
-   ry="3.9012673" /><ellipse
-   stroke="#ffbf00"
-   fill="none"
-   stroke-width="3.41777"
-   id="connector1pin2"
-   cx="160.82867"
-   cy="195.98943"
-   gorn="0.4.0.0.0.0.15"
-   rx="3.7895226"
-   ry="3.9012673" /><ellipse
-   stroke="#ffbf00"
-   fill="none"
-   stroke-width="3.41777"
-   id="connector1pin1"
-   cx="160.82867"
-   cy="206.82628"
-   gorn="0.4.0.0.0.0.16"
-   rx="3.7895226"
-   ry="3.9012673" /><ellipse
-   stroke="#ffbf00"
-   fill="none"
-   stroke-width="3.41777"
-   id="connector1pin0"
-   cx="160.82867"
-   cy="217.66316"
-   gorn="0.4.0.0.0.0.17"
-   rx="3.7895226"
-   ry="3.9012673" /><ellipse
-   id="connector0pin2"
-   cx="162.40312"
-   cy="-52.765308"
-   gorn="0.4.0.0.0.0.12"
-   rx="3.7895226"
-   ry="3.9012673"
-   style="fill:none;stroke:#ffbf00;stroke-width:3.41776991" /><ellipse
-   id="connector0pin1"
-   cx="162.40312"
-   cy="-41.928452"
-   gorn="0.4.0.0.0.0.13"
-   rx="3.7895226"
-   ry="3.9012673"
-   style="fill:none;stroke:#ffbf00;stroke-width:3.41776991" /><ellipse
-   stroke="#ffbf00"
-   fill="none"
-   stroke-width="3.41777"
-   id="connector1pin9"
-   cx="160.79744"
-   cy="119.89807"
-   gorn="0.4.0.0.0.0.14"
-   rx="3.7895226"
-   ry="3.9012673" /><ellipse
-   stroke="#ffbf00"
-   fill="none"
-   stroke-width="3.41777"
-   id="connector1pin8"
-   cx="160.79744"
-   cy="130.73491"
-   gorn="0.4.0.0.0.0.15"
-   rx="3.7895226"
-   ry="3.9012673" /><ellipse
-   stroke="#ffbf00"
-   fill="none"
-   stroke-width="3.41777"
-   id="connector1pin7"
-   cx="160.79744"
-   cy="141.57176"
-   gorn="0.4.0.0.0.0.16"
-   rx="3.7895226"
-   ry="3.9012673" /><ellipse
-   stroke="#ffbf00"
-   fill="none"
-   stroke-width="3.41777"
-   id="connector1pin6"
-   cx="160.79744"
-   cy="152.40865"
-   gorn="0.4.0.0.0.0.17"
-   rx="3.7895226"
-   ry="3.9012673" /><ellipse
-   id="connector0pin0"
-   cx="162.40311"
-   cy="-30.719563"
-   gorn="0.4.0.0.0.0.13"
-   rx="3.7895226"
-   ry="3.9012673"
-   style="fill:none;stroke:#ffbf00;stroke-width:3.41776991" /><g
-   id="blockK1-2"
-   transform="matrix(0.68337116,0,0,0.86919744,-18.604569,309.59621)"
-   inkscape:label="blockK1-2"><ellipse
-     stroke="#ffbf00"
-     fill="none"
-     stroke-width="4.76704"
-     id="connectorK2-pin-3"
-     cx="42.665222"
-     cy="-52.450752"
-     gorn="0.4.0.0.0.0.0"
-     rx="6.2921515"
-     ry="6.1231713"
-     inkscape:label="connectorK2-pin-3" /><ellipse
-     stroke="#ffbf00"
-     fill="none"
-     stroke-width="4.76704"
-     id="connectorK2-pin-2"
-     cx="42.665222"
-     cy="-32.040184"
-     gorn="0.4.0.0.0.0.1"
-     rx="6.2921515"
-     ry="6.1231713"
-     inkscape:label="connectorK2-pin-2" /><ellipse
-     stroke="#ffbf00"
-     fill="none"
-     stroke-width="4.76704"
-     id="connectorK2-pin-1"
-     cx="42.665222"
-     cy="-11.629608"
-     gorn="0.4.0.0.0.0.2"
-     rx="6.2921515"
-     ry="6.1231713"
-     inkscape:label="connectorK2-pin-1" /><ellipse
-     stroke="#ffbf00"
-     fill="none"
-     stroke-width="4.76704"
-     id="connectorK1-pin-3"
-     cx="42.665222"
-     cy="8.794488"
-     gorn="0.4.0.0.0.0.0"
-     rx="6.2921515"
-     ry="6.1231713"
-     inkscape:label="connectorK1-pin-3" /><ellipse
-     stroke="#ffbf00"
-     fill="none"
-     stroke-width="4.76704"
-     id="connectorK1-pin-2"
-     cx="42.665222"
-     cy="29.205057"
-     gorn="0.4.0.0.0.0.1"
-     rx="6.2921515"
-     ry="6.1231713"
-     inkscape:label="connectorK1-pin-2" /><ellipse
-     stroke="#ffbf00"
-     fill="none"
-     stroke-width="4.76704"
-     id="connectorK1-pin-1"
-     cx="42.665222"
-     cy="49.615635"
-     gorn="0.4.0.0.0.0.2"
-     rx="6.2921515"
-     ry="6.1231713"
-     inkscape:label="connectorK1-pin-1" /></g><g
-   id="blockK3-4"
-   transform="matrix(0.71130255,0,0,0.88816888,-19.681575,201.23968)"
-   inkscape:label="blockK3-4"><ellipse
-     stroke="#ffbf00"
-     fill="none"
-     stroke-width="4.76704"
-     id="connectorK4-pin-3"
-     cx="42.665222"
-     cy="-52.450752"
-     gorn="0.4.0.0.0.0.0"
-     rx="6.2921515"
-     ry="6.1231713"
-     inkscape:label="connectorK4-pin-3" /><ellipse
-     stroke="#ffbf00"
-     fill="none"
-     stroke-width="4.76704"
-     id="connectorK4-pin-2"
-     cx="42.665222"
-     cy="-32.040184"
-     gorn="0.4.0.0.0.0.1"
-     rx="6.2921515"
-     ry="6.1231713"
-     inkscape:label="connectorK4-pin-2" /><ellipse
-     stroke="#ffbf00"
-     fill="none"
-     stroke-width="4.76704"
-     id="connectorK4-pin-1"
-     cx="42.665222"
-     cy="-11.629608"
-     gorn="0.4.0.0.0.0.2"
-     rx="6.2921515"
-     ry="6.1231713"
-     inkscape:label="connectorK4-pin-1" /><ellipse
-     stroke="#ffbf00"
-     fill="none"
-     stroke-width="4.76704"
-     id="connectorK3-pin-3"
-     cx="42.665222"
-     cy="8.794488"
-     gorn="0.4.0.0.0.0.0"
-     rx="6.2921515"
-     ry="6.1231713"
-     inkscape:label="connectorK3-pin-3" /><ellipse
-     stroke="#ffbf00"
-     fill="none"
-     stroke-width="4.76704"
-     id="connectorK3-pin-2"
-     cx="42.665222"
-     cy="29.205057"
-     gorn="0.4.0.0.0.0.1"
-     rx="6.2921515"
-     ry="6.1231713"
-     inkscape:label="connectorK3-pin-2" /><ellipse
-     stroke="#ffbf00"
-     fill="none"
-     stroke-width="4.76704"
-     id="connectorK3-pin-1"
-     cx="42.665222"
-     cy="49.615635"
-     gorn="0.4.0.0.0.0.2"
-     rx="6.2921515"
-     ry="6.1231713"
-     inkscape:label="connectorK3-pin-1" /></g><g
-   id="blockK5-6"
-   transform="matrix(0.7272911,0,0,0.88387706,-20.249039,92.964849)"
-   inkscape:label="blockK5-6"><ellipse
-     stroke="#ffbf00"
-     fill="none"
-     stroke-width="4.76704"
-     id="connectorK6-pin-3"
-     cx="42.665222"
-     cy="-52.450752"
-     gorn="0.4.0.0.0.0.0"
-     rx="6.2921515"
-     ry="6.1231713"
-     inkscape:label="connectorK6-pin-3" /><ellipse
-     stroke="#ffbf00"
-     fill="none"
-     stroke-width="4.76704"
-     id="connectorK6-pin-2"
-     cx="42.665222"
-     cy="-32.040184"
-     gorn="0.4.0.0.0.0.1"
-     rx="6.2921515"
-     ry="6.1231713"
-     inkscape:label="connectorK6-pin-2" /><ellipse
-     stroke="#ffbf00"
-     fill="none"
-     stroke-width="4.76704"
-     id="connectorK6-pin-1"
-     cx="42.665222"
-     cy="-11.629608"
-     gorn="0.4.0.0.0.0.2"
-     rx="6.2921515"
-     ry="6.1231713"
-     inkscape:label="connectorK6-pin-1" /><ellipse
-     stroke="#ffbf00"
-     fill="none"
-     stroke-width="4.76704"
-     id="connectorK5-pin-3"
-     cx="42.665222"
-     cy="8.794488"
-     gorn="0.4.0.0.0.0.0"
-     rx="6.2921515"
-     ry="6.1231713"
-     inkscape:label="connectorK5-pin-3" /><ellipse
-     stroke="#ffbf00"
-     fill="none"
-     stroke-width="4.76704"
-     id="connectorK5-pin-2"
-     cx="42.665222"
-     cy="29.205057"
-     gorn="0.4.0.0.0.0.1"
-     rx="6.2921515"
-     ry="6.1231713"
-     inkscape:label="connectorK5-pin-2" /><ellipse
-     stroke="#ffbf00"
-     fill="none"
-     stroke-width="4.76704"
-     id="connectorK5-pin-1"
-     cx="42.665222"
-     cy="49.615635"
-     gorn="0.4.0.0.0.0.2"
-     rx="6.2921515"
-     ry="6.1231713"
-     inkscape:label="connectorK5-pin-1" /></g><g
-   id="blockK7-8"
-   transform="matrix(0.77403634,0,0,0.88087878,-22.128743,-14.96406)"
-   inkscape:label="blockK7-8"><ellipse
-     stroke="#ffbf00"
-     fill="none"
-     stroke-width="4.76704"
-     id="connectorK8-pin-3"
-     cx="42.665222"
-     cy="-52.450752"
-     gorn="0.4.0.0.0.0.0"
-     rx="6.2921515"
-     ry="6.1231713"
-     inkscape:label="connectorK8-pin-3" /><ellipse
-     stroke="#ffbf00"
-     fill="none"
-     stroke-width="4.76704"
-     id="connectorK8-pin-2"
-     cx="42.665222"
-     cy="-32.040184"
-     gorn="0.4.0.0.0.0.1"
-     rx="6.2921515"
-     ry="6.1231713"
-     inkscape:label="connectorK8-pin-2" /><ellipse
-     stroke="#ffbf00"
-     fill="none"
-     stroke-width="4.76704"
-     id="connectorK8-pin-1"
-     cx="42.665222"
-     cy="-11.629608"
-     gorn="0.4.0.0.0.0.2"
-     rx="6.2921515"
-     ry="6.1231713"
-     inkscape:label="connectorK8-pin-1" /><ellipse
-     stroke="#ffbf00"
-     fill="none"
-     stroke-width="4.76704"
-     id="connectorK7-pin-3"
-     cx="42.665222"
-     cy="8.794488"
-     gorn="0.4.0.0.0.0.0"
-     rx="6.2921515"
-     ry="6.1231713"
-     inkscape:label="connectorK7-pin-3" /><ellipse
-     stroke="#ffbf00"
-     fill="none"
-     stroke-width="4.76704"
-     id="connectorK7-pin-2"
-     cx="42.665222"
-     cy="29.205057"
-     gorn="0.4.0.0.0.0.1"
-     rx="6.2921515"
-     ry="6.1231713"
-     inkscape:label="connectorK7-pin-2" /><ellipse
-     stroke="#ffbf00"
-     fill="none"
-     stroke-width="4.76704"
-     id="connectorK7-pin-1"
-     cx="42.665222"
-     cy="49.615635"
-     gorn="0.4.0.0.0.0.2"
-     rx="6.2921515"
-     ry="6.1231713"
-     inkscape:label="connectorK7-pin-1" /></g></svg>
+   <g inkscape:groupmode="layer" id="copper0" inkscape:label="Copper 0">
+       <circle r="4" stroke="#ffbf00" fill="none" stroke-width="4.76704" id="connectorK8-pin-3" cx="10" cy="-60" gorn="0.4.0.0.0.0.0" rx="6.2921515" ry="6.1231713"/>
+       <circle r="4" stroke="#ffbf00" fill="none" stroke-width="4.76704" id="connectorK8-pin-2" cx="10" cy="-42" gorn="0.4.0.0.0.0.1" rx="6.2921515" ry="6.1231713"/>
+       <circle r="4" stroke="#ffbf00" fill="none" stroke-width="4.76704" id="connectorK8-pin-1" cx="10" cy="-24" gorn="0.4.0.0.0.0.2" rx="6.2921515" ry="6.1231713"/>
+       <circle r="4" stroke="#ffbf00" fill="none" stroke-width="4.76704" id="connectorK7-pin-3" cx="10" cy="-6" gorn="0.4.0.0.0.0.0" rx="6.2921515" ry="6.1231713"/>
+       <circle r="4" stroke="#ffbf00" fill="none" stroke-width="4.76704" id="connectorK7-pin-2" cx="10" cy="12" gorn="0.4.0.0.0.0.1" rx="6.2921515" ry="6.1231713"/>
+       <circle r="4" stroke="#ffbf00" fill="none" stroke-width="4.76704" id="connectorK7-pin-1" cx="10" cy="30" gorn="0.4.0.0.0.0.2" rx="6.2921515" ry="6.1231713"/>
+       <circle r="4" stroke="#ffbf00" fill="none" stroke-width="4.76704" id="connectorK6-pin-3" cx="10" cy="48" gorn="0.4.0.0.0.0.0" rx="6.2921515" ry="6.1231713"/>
+       <circle r="4" stroke="#ffbf00" fill="none" stroke-width="4.76704" id="connectorK6-pin-2" cx="10" cy="66" gorn="0.4.0.0.0.0.1" rx="6.2921515" ry="6.1231713"/>
+       <circle r="4" stroke="#ffbf00" fill="none" stroke-width="4.76704" id="connectorK6-pin-1" cx="10" cy="84" gorn="0.4.0.0.0.0.2" rx="6.2921515" ry="6.1231713"/>
+       <circle r="4" stroke="#ffbf00" fill="none" stroke-width="4.76704" id="connectorK5-pin-3" cx="10" cy="102" gorn="0.4.0.0.0.0.0" rx="6.2921515" ry="6.1231713"/>
+       <circle r="4" stroke="#ffbf00" fill="none" stroke-width="4.76704" id="connectorK5-pin-2" cx="10" cy="120" gorn="0.4.0.0.0.0.1" rx="6.2921515" ry="6.1231713"/>
+       <circle r="4" stroke="#ffbf00" fill="none" stroke-width="4.76704" id="connectorK5-pin-1" cx="10" cy="138" gorn="0.4.0.0.0.0.2" rx="6.2921515" ry="6.1231713"/>
+       <circle r="4" stroke="#ffbf00" fill="none" stroke-width="4.76704" id="connectorK4-pin-3" cx="10" cy="156" gorn="0.4.0.0.0.0.0" rx="6.2921515" ry="6.1231713"/>
+       <circle r="4" stroke="#ffbf00" fill="none" stroke-width="4.76704" id="connectorK4-pin-2" cx="10" cy="174" gorn="0.4.0.0.0.0.1" rx="6.2921515" ry="6.1231713"/>
+       <circle r="4" stroke="#ffbf00" fill="none" stroke-width="4.76704" id="connectorK4-pin-1" cx="10" cy="192" gorn="0.4.0.0.0.0.2" rx="6.2921515" ry="6.1231713"/>
+       <circle r="4" stroke="#ffbf00" fill="none" stroke-width="4.76704" id="connectorK3-pin-3" cx="10" cy="210" gorn="0.4.0.0.0.0.0" rx="6.2921515" ry="6.1231713"/>
+       <circle r="4" stroke="#ffbf00" fill="none" stroke-width="4.76704" id="connectorK3-pin-2" cx="10" cy="228" gorn="0.4.0.0.0.0.1" rx="6.2921515" ry="6.1231713"/>
+       <circle r="4" stroke="#ffbf00" fill="none" stroke-width="4.76704" id="connectorK3-pin-1" cx="10" cy="246" gorn="0.4.0.0.0.0.2" rx="6.2921515" ry="6.1231713"/>
+       <circle r="4" stroke="#ffbf00" fill="none" stroke-width="4.76704" id="connectorK2-pin-3" cx="10" cy="264" gorn="0.4.0.0.0.0.0" rx="6.2921515" ry="6.1231713"/>
+       <circle r="4" stroke="#ffbf00" fill="none" stroke-width="4.76704" id="connectorK2-pin-2" cx="10" cy="282" gorn="0.4.0.0.0.0.1" rx="6.2921515" ry="6.1231713"/>
+       <circle r="4" stroke="#ffbf00" fill="none" stroke-width="4.76704" id="connectorK2-pin-1" cx="10" cy="300" gorn="0.4.0.0.0.0.2" rx="6.2921515" ry="6.1231713"/>
+       <circle r="4" stroke="#ffbf00" fill="none" stroke-width="4.76704" id="connectorK1-pin-3" cx="10" cy="318" gorn="0.4.0.0.0.0.0" rx="6.2921515" ry="6.1231713"/>
+       <circle r="4" stroke="#ffbf00" fill="none" stroke-width="4.76704" id="connectorK1-pin-2" cx="10" cy="336" gorn="0.4.0.0.0.0.1" rx="6.2921515" ry="6.1231713"/>
+       <circle r="4" stroke="#ffbf00" fill="none" stroke-width="4.76704" id="connectorK1-pin-1" cx="10" cy="354" gorn="0.4.0.0.0.0.2" rx="6.2921515" ry="6.1231713"/>
+
+       <circle r="1.5" transform="translate(0,1.9428738e-6)" id="connector0pin2" cx="160" cy="-52.765308" gorn="0.4.0.0.0.0.12" rx="3.7895226" ry="3.9012673" stroke="#ffbf00" fill="none" stroke-width="2"  />
+       <circle r="1.5" transform="translate(0,1.9428738e-6)" id="connector0pin1" cx="160" cy="-41.928452" gorn="0.4.0.0.0.0.13" rx="3.7895226" ry="3.9012673" stroke="#ffbf00" fill="none" stroke-width="2"  />
+       <circle r="1.5" transform="translate(0,1.9428738e-6)" id="connector0pin0" cx="160" cy="-30.719563" gorn="0.4.0.0.0.0.13" rx="3.7895226" ry="3.9012673" stroke="#ffbf00" fill="none" stroke-width="2"  />
+
+       <circle r="1.5" transform="translate(0,1.9428738e-6)" id="connector1pin5" cx="160" cy="163.47887" gorn="0.4.0.0.0.0.12" rx="3.7895226" ry="3.9012673" stroke="#ffbf00" fill="none" stroke-width="2" />
+       <circle r="1.5" transform="translate(0,1.9428738e-6)" id="connector1pin4" cx="160" cy="174.31572" gorn="0.4.0.0.0.0.13" rx="3.7895226" ry="3.9012673" stroke="#ffbf00" fill="none" stroke-width="2" />
+       <circle r="1.5" transform="translate(0,1.9428738e-6)" id="connector1pin3" cx="160" cy="185.15259" gorn="0.4.0.0.0.0.14" rx="3.7895226" ry="3.9012673" stroke="#ffbf00" fill="none" stroke-width="2" />
+       <circle r="1.5" transform="translate(0,1.9428738e-6)" id="connector1pin2" cx="160" cy="195.98943" gorn="0.4.0.0.0.0.15" rx="3.7895226" ry="3.9012673" stroke="#ffbf00" fill="none" stroke-width="2" />
+       <circle r="1.5" transform="translate(0,1.9428738e-6)" id="connector1pin1" cx="160" cy="206.82628" gorn="0.4.0.0.0.0.16" rx="3.7895226" ry="3.9012673" stroke="#ffbf00" fill="none" stroke-width="2" />
+       <circle r="1.5" transform="translate(0,1.9428738e-6)" id="connector1pin0" cx="160" cy="217.66316" gorn="0.4.0.0.0.0.17" rx="3.7895226" ry="3.9012673" stroke="#ffbf00" fill="none" stroke-width="2" />
+       <circle r="1.5" transform="translate(0,1.9428738e-6)" id="connector1pin9" cx="160" cy="119.89807" gorn="0.4.0.0.0.0.14" rx="3.7895226" ry="3.9012673" stroke="#ffbf00" fill="none" stroke-width="2" />
+       <circle r="1.5" transform="translate(0,1.9428738e-6)" id="connector1pin8" cx="160" cy="130.73491" gorn="0.4.0.0.0.0.15" rx="3.7895226" ry="3.9012673" stroke="#ffbf00" fill="none" stroke-width="2" />
+       <circle r="1.5" transform="translate(0,1.9428738e-6)" id="connector1pin7" cx="160" cy="141.57176" gorn="0.4.0.0.0.0.16" rx="3.7895226" ry="3.9012673" stroke="#ffbf00" fill="none" stroke-width="2" />
+       <circle r="1.5" transform="translate(0,1.9428738e-6)" id="connector1pin6" cx="160" cy="152.40865" gorn="0.4.0.0.0.0.17" rx="3.7895226" ry="3.9012673" stroke="#ffbf00" fill="none" stroke-width="2" />
+   </g>
+</svg>

@@ -1,29 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 180 140"
-   height="278mm"
+   viewBox="0 -158 182 458"
+   height="138mm"
    x="0px"
-   width="110mm"
+   width="57mm"
    y="0px"
    id="EightChannelRelay"
    xml:space="preserve"
    version="1.2"
    gorn="0"
    sodipodi:docname="svg.breadboard.8ChannelRelay_breadboard.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
-   id="metadata1394" /><defs
-   id="defs1392">
-        
-    
-            
-        </defs><sodipodi:namedview
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   <metadata id="metadata1394" />
+   <defs id="defs1392">
+      <defs id="defs3394" />
+   </defs>
+   <sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
@@ -37,326 +33,68 @@
    id="namedview1390"
    showgrid="false"
    inkscape:zoom="1.9785636"
-   inkscape:cx="255.08294"
-   inkscape:cy="911.31878"
+   inkscape:cx="86.48438"
+   inkscape:cy="349.65243"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
    inkscape:current-layer="EightChannelRelay"
    inkscape:document-rotation="0" />
-    <desc
-   id="desc703">
+    <desc id="desc703">
         <referenceFile>8-Channel_relay-5v10a_breadboard.svg</referenceFile>
     </desc>
-    <g
-   id="g1383"
-   transform="matrix(1,0,0,1.753024,0,46.375309)">
-                <g
-   id="g1381">
-                    <metadata
-   id="metadata3396">
-                        <rdf:RDF>
-                            <cc:Work
-   rdf:about="">
-                                <dc:format>image/svg+xml</dc:format>
-                                <dc:type
-   rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-                                <dc:title />
-                            </cc:Work>
-                        </rdf:RDF>
-                    </metadata>
-                    <defs
-   id="defs3394" />
-                    <rect
-   style="fill:#445567;fill-opacity:1"
-   height="260"
-   x="1"
-   width="180"
-   y="-116"
-   id="rectEntireBoard"
-   gorn="0.1.0.0.0.2" />
-                    <ellipse
-   rx="2.4101014"
-   ry="1.5092323"
-   style="fill:#aca793;fill-opacity:1"
-   id="holeTopLeft"
-   cx="5.3139682"
-   cy="-112.9637"
-   gorn="0.1.0.0.0.3" />
-                    <ellipse
-   rx="2.4101014"
-   ry="1.5092323"
-   style="fill:#aca793;fill-opacity:1"
-   id="holeBottomLeft"
-   cx="5.7948713"
-   cy="140"
-   gorn="0.1.0.0.0.4" />
-                    <ellipse
-   rx="2.4101014"
-   ry="1.5092323"
-   style="fill:#aca793;fill-opacity:1"
-   id="holeBottomRight"
-   cx="175.707"
-   cy="140"
-   gorn="0.1.0.0.0.5" />
-                    <ellipse
-   rx="2.4101014"
-   ry="1.5092323"
-   style="fill:#aca793;fill-opacity:1"
-   id="holeTopRight"
-   cx="176.56946"
-   cy="-112.46975"
-   gorn="0.1.0.0.0.6" />
-                    <g
-   transform="matrix(5.0456672,0,0,3.3342666,1.2793012,-49.126079)"
-   id="g727">
-                        <g
-   id="g725">
-                            <g
-   id="g723">
-                                <g
-   id="K1text"
-   gorn="0.1.0.0.0.8.0.0.0">
-                                    <path
-   stroke="#ffffff"
-   fill="none"
-   style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-   d="m 1.2383842,48.486027 -0.79311413,0.07202 v 2.66423 h -0.0495695"
-   stroke-width="0.146977"
-   id="path4268-3"
-   stroke-opacity="1"
-   gorn="0.1.0.0.0.8.0.0.0.0" />
-                                    <g
-   transform="matrix(0,-0.94681353,1.0561742,0,0,0)"
-   id="g719">
-                                        <g
-   id="g717">
-                                            <g
-   id="g715">
-                                                <g
-   stroke="none"
-   fill="#ffffff"
-   style="font-style:normal;font-weight:normal;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter"
-   stroke-width="0.996078"
-   font-size="0.879279px"
-   id="text4289"
-   fill-opacity="1"
-   stroke-opacity="1"
-   xml:space="preserve"
-   gorn="0.1.0.0.0.8.0.0.0.1.0.0.0">
-                                                    <text
-   x="-55.262329"
-   y="1.0860597"
-   id="tspan4291"
-   gorn="0.1.0.0.0.8.0.0.0.1.0.0.0.0">K1</text>
-
-                                                </g>
-                                            </g>
-                                        </g>
-                                    </g>
-                                    <path
-   stroke="#fffffd"
-   fill="none"
-   style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.4;stroke-dasharray:none"
-   d="M 1.2092723,55.194168 H 0.40908235 L 0.44242355,53.05263 1.1759312,52.415955 v 0.05788"
-   stroke-width="0.108071"
-   id="path4240"
-   stroke-opacity="0.994083"
-   gorn="0.1.0.0.0.8.0.0.0.2" />
-                                </g>
-                            </g>
-                        </g>
-                    </g>
-                    <g
-   transform="matrix(5.0456672,0,0,3.3342666,1.2793012,-49.126079)"
-   id="g744">
-                        <g
-   id="g742">
-                            <g
-   id="g740">
-                                <g
-   id="K2text"
-   gorn="0.1.0.0.0.7.0.0.0">
-                                    <path
-   stroke="#ffffff"
-   fill="none"
-   style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-   d="m 1.2135901,38.446741 -0.75295861,0.07517 v 2.781343 h -0.0470599"
-   stroke-width="0.146322"
-   id="path4268"
-   stroke-opacity="1"
-   gorn="0.1.0.0.0.7.0.0.0.0" />
-                                    <g
-   transform="matrix(0,-0.93184333,1.0731418,0,0,0)"
-   id="g736">
-                                        <g
-   id="g734">
-                                            <g
-   id="g732">
-                                                <g
-   stroke="none"
-   fill="#ffffff"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter"
-   stroke-width="0.996078"
-   font-size="1.07141px"
-   id="text4285"
-   fill-opacity="1"
-   stroke-opacity="1"
-   xml:space="preserve"
-   gorn="0.1.0.0.0.7.0.0.0.1.0.0.0">
-                                                    <text
-   x="-45.737904"
-   y="1.0937815"
-   id="tspan4287"
-   gorn="0.1.0.0.0.7.0.0.0.1.0.0.0.0">K2</text>
-
-                                                </g>
-                                            </g>
-                                        </g>
-                                    </g>
-                                    <path
-   stroke="#fffffd"
-   fill="none"
-   style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.4;stroke-dasharray:none"
-   d="M 1.1459396,45.742809 H 0.42942406 l 0.0298547,-2.327328 0.65680604,-0.69191 v 0.0629"
-   stroke-width="0.106608"
-   id="path4240-0"
-   stroke-opacity="0.994083"
-   gorn="0.1.0.0.0.7.0.0.0.2" />
-                                </g>
-                            </g>
-                        </g>
-                    </g>
-                    <path
-   style="fill-opacity:0.7;stroke-width:1.00306"
-   d="m 1.0969517,137.864 c 0,2.55299 2.2122103,4.63338 4.9160228,4.63338 H 16.703136 19.565132 175.98938 c 2.70382,0 4.91603,-2.08039 4.91603,-4.63338 v 1.48268 c 0,2.55299 -2.21221,4.63338 -4.91603,4.63338 H 6.0129745 c -2.7038125,0 -4.9160228,-2.08039 -4.9160228,-4.63338 z"
-   id="path3388"
-   gorn="0.1.0.0.0.48" /><g
-   transform="scale(1.7654046,0.56644237)"
-   id="g752">
-                        <g
-   id="g750">
-                            <g
-   id="g748">
-                                <g
-   stroke="#fffdff"
-   fill="#fdffff"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-   stroke-width="0.138433"
-   font-size="6.89453px"
-   id="4RelayModuleText"
-   fill-opacity="1"
-   stroke-opacity="1"
-   xml:space="preserve"
-   gorn="0.1.0.0.0.9.0.0.0">
-                                    <text
-   x="-146.07732"
-   stroke-width="0.174399"
-   y="137.85832"
-   id="tspan8RelayModule"
-   gorn="0.1.0.0.0.9.0.0.0.0"
-   transform="matrix(0,-1.410538,0.70894934,0,0,0)"
-   style="font-size:8.68581px">8 Relay Module</text>
-
-                                </g>
-                            </g>
-                        </g>
-                    </g>
-                    <g
-   transform="matrix(5.0456672,0,0,3.3342666,1.2450406,-114.55172)"
-   id="g769">
-                        <g
-   id="g767">
-                            <g
-   id="g765">
-                                <g
-   id="K4text"
-   gorn="0.1.0.0.0.10.0.0.0">
-                                    <path
-   stroke="#ffffff"
-   fill="none"
-   style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-   d="m 1.2135901,39.039317 -0.75295861,0.07517 v 2.781343 h -0.0470599"
-   stroke-width="0.146322"
-   id="path4268-5"
-   stroke-opacity="1"
-   gorn="0.1.0.0.0.10.0.0.0.0" />
-                                    <g
-   transform="matrix(0,-0.93184333,1.0731418,0,0,0)"
-   id="g761">
-                                        <g
-   id="g759">
-                                            <g
-   id="g757">
-                                                <g
-   stroke="none"
-   fill="#ffffff"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter"
-   stroke-width="0.996078"
-   font-size="1.07141px"
-   id="text4285-6"
-   fill-opacity="1"
-   stroke-opacity="1"
-   xml:space="preserve"
-   gorn="0.1.0.0.0.10.0.0.0.1.0.0.0">
-                                                    <text
-   x="-46.378197"
-   y="1.1080694"
-   id="tspan4287-5"
-   gorn="0.1.0.0.0.10.0.0.0.1.0.0.0.0">K4</text>
-
-                                                </g>
-                                            </g>
-                                        </g>
-                                    </g>
-                                    <path
-   stroke="#fffffd"
-   fill="none"
-   style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.4;stroke-dasharray:none"
-   d="M 1.1459396,46.335385 H 0.42942406 l 0.0298547,-2.327328 0.65680604,-0.69191 v 0.0629"
-   stroke-width="0.106608"
+    <rect style="fill:#445567;fill-opacity:1;stroke-width:1.32401812" height="455.78625" x="1" width="180" y="-156.97548" id="rectEntireBoard" gorn="0.1.0.0.0.2" />
+    <ellipse rx="2.4101014" ry="2.6457205" style="fill:#aca793;fill-opacity:1;stroke-width:1.32401812" id="holeTopLeft" cx="5.3139682" cy="-151.65277" gorn="0.1.0.0.0.3" />
+    <ellipse rx="2.4101014" ry="2.6457205" style="fill:#aca793;fill-opacity:1;stroke-width:1.32401812" id="holeBottomLeft" cx="5.7948713" cy="291.79868" gorn="0.1.0.0.0.4" />
+    <ellipse rx="2.4101014" ry="2.6457205" style="fill:#aca793;fill-opacity:1;stroke-width:1.32401812" id="holeBottomRight" cx="175.707" cy="291.79868" gorn="0.1.0.0.0.5" />
+    <ellipse rx="2.4101014" ry="2.6457205" style="fill:#aca793;fill-opacity:1;stroke-width:1.32401812" id="holeTopRight" cx="176.56946" cy="-150.78687" gorn="0.1.0.0.0.6" />
+    <path style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.79818356;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 7.5277757,243.65934 -4.0017899,0.42096 v 15.57255 H 3.2758746" id="path4268-3" gorn="0.1.0.0.0.8.0.0.0.0" inkscape:connector-curvature="0" />
+    <g transform="matrix(0,-5.5341719,5.3291035,0,1.2793012,-39.743887)" id="g719">
+        <g style="font-style:normal;font-weight:normal;font-size:0.87927902px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.99607801;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" font-size="0.879279px" id="text4289" xml:space="preserve" gorn="0.1.0.0.0.8.0.0.0.1.0.0.0">
+           <text x="-55.262329" y="1.0860597" id="tspan4291" gorn="0.1.0.0.0.8.0.0.0.1.0.0.0.0">K1</text>
+        </g>
+    </g>
+    <path style="fill:none;fill-rule:evenodd;stroke:#fffffd;stroke-width:0.58689791;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.4000001;stroke-dasharray:none;stroke-opacity:0.994083" d="M 7.3808868,282.86875 H 3.3433946 l 0.1682286,-12.51739 3.7010355,-3.7214 v 0.33831" id="path4240" gorn="0.1.0.0.0.8.0.0.0.2" inkscape:connector-curvature="0" />
+    <path style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.79462641;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 7.402673,184.97921 -3.7991786,0.43938 v 16.25708 H 3.3660458" id="path4268" gorn="0.1.0.0.0.7.0.0.0.0" inkscape:connector-curvature="0" />
+    <g transform="matrix(0,-5.4466703,5.4147164,0,1.2793012,-39.743887)" id="g736">
+        <g style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.07140994px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.99607801;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" font-size="1.07141px" id="text4285" xml:space="preserve" gorn="0.1.0.0.0.7.0.0.0.1.0.0.0">
+            <text x="-45.737904" y="1.0937815" id="tspan4287" gorn="0.1.0.0.0.7.0.0.0.1.0.0.0.0">K2</text>
+        </g>
+    </g>
+    <path style="fill:none;fill-rule:evenodd;stroke:#fffffd;stroke-width:0.57895285;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.4000001;stroke-dasharray:none;stroke-opacity:0.994083" d="M 7.0613311,227.62509 H 3.4460321 L 3.596669,214.02174 6.9106937,209.9775 v 0.36765" id="path4240-0" gorn="0.1.0.0.0.7.0.0.0.2" inkscape:connector-curvature="0" />
+    <path style="fill-opacity:0.7;stroke-width:1.32806957" d="m 1.0969517,288.05421 c 0,4.47545 2.2122103,8.12243 4.9160228,8.12243 H 16.703136 19.565132 175.98938 c 2.70382,0 4.91603,-3.64698 4.91603,-8.12243 v 2.59917 c 0,4.47546 -2.21221,8.12243 -4.91603,8.12243 H 6.0129745 c -2.7038125,0 -4.9160228,-3.64697 -4.9160228,-8.12243 z" id="path3388" gorn="0.1.0.0.0.48" inkscape:connector-curvature="0" />
+    <g transform="matrix(1.7654046,0,0,0.99298707,0,46.375309)" id="g752">
+       <g style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.89452982px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#fdffff;fill-opacity:1;stroke:#fffdff;stroke-width:0.13843299;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" font-size="6.89453px" id="4RelayModuleText" xml:space="preserve" gorn="0.1.0.0.0.9.0.0.0">
+          <text x="-146.07732" y="137.85832" id="tspan8RelayModule" gorn="0.1.0.0.0.9.0.0.0.0" transform="matrix(0,-1.410538,0.70894934,0,0,0)" style="font-size:8.68581009px;stroke-width:0.174399">8 Relay Module</text>
+       </g>
+    </g>
+    <path style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.79462641;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 7.3684124,73.750126 3.5692338,74.189499 V 90.446586 H 3.3317852" id="path4268-5" gorn="0.1.0.0.0.10.0.0.0.0" inkscape:connector-curvature="0" />
+    <g transform="matrix(0,-5.4466703,5.4147164,0,1.2450406,-154.43661)" id="g761">
+       <g style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.07140994px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.99607801;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" font-size="1.07141px" id="text4285-6" xml:space="preserve" gorn="0.1.0.0.0.10.0.0.0.1.0.0.0">
+          <text x="-46.378197" y="1.1080694" id="tspan4287-5" gorn="0.1.0.0.0.10.0.0.0.1.0.0.0.0">K4</text>
+       </g>
+    </g>
+    <path
+   style="fill:none;fill-rule:evenodd;stroke:#fffffd;stroke-width:0.57895285;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.4000001;stroke-dasharray:none;stroke-opacity:0.994083"
+   d="m 7.0270705,116.396 h -3.615299 l 0.1506369,-13.60334 3.3140247,-4.044251 v 0.367654"
    id="path4240-0-1"
-   stroke-opacity="0.994083"
-   gorn="0.1.0.0.0.10.0.0.0.2" />
-                                </g>
-                            </g>
-                        </g>
-                    </g>
-                    <g
-   transform="matrix(5.0456672,0,0,3.3342666,1.2450406,-114.55172)"
-   id="g786">
-                        <g
-   id="g784">
-                            <g
-   id="g782">
-                                <g
-   id="K3text"
-   gorn="0.1.0.0.0.11.0.0.0">
-                                    <path
-   stroke="#ffffff"
-   fill="none"
-   style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-   d="m 1.2383842,49.078603 -0.79311413,0.07202 v 2.66423 h -0.0495695"
-   stroke-width="0.146977"
+   gorn="0.1.0.0.0.10.0.0.0.2"
+   inkscape:connector-curvature="0" /><path
+   style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.79818356;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="m 7.4935151,132.43025 -4.0017899,0.42096 v 15.57256 H 3.241614"
    id="path4268-3-8"
-   stroke-opacity="1"
-   gorn="0.1.0.0.0.11.0.0.0.0" />
-                                    <g
-   transform="matrix(0,-0.94681353,1.0561742,0,0,0)"
+   gorn="0.1.0.0.0.11.0.0.0.0"
+   inkscape:connector-curvature="0" /><g
+   transform="matrix(0,-5.5341719,5.3291035,0,1.2450406,-154.43661)"
    id="g778">
                                         <g
    id="g776">
                                             <g
    id="g774">
                                                 <g
-   stroke="none"
-   fill="#ffffff"
-   style="font-style:normal;font-weight:normal;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter"
-   stroke-width="0.996078"
+   style="font-style:normal;font-weight:normal;font-size:0.87927902px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.99607801;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    font-size="0.879279px"
    id="text4289-3"
-   fill-opacity="1"
-   stroke-opacity="1"
    xml:space="preserve"
    gorn="0.1.0.0.0.11.0.0.0.1.0.0.0">
                                                     <text
@@ -365,68 +103,50 @@
    id="tspan4291-0"
    gorn="0.1.0.0.0.11.0.0.0.1.0.0.0.0">K3</text>
 
+
                                                 </g>
                                             </g>
                                         </g>
-                                    </g>
-                                    <path
-   stroke="#fffffd"
-   fill="none"
-   style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.4;stroke-dasharray:none"
-   d="M 1.2092723,55.786744 H 0.40908235 l 0.0333412,-2.141538 0.73350765,-0.636675 v 0.05788"
-   stroke-width="0.108071"
+                                    </g><path
+   style="fill:none;fill-rule:evenodd;stroke:#fffffd;stroke-width:0.58689791;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.4000001;stroke-dasharray:none;stroke-opacity:0.994083"
+   d="M 7.3466262,171.63966 H 3.309134 l 0.1682286,-12.51739 3.7010355,-3.7214 v 0.33831"
    id="path4240-06"
-   stroke-opacity="0.994083"
-   gorn="0.1.0.0.0.11.0.0.0.2" />
-                                </g>
-                            </g>
-                        </g>
-                    </g>
-                    <g
-   transform="matrix(0,-0.66916197,1.4944065,0,0,0)"
+   gorn="0.1.0.0.0.11.0.0.0.2"
+   inkscape:connector-curvature="0" /><g
+   transform="matrix(0,-1.173057,1.4944065,0,0,46.375309)"
    id="g794">
                         <g
    id="g792">
                             <g
    id="g790">
                                 <g
-   stroke="#ffffff"
-   fill="#ffffff"
-   style="font-style:normal;font-weight:normal;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-   stroke-width="0.0679573"
+   style="font-style:normal;font-weight:normal;font-size:3.75851989px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.0679573;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    font-size="3.75852px"
    id="JDVCCtext"
-   fill-opacity="1"
-   stroke-opacity="1"
    xml:space="preserve"
    gorn="0.1.0.0.0.12.0.0.0">
                                     <text
    x="148.72858"
-   stroke-width="0.0679573"
    y="119.84716"
    id="tspan4873"
-   gorn="0.1.0.0.0.12.0.0.0.0">JD-VCC</text>
+   gorn="0.1.0.0.0.12.0.0.0.0"
+   style="stroke-width:0.0679573">JD-VCC</text>
+
 
                                 </g>
                             </g>
                         </g>
-                    </g>
-                    <g
-   transform="matrix(0,-0.66916197,1.4944065,0,0,0)"
+                    </g><g
+   transform="matrix(0,-1.173057,1.4944065,0,0,46.375309)"
    id="g802">
                         <g
    id="g800">
                             <g
    id="g798">
                                 <g
-   stroke="#ffffff"
-   fill="#ffffff"
-   style="font-style:normal;font-weight:normal;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-   stroke-width="0.0679573"
+   style="font-style:normal;font-weight:normal;font-size:3.75851989px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.0679573;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    font-size="3.75852px"
    id="VCCtext"
-   fill-opacity="1"
-   stroke-opacity="1"
    xml:space="preserve"
    gorn="0.1.0.0.0.13.0.0.0">
                                     <text
@@ -436,26 +156,21 @@
    gorn="0.1.0.0.0.13.0.0.0.0"
    style="stroke-width:0.0679573">VCC</text>
 
+
                                 </g>
                             </g>
                         </g>
-                    </g>
-                    <g
-   transform="matrix(0,-0.63156232,1.583375,0,0,0)"
+                    </g><g
+   transform="matrix(0,-1.1071439,1.583375,0,0,46.375309)"
    id="g810">
                         <g
    id="g808">
                             <g
    id="g806">
                                 <g
-   stroke="#ffffff"
-   fill="#fdffff"
-   style="font-style:normal;font-weight:normal;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-   stroke-width="0.0657045"
+   style="font-style:normal;font-weight:normal;font-size:3.3482399px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#fdffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.0657045;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    font-size="3.34824px"
    id="PinInText"
-   fill-opacity="1"
-   stroke-opacity="1"
    xml:space="preserve"
    gorn="0.1.0.0.0.14.0.0.0">
                                     <text
@@ -471,54 +186,28 @@
      y="114.36832"
      style="stroke-width:0.06643037">GND  IN1  IN2  IN3  IN4  IN5  IN6  IN7  IN8  VCC</tspan></text>
 
+
                                 </g>
                             </g>
                         </g>
-                    </g>
-                    <g
-   transform="matrix(1,0,0,0.5206933,0.1595517,-21.019269)"
-   id="g866">
-                        <g
-   id="g864">
-                            <g
-   id="g862">
-                                <g
-   id="relay2"
-   gorn="0.1.0.0.0.15.0.0.0">
-                                    <rect
-   style="fill:#00a7ff;fill-opacity:1"
-   height="58.82616"
+                    </g><rect
+   style="fill:#00a7ff;fill-opacity:1;stroke-width:0.95539933"
+   height="53.695805"
    width="89.42292"
-   x="22.039791"
-   y="185.06258"
+   x="22.199343"
+   y="178.4509"
    id="relay2shell"
-   gorn="0.1.0.0.0.15.0.0.0.0" />
-                                    <g
-   transform="matrix(5.3262803,0,0,6.144044,-7.6786291,-58.127522)"
-   id="g859">
-                                        <g
-   id="g857">
-                                            <g
-   id="g855">
-                                                <g
-   id="relay2Text"
-   gorn="0.1.0.0.0.15.0.0.0.1.0.0.0">
-                                                    <g
-   transform="scale(1.3283955,0.75278786)"
+   gorn="0.1.0.0.0.15.0.0.0.0" /><g
+   transform="matrix(7.0754068,0,0,4.2217914,-7.5190774,-43.53007)"
    id="g819">
                                                         <g
    id="g817">
                                                             <g
    id="g815">
                                                                 <g
-   stroke="none"
-   fill="#ffffff"
-   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Times New Roman,  Italic';letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter"
-   stroke-width="0.996078"
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.25967002px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Times New Roman,  Italic';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.99607801;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    font-size="1.25967px"
    id="text4388"
-   fill-opacity="1"
-   stroke-opacity="1"
    xml:space="preserve"
    gorn="0.1.0.0.0.15.0.0.0.1.0.0.0.0.0.0.0">
                                                                     <text
@@ -527,41 +216,30 @@
    id="tspan4390"
    gorn="0.1.0.0.0.15.0.0.0.1.0.0.0.0.0.0.0.0"
    transform="scale(0.79177142,1.2629908)"
-   style="font-size:1.56006px;stroke-width:1.23361">SONGLE</text>
+   style="font-size:1.56006002px;stroke-width:1.23361003">SONGLE</text>
+
 
                                                                 </g>
                                                             </g>
                                                         </g>
-                                                    </g>
-                                                    <ellipse
-   rx="1.2027016"
-   stroke="#ffffff"
-   ry="0.674272"
-   fill="none"
-   style="stroke-miterlimit:4;stroke-dasharray:none"
-   stroke-width="0.0928541"
+                                                    </g><ellipse
+   rx="6.4059258"
+   ry="3.7814581"
+   style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5074873;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    id="path4392"
-   fill-opacity="1"
-   stroke-opacity="1"
-   cx="8.0280638"
-   cy="42.913288"
-   gorn="0.1.0.0.0.15.0.0.0.1.0.0.0.1" />
-                                                    <g
-   transform="scale(0.93755692,1.0666019)"
+   cx="35.240639"
+   cy="197.13661"
+   gorn="0.1.0.0.0.15.0.0.0.1.0.0.0.1" /><g
+   transform="matrix(4.993691,0,0,5.9817261,-7.5190774,-43.53007)"
    id="g828">
                                                         <g
    id="g826">
                                                             <g
    id="g824">
                                                                 <g
-   stroke="none"
-   fill="#fdfdfd"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter"
-   stroke-width="0.996078"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.79674101px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#fdfdfd;fill-opacity:1;stroke:none;stroke-width:0.99607801;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    font-size="0.796741px"
    id="text4394"
-   fill-opacity="1"
-   stroke-opacity="1"
    xml:space="preserve"
    gorn="0.1.0.0.0.15.0.0.0.1.0.0.0.2.0.0.0">
                                                                     <text
@@ -570,26 +248,21 @@
    id="tspan4396"
    gorn="0.1.0.0.0.15.0.0.0.1.0.0.0.2.0.0.0.0">CQC</text>
 
+
                                                                 </g>
                                                             </g>
                                                         </g>
-                                                    </g>
-                                                    <g
-   transform="scale(0.94043314,1.0633398)"
+                                                    </g><g
+   transform="matrix(5.0090105,0,0,5.9634315,-7.5190774,-43.53007)"
    id="g836">
                                                         <g
    id="g834">
                                                             <g
    id="g832">
                                                                 <g
-   stroke="none"
-   fill="#fdffff"
-   style="font-style:normal;font-weight:normal;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter"
-   stroke-width="0.996078"
+   style="font-style:normal;font-weight:normal;font-size:1.16421998px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#fdffff;fill-opacity:1;stroke:none;stroke-width:0.99607801;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    font-size="1.16422px"
    id="text4398"
-   fill-opacity="1"
-   stroke-opacity="1"
    xml:space="preserve"
    gorn="0.1.0.0.0.15.0.0.0.1.0.0.0.3.0.0.0">
                                                                     <text
@@ -600,26 +273,21 @@
    transform="scale(1.0213099,0.97913473)"
    style="font-size:1.1890341px;stroke-width:1.01730394">10A  250VAC   10A  125VAC</text>
 
+
                                                                 </g>
                                                             </g>
                                                         </g>
-                                                    </g>
-                                                    <g
-   transform="scale(0.94043315,1.0633398)"
+                                                    </g><g
+   transform="matrix(5.0090106,0,0,5.9634315,-7.5190774,-43.53007)"
    id="g844">
                                                         <g
    id="g842">
                                                             <g
    id="g840">
                                                                 <g
-   stroke="none"
-   fill="#fdffff"
-   style="font-style:normal;font-weight:normal;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter"
-   stroke-width="0.996078"
+   style="font-style:normal;font-weight:normal;font-size:1.16421998px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#fdffff;fill-opacity:1;stroke:none;stroke-width:0.99607801;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    font-size="1.16422px"
    id="text4398-1"
-   fill-opacity="1"
-   stroke-opacity="1"
    xml:space="preserve"
    gorn="0.1.0.0.0.15.0.0.0.1.0.0.0.4.0.0.0">
                                                                     <text
@@ -630,26 +298,21 @@
    transform="scale(0.97709175,1.0234453)"
    style="font-size:1.27902472px;stroke-width:1.09430623">10A    30VDC  10A   28VDC</text>
 
+
                                                                 </g>
                                                             </g>
                                                         </g>
-                                                    </g>
-                                                    <g
-   transform="scale(0.90252946,1.1079971)"
+                                                    </g><g
+   transform="matrix(4.8071249,0,0,6.213879,-7.5190774,-43.53007)"
    id="g852">
                                                         <g
    id="g850">
                                                             <g
    id="g848">
                                                                 <g
-   stroke="none"
-   fill="#ffffff"
-   style="font-style:normal;font-weight:normal;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter"
-   stroke-width="0.996078"
+   style="font-style:normal;font-weight:normal;font-size:2.03250003px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.99607801;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    font-size="2.0325px"
    id="text4420"
-   fill-opacity="1"
-   stroke-opacity="1"
    xml:space="preserve"
    gorn="0.1.0.0.0.15.0.0.0.1.0.0.0.5.0.0.0">
                                                                     <text
@@ -660,392 +323,210 @@
    transform="scale(1.0110823,0.98903916)"
    style="font-size:2.0550251px;stroke-width:1.00711954">SRD-05VDC-SL-C</text>
 
+
                                                                 </g>
                                                             </g>
                                                         </g>
-                                                    </g>
-                                                </g>
-                                            </g>
-                                        </g>
-                                    </g>
-                                </g>
-                            </g>
-                        </g>
-                    </g>
-                    <g
-   transform="matrix(5.0456672,0,0,3.3342666,1.2793012,-49.344782)"
-   id="g887">
-                        <g
-   id="g885">
-                            <g
-   id="g883">
-                                <g
-   id="K1K2screws"
-   gorn="0.1.0.0.0.16.0.0.0">
-                                    
-                                    <g
-   id="g4449"
-   gorn="0.1.0.0.0.16.0.0.0.1">
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        <g
-   id="g2855" />
-                                        <g
-   id="K12screws"><rect
-     stroke="#ffffff"
-     fill="#007dff"
-     style="stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-     height="18.215406"
-     width="1.8513565"
-     x="1.4408622"
-     stroke-width="0.0172333"
-     y="37.683552"
-     id="rect4937"
-     fill-opacity="1"
-     stroke-opacity="1"
-     gorn="0.1.0.0.0.16.0.0.0.0" /><ellipse
-     rx="0.63005066"
-     stroke="#000000"
-     ry="0.65037483"
-     fill="#a0892c"
-     style="stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="0.1"
-     id="path4293"
-     fill-opacity="1"
-     stroke-opacity="1"
-     cx="2.3576088"
-     cy="39.006935"
-     gorn="0.1.0.0.0.16.0.0.0.1.0" /><ellipse
-     rx="0.63005066"
-     stroke="#000000"
-     ry="0.65037483"
-     fill="#a0892c"
-     style="stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="0.1"
-     id="path4293-4"
-     fill-opacity="1"
-     stroke-opacity="1"
-     cx="2.3982573"
-     cy="45.551319"
-     gorn="0.1.0.0.0.16.0.0.0.1.2" /><ellipse
-     rx="0.63005066"
-     stroke="#000000"
-     ry="0.65037483"
-     fill="#a0892c"
-     style="stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="0.1"
-     id="path4293-7"
-     fill-opacity="1"
-     stroke-opacity="1"
-     cx="2.3576088"
-     cy="48.640598"
-     gorn="0.1.0.0.0.16.0.0.0.1.3" /><ellipse
-     rx="0.63005066"
-     stroke="#000000"
-     ry="0.65037483"
-     fill="#a0892c"
-     style="stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="0.1"
-     id="path4293-79"
-     fill-opacity="1"
-     stroke-opacity="1"
-     cx="2.3169603"
-     cy="51.744328"
-     gorn="0.1.0.0.0.16.0.0.0.1.4" /><ellipse
-     rx="0.63005066"
-     stroke="#000000"
-     ry="0.65037483"
-     fill="#a0892c"
-     style="stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="0.1"
-     id="path4293-2"
-     fill-opacity="1"
-     stroke-opacity="1"
-     cx="2.3169603"
-     cy="54.981754"
-     gorn="0.1.0.0.0.16.0.0.0.1.5" /><path
-     stroke="#4f4242"
-     fill="#b8b4a3"
-     d="m 1.9104761,38.636596 0.8129686,0.650375 v -0.04065"
-     style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="0.2"
-     id="connector9pin"
-     fill-opacity="1"
-     stroke-opacity="1"
-     gorn="0.1.0.0.0.16.0.0.0.1.6" /><path
-     stroke="#4f4242"
-     fill="#b8b4a3"
-     d="M 1.9404814,45.194092 2.75345,45.844467 v -0.04065"
-     style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="0.2"
-     id="connector7pin"
-     fill-opacity="1"
-     stroke-opacity="1"
-     gorn="0.1.0.0.0.16.0.0.0.1.7" /><path
-     stroke="#4f4242"
-     fill="#b8b4a3"
-     d="M 2.8045426,48.274013 1.991574,48.924388 v -0.04065"
-     style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="0.2"
-     id="connector6pin"
-     fill-opacity="1"
-     stroke-opacity="1"
-     gorn="0.1.0.0.0.16.0.0.0.1.8" /><path
-     stroke="#4f4242"
-     fill="#b8b4a3"
-     d="m 1.8591846,51.383893 0.8129686,0.650375 v -0.04065"
-     style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="0.2"
-     id="connector5pin"
-     fill-opacity="1"
-     stroke-opacity="1"
-     gorn="0.1.0.0.0.16.0.0.0.1.9" /><ellipse
-     rx="0.63005066"
-     stroke="#000000"
-     ry="0.65037483"
-     fill="#a0892c"
-     style="stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="0.1"
-     id="path4293-9"
-     fill-opacity="1"
-     stroke-opacity="1"
-     cx="2.3576088"
-     cy="42.055561"
-     gorn="0.1.0.0.0.16.0.0.0.1.1" /><path
-     stroke="#4f4242"
-     fill="#b8b4a3"
-     d="M 2.002814,42.536162 2.653189,41.723194 H 2.612539"
-     style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="0.2"
-     id="connector8pin"
-     fill-opacity="1"
-     stroke-opacity="1"
-     gorn="0.1.0.0.0.16.0.0.0.1.10" /><path
-     stroke="#4f4242"
-     fill="#b8b4a3"
-     d="m 1.8591846,54.615167 0.8129686,0.650375 v -0.04065"
-     style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="0.2"
-     id="connector4pin"
-     fill-opacity="1"
-     stroke-opacity="1"
-     gorn="0.1.0.0.0.16.0.0.0.1.11" /></g>
-                                    </g>
-                                </g>
-                            </g>
-                        </g>
-                    </g>
-                    <g
-   transform="matrix(1,0,0,0.5206933,0.1595517,-21.019269)"
-   id="g943">
-                        <g
-   id="g941">
-                            <g
-   id="g939">
-                                <g
-   id="relay1"
-   gorn="0.1.0.0.0.17.0.0.0">
-                                    
-                                    <g
-   transform="matrix(5.3262803,0,0,6.1664867,-7.4636887,1.3753359)"
-   id="g936">
-                                        <g
-   id="g934">
-                                            <g
-   id="g932">
-                                                <g
-   id="relay1Text"
-   gorn="0.1.0.0.0.17.0.0.0.1.0.0.0">
-                                                    <g
-   transform="scale(1.3283955,0.75278786)"
+                                                    </g><g
+   id="g2855"
+   transform="matrix(5.0456672,0,0,5.8450494,1.2793012,-40.127278)" /><rect
+   style="fill:#007dff;fill-opacity:1;stroke:#ffffff;stroke-width:0.09358836;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   height="106.46995"
+   width="9.3413286"
+   x="8.5494118"
+   y="180.13495"
+   id="rect4937"
+   gorn="0.1.0.0.0.16.0.0.0.0" /><ellipse
+   rx="3.1790259"
+   ry="3.8014729"
+   style="fill:#a0892c;fill-opacity:1;stroke:#000000;stroke-width:0.54306698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="path4293"
+   cx="13.175011"
+   cy="187.87018"
+   gorn="0.1.0.0.0.16.0.0.0.1.0" /><ellipse
+   rx="3.1790259"
+   ry="3.8014729"
+   style="fill:#a0892c;fill-opacity:1;stroke:#000000;stroke-width:0.54306698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="path4293-4"
+   cx="13.380109"
+   cy="226.12244"
+   gorn="0.1.0.0.0.16.0.0.0.1.2" /><ellipse
+   rx="3.1790259"
+   ry="3.8014729"
+   style="fill:#a0892c;fill-opacity:1;stroke:#000000;stroke-width:0.54306698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="path4293-7"
+   cx="13.175011"
+   cy="244.17943"
+   gorn="0.1.0.0.0.16.0.0.0.1.3" /><ellipse
+   rx="3.1790259"
+   ry="3.8014729"
+   style="fill:#a0892c;fill-opacity:1;stroke:#000000;stroke-width:0.54306698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="path4293-79"
+   cx="12.969912"
+   cy="262.32086"
+   gorn="0.1.0.0.0.16.0.0.0.1.4" /><ellipse
+   rx="3.1790259"
+   ry="3.8014729"
+   style="fill:#a0892c;fill-opacity:1;stroke:#000000;stroke-width:0.54306698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="path4293-2"
+   cx="12.969912"
+   cy="281.2438"
+   gorn="0.1.0.0.0.16.0.0.0.1.5" /><path
+   d="m 10.918928,185.70553 4.101969,3.80148 v -0.2376"
+   style="fill:#b8b4a3;fill-opacity:1;fill-rule:evenodd;stroke:#4f4242;stroke-width:1.08613396;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="connector9pin"
+   gorn="0.1.0.0.0.16.0.0.0.1.6"
+   inkscape:connector-curvature="0" /><path
+   d="m 11.070325,224.03442 4.101969,3.80148 v -0.2376"
+   style="fill:#b8b4a3;fill-opacity:1;fill-rule:evenodd;stroke:#4f4242;stroke-width:1.08613396;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="connector7pin"
+   gorn="0.1.0.0.0.16.0.0.0.1.7"
+   inkscape:connector-curvature="0" /><path
+   d="m 15.43009,242.03671 -4.101969,3.80148 v -0.2376"
+   style="fill:#b8b4a3;fill-opacity:1;fill-rule:evenodd;stroke:#4f4242;stroke-width:1.08613396;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="connector6pin"
+   gorn="0.1.0.0.0.16.0.0.0.1.8"
+   inkscape:connector-curvature="0" /><path
+   d="m 10.660128,260.21411 4.101969,3.80148 v -0.2376"
+   style="fill:#b8b4a3;fill-opacity:1;fill-rule:evenodd;stroke:#4f4242;stroke-width:1.08613396;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="connector5pin"
+   gorn="0.1.0.0.0.16.0.0.0.1.9"
+   inkscape:connector-curvature="0" /><ellipse
+   rx="3.1790259"
+   ry="3.8014729"
+   style="fill:#a0892c;fill-opacity:1;stroke:#000000;stroke-width:0.54306698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="path4293-9"
+   cx="13.175011"
+   cy="205.68956"
+   gorn="0.1.0.0.0.16.0.0.0.1.1" /><path
+   d="m 11.384834,208.49869 3.281576,-4.75184 h -0.205106"
+   style="fill:#b8b4a3;fill-opacity:1;fill-rule:evenodd;stroke:#4f4242;stroke-width:1.08613396;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="connector8pin"
+   gorn="0.1.0.0.0.16.0.0.0.1.10"
+   inkscape:connector-curvature="0" /><path
+   d="m 10.660128,279.10107 4.101969,3.80148 v -0.23761"
+   style="fill:#b8b4a3;fill-opacity:1;fill-rule:evenodd;stroke:#4f4242;stroke-width:1.08613396;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="connector4pin"
+   gorn="0.1.0.0.0.16.0.0.0.1.11"
+   inkscape:connector-curvature="0" /><g
+   transform="matrix(7.0754068,0,0,4.2372126,-7.304137,10.783416)"
    id="g896">
                                                         <g
    id="g894">
                                                             <g
    id="g892">
                                                                 <g
-   stroke="none"
-   fill="#ffffff"
-   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Times New Roman,  Italic';letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter"
-   stroke-width="0.996078"
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.25967002px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Times New Roman,  Italic';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.99607801;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    font-size="1.25967px"
    id="text4388-5"
-   fill-opacity="1"
-   stroke-opacity="1"
    xml:space="preserve"
    gorn="0.1.0.0.0.17.0.0.0.1.0.0.0.0.0.0.0">
                                                                     
                                                                 </g>
                                                             </g>
                                                         </g>
-                                                    </g>
-                                                    
-                                                    <g
-   transform="scale(0.93755692,1.0666019)"
+                                                    </g><g
+   transform="matrix(4.993691,0,0,6.0035758,-7.304137,10.783416)"
    id="g905">
                                                         <g
    id="g903">
                                                             <g
    id="g901">
                                                                 <g
-   stroke="none"
-   fill="#fdfdfd"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter"
-   stroke-width="0.996078"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.79674101px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#fdfdfd;fill-opacity:1;stroke:none;stroke-width:0.99607801;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    font-size="0.796741px"
    id="text4394-7"
-   fill-opacity="1"
-   stroke-opacity="1"
    xml:space="preserve"
    gorn="0.1.0.0.0.17.0.0.0.1.0.0.0.2.0.0.0">
                                                                     
                                                                 </g>
                                                             </g>
                                                         </g>
-                                                    </g>
-                                                    <g
-   transform="scale(0.94043314,1.0633398)"
+                                                    </g><g
+   transform="matrix(5.0090105,0,0,5.9852145,-7.304137,10.783416)"
    id="g913">
                                                         <g
    id="g911">
                                                             <g
    id="g909">
                                                                 <g
-   stroke="none"
-   fill="#fdffff"
-   style="font-style:normal;font-weight:normal;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter"
-   stroke-width="0.996078"
+   style="font-style:normal;font-weight:normal;font-size:1.16421998px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#fdffff;fill-opacity:1;stroke:none;stroke-width:0.99607801;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    font-size="1.16422px"
    id="text4398-8"
-   fill-opacity="1"
-   stroke-opacity="1"
    xml:space="preserve"
    gorn="0.1.0.0.0.17.0.0.0.1.0.0.0.3.0.0.0">
                                                                     
                                                                 </g>
                                                             </g>
                                                         </g>
-                                                    </g>
-                                                    <g
-   transform="scale(0.94043315,1.0633398)"
+                                                    </g><g
+   transform="matrix(5.0090106,0,0,5.9852145,-7.304137,10.783416)"
    id="g921">
                                                         <g
    id="g919">
                                                             <g
    id="g917">
                                                                 <g
-   stroke="none"
-   fill="#fdffff"
-   style="font-style:normal;font-weight:normal;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter"
-   stroke-width="0.996078"
+   style="font-style:normal;font-weight:normal;font-size:1.16421998px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#fdffff;fill-opacity:1;stroke:none;stroke-width:0.99607801;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    font-size="1.16422px"
    id="text4398-1-7"
-   fill-opacity="1"
-   stroke-opacity="1"
    xml:space="preserve"
    gorn="0.1.0.0.0.17.0.0.0.1.0.0.0.4.0.0.0">
                                                                     
                                                                 </g>
                                                             </g>
                                                         </g>
-                                                    </g>
-                                                    <g
-   transform="scale(0.90252946,1.1079971)"
-   id="g929">
-                                                        <g
-   id="g927">
-                                                            <g
-   id="g925">
-                                                                <g
-   stroke="none"
-   fill="#ffffff"
-   style="font-style:normal;font-weight:normal;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter"
-   stroke-width="0.996078"
-   font-size="2.0325px"
-   id="text4420-9"
-   fill-opacity="1"
-   stroke-opacity="1"
-   xml:space="preserve"
-   gorn="0.1.0.0.0.17.0.0.0.1.0.0.0.5.0.0.0">
-                                                                    <g
-   id="g2851"
-   transform="matrix(0.5619297,0,0,1,2.6886341,0)"><rect
-     style="fill:#00a7ff;fill-opacity:1;stroke-width:0.231568"
-     height="8.571723"
-     width="33.021488"
-     x="6.1374493"
-     y="35.799095"
-     id="relay1shell"
-     gorn="0.1.0.0.0.17.0.0.0.0" /><text
-     x="15.430147"
-     y="54.567863"
-     id="tspan4390-2"
-     gorn="0.1.0.0.0.17.0.0.0.1.0.0.0.0.0.0.0.0"
-     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Times New Roman, Italic';letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter"
-     transform="scale(1.4718583,0.67941322)">SONGLE</text>
+                                                    </g><rect
+   gorn="0.1.0.0.0.17.0.0.0.0"
+   id="relay1shell"
+   y="234.04723"
+   x="22.199348"
+   width="89.199837"
+   height="53.458206"
+   style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#00a7ff;fill-opacity:1;stroke:none;stroke-width:0.95046335;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" /><text
+   transform="scale(1.0170565,0.98322955)"
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.61285782px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Times New Roman, Italic';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.7149232;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   gorn="0.1.0.0.0.17.0.0.0.1.0.0.0.0.0.0.0.0"
+   id="tspan4390-2"
+   y="244.84639"
+   x="64.742157">SONGLE</text>
 <ellipse
-     rx="2.3374286"
-     stroke="#ffffff"
-     ry="0.59912831"
-     fill="none"
-     style="stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="0.122021"
-     id="path4392-0"
-     fill-opacity="1"
-     stroke-opacity="1"
-     cx="10.869333"
-     cy="38.60796"
-     gorn="0.1.0.0.0.17.0.0.0.1.0.0.0.1" /><text
-     x="6.531518"
-     y="54.542915"
-     id="tspan4396-3"
-     gorn="0.1.0.0.0.17.0.0.0.1.0.0.0.2.0.0.0.0"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.12743998px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;stroke-width:0.55253202;stroke-linecap:butt;stroke-linejoin:miter"
-     transform="scale(1.4039495,0.71227634)">CQC</text>
+   gorn="0.1.0.0.0.17.0.0.0.1.0.0.0.1"
+   cy="251.56491"
+   cx="34.981426"
+   id="path4392-0"
+   style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.50083125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   ry="3.7365096"
+   rx="6.3140168" /><text
+   transform="scale(0.9239789,1.0822758)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.62754107px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.26784968;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   gorn="0.1.0.0.0.17.0.0.0.1.0.0.0.2.0.0.0.0"
+   id="tspan4396-3"
+   y="233.83328"
+   x="32.891296">CQC</text>
 <text
-     x="5.5324855"
-     y="51.331352"
-     id="tspan4400-8"
-     gorn="0.1.0.0.0.17.0.0.0.1.0.0.0.3.0.0.0.0"
-     style="font-style:normal;font-weight:normal;font-size:1.74463832px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;stroke-width:0.85500228;stroke-linecap:butt;stroke-linejoin:miter"
-     transform="scale(1.2600505,0.79361899)">10A  250VAC   10A  125VAC</text>
+   transform="scale(0.8292749,1.2058727)"
+   style="font-style:normal;font-weight:normal;font-size:7.16081142px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.50932932;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   gorn="0.1.0.0.0.17.0.0.0.1.0.0.0.3.0.0.0.0"
+   id="tspan4400-8"
+   y="219.63029"
+   x="29.485472">10A  250VAC   10A  125VAC</text>
 <text
-     x="5.3240585"
-     y="54.862492"
-     id="tspan4400-3-0"
-     gorn="0.1.0.0.0.17.0.0.0.1.0.0.0.4.0.0.0.0"
-     style="font-style:normal;font-weight:normal;font-size:1.68246984px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;stroke-width:0.8245396;stroke-linecap:butt;stroke-linejoin:miter"
-     transform="scale(1.3081579,0.76443369)">10A    30VDC   10A   28VDC</text>
+   transform="scale(0.86093576,1.1615269)"
+   style="font-style:normal;font-weight:normal;font-size:6.90564299px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.38429594;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   gorn="0.1.0.0.0.17.0.0.0.1.0.0.0.4.0.0.0.0"
+   id="tspan4400-3-0"
+   y="234.46515"
+   x="28.380745">10A    30VDC   10A   28VDC</text>
 <text
-     x="4.9108353"
-     y="58.878452"
-     id="tspan4422-4"
-     gorn="0.1.0.0.0.17.0.0.0.1.0.0.0.5.0.0.0.0"
-     transform="scale(1.33866,0.74701565)"
-     style="font-size:2.72081828px;stroke-width:1.33341038">SRD-05VDC-SL-C</text>
-</g>
-                                                                </g>
-                                                            </g>
-                                                        </g>
-                                                    </g>
-                                                </g>
-                                            </g>
-                                        </g>
-                                    </g>
-                                </g>
-                            </g>
-                        </g>
-                    </g>
-                    <g
-   transform="matrix(4.6997229,0,0,3.8294868,5.4555784,-104.67532)"
+   style="font-style:normal;font-weight:normal;font-size:11.16751003px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.47293949;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   transform="scale(0.88101004,1.1350608)"
+   gorn="0.1.0.0.0.17.0.0.0.1.0.0.0.5.0.0.0.0"
+   id="tspan4422-4"
+   y="251.16499"
+   x="26.535931">SRD-05VDC-SL-C</text>
+<g
+   transform="matrix(4.6997229,0,0,6.7131823,5.4555784,-137.12304)"
    id="g959">
                         <g
    id="g957">
@@ -1066,9 +547,8 @@
                                 </g>
                             </g>
                         </g>
-                    </g>
-                    <g
-   transform="matrix(4.6997229,0,0,3.9224879,5.9459584,-136.80729)"
+                    </g><g
+   transform="matrix(4.6997229,0,0,6.8762154,5.9459584,-193.45115)"
    id="g975">
                         <g
    id="g973">
@@ -1089,9 +569,8 @@
                                 </g>
                             </g>
                         </g>
-                    </g>
-                    <g
-   transform="matrix(4.7051713,0,0,3.1212173,7.2618398,-104.27005)"
+                    </g><g
+   transform="matrix(4.7051713,0,0,5.4715688,7.2618398,-136.41259)"
    id="g989">
                         <g
    id="g987">
@@ -1101,17 +580,12 @@
    id="inputPins"
    gorn="0.1.0.0.0.20.0.0.0">
                                     <rect
-   stroke="#ddd3d3"
-   fill="#000000"
-   style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+   style="fill:#000000;fill-opacity:1;stroke:#ddd3d3;stroke-width:0.31397101;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    height="17.449453"
    width="1.6432421"
    x="33.573299"
-   stroke-width="0.313971"
    y="29.544096"
    id="inputPinBorder"
-   fill-opacity="1"
-   stroke-opacity="1"
    gorn="0.1.0.0.0.20.0.0.0.0" />
                                     <circle
    r="0.30486321"
@@ -1158,9 +632,8 @@
                                 </g>
                             </g>
                         </g>
-                    </g>
-                    <g
-   transform="matrix(4.7036989,0,0,2.6886765,3.1424332,-84.897898)"
+                    </g><g
+   transform="matrix(4.7036989,0,0,4.7133144,3.1424332,-102.45274)"
    id="g1012">
                         <g
    id="g1010">
@@ -1228,13 +701,8 @@
                                 </g>
                             </g>
                         </g>
-                    </g>
-                    
-                    
-                    
-                    
-                    <g
-   transform="matrix(1,0,0,0.5206933,0.55828375,-17.905012)"
+                    </g><g
+   transform="matrix(1,0,0,0.91278785,0.55828375,14.987393)"
    id="g1026">
                         <g
    id="g1024">
@@ -1249,9 +717,8 @@
                                 </g>
                             </g>
                         </g>
-                    </g>
-                    <g
-   transform="matrix(1,0,0,0.5206933,0.55828375,-17.905012)"
+                    </g><g
+   transform="matrix(1,0,0,0.91278785,0.55828375,14.987393)"
    id="g1037">
                         <g
    id="g1035">
@@ -1267,9 +734,8 @@
                                 </g>
                             </g>
                         </g>
-                    </g>
-                    <g
-   transform="matrix(1,0,0,0.5206933,0.55828375,-17.905012)"
+                    </g><g
+   transform="matrix(1,0,0,0.91278785,0.55828375,14.987393)"
    id="g1047">
                         <g
    id="g1045">
@@ -1284,9 +750,8 @@
                                 </g>
                             </g>
                         </g>
-                    </g>
-                    <g
-   transform="matrix(1,0,0,0.5206933,0.83945935,-48.518679)"
+                    </g><g
+   transform="matrix(1,0,0,0.91278785,0.83945935,-38.6791)"
    id="g1057">
                         <g
    id="g1055">
@@ -1301,9 +766,8 @@
                                 </g>
                             </g>
                         </g>
-                    </g>
-                    <g
-   transform="matrix(1,0,0,0.5206933,0.83945935,-48.518679)"
+                    </g><g
+   transform="matrix(1,0,0,0.91278785,0.83945935,-38.6791)"
    id="g1068">
                         <g
    id="g1066">
@@ -1319,9 +783,8 @@
                                 </g>
                             </g>
                         </g>
-                    </g>
-                    <g
-   transform="matrix(1,0,0,0.5206933,0.1595517,-21.019269)"
+                    </g><g
+   transform="matrix(1,0,0,0.91278785,0.1595517,9.528026)"
    id="g1078">
                         <g
    id="g1076">
@@ -1336,9 +799,8 @@
                                 </g>
                             </g>
                         </g>
-                    </g>
-                    <g
-   transform="matrix(1,0,0,0.5206933,-0.0398144,-21.019269)"
+                    </g><g
+   transform="matrix(1,0,0,0.91278785,-0.0398144,9.528026)"
    id="g1096">
                         <g
    id="g1094">
@@ -1369,9 +831,8 @@
                                 </g>
                             </g>
                         </g>
-                    </g>
-                    <g
-   transform="matrix(4.6997229,0,0,3.8294868,5.0480379,-70.374427)"
+                    </g><g
+   transform="matrix(4.6997229,0,0,6.7131823,5.0480379,-76.992751)"
    id="g1112">
                         <g
    id="g1110">
@@ -1392,9 +853,8 @@
                                 </g>
                             </g>
                         </g>
-                    </g>
-                    <g
-   transform="matrix(1,0,0,0.5206933,1.3469438,16.603492)"
+                    </g><g
+   transform="matrix(1,0,0,0.91278785,1.3469438,75.481629)"
    id="g1122">
                         <g
    id="g1120">
@@ -1409,9 +869,8 @@
                                 </g>
                             </g>
                         </g>
-                    </g>
-                    <g
-   transform="matrix(1,0,0,0.5206933,1.3469438,16.603492)"
+                    </g><g
+   transform="matrix(1,0,0,0.91278785,1.3469438,75.481629)"
    id="g1133">
                         <g
    id="g1131">
@@ -1427,9 +886,8 @@
                                 </g>
                             </g>
                         </g>
-                    </g>
-                    <g
-   transform="matrix(1,0,0,0.5206933,1.3469438,16.603492)"
+                    </g><g
+   transform="matrix(1,0,0,0.91278785,1.3469438,75.481629)"
    id="g1143">
                         <g
    id="g1141">
@@ -1444,9 +902,8 @@
                                 </g>
                             </g>
                         </g>
-                    </g>
-                    <g
-   transform="matrix(4.6997229,0,0,3.8294868,5.4467696,-40.892798)"
+                    </g><g
+   transform="matrix(4.6997229,0,0,6.7131823,5.4467696,-25.310747)"
    id="g1159">
                         <g
    id="g1157">
@@ -1467,9 +924,8 @@
                                 </g>
                             </g>
                         </g>
-                    </g>
-                    <g
-   transform="matrix(1,0,0,0.5206933,1.7456755,48.368903)"
+                    </g><g
+   transform="matrix(1,0,0,0.91278785,1.7456755,131.16716)"
    id="g1169">
                         <g
    id="g1167">
@@ -1484,9 +940,8 @@
                                 </g>
                             </g>
                         </g>
-                    </g>
-                    <g
-   transform="matrix(1,0,0,0.5206933,1.7456755,48.368903)"
+                    </g><g
+   transform="matrix(1,0,0,0.91278785,1.7456755,131.16716)"
    id="g1180">
                         <g
    id="g1178">
@@ -1502,9 +957,8 @@
                                 </g>
                             </g>
                         </g>
-                    </g>
-                    <g
-   transform="matrix(1,0,0,0.5206933,1.7456755,48.368903)"
+                    </g><g
+   transform="matrix(1,0,0,0.91278785,1.7456755,131.16716)"
    id="g1190">
                         <g
    id="g1188">
@@ -1519,9 +973,8 @@
                                 </g>
                             </g>
                         </g>
-                    </g>
-                    <g
-   transform="matrix(1,0,0,0.5206933,-0.0398144,10.676935)"
+                    </g><g
+   transform="matrix(1,0,0,0.91278785,-0.0398144,65.092232)"
    id="g1208">
                         <g
    id="g1206">
@@ -1549,17 +1002,12 @@
                                     
                                     <g
    id="g1504"><rect
-     stroke="#625862"
-     fill="#000000"
-     style="stroke-miterlimit:4;stroke-dasharray:none"
+     style="fill:#000000;fill-opacity:1;stroke:#625862;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      height="2.0324214"
      width="3.699007"
      x="27.244839"
-     stroke-width="0.2"
      y="7.7084394"
      id="rect4580"
-     fill-opacity="1"
-     stroke-opacity="1"
      gorn="0.1.0.0.0.18.0.0.0.0"
      transform="matrix(4.6997231,0,0,7.3545919,5.495393,-221.53589)" /><circle
      r="0.30486321"
@@ -1590,205 +1038,135 @@
      cy="9.131134"
      gorn="0.1.0.0.0.18.0.0.0.4"
      transform="matrix(4.6997231,0,0,7.3545919,5.495393,-221.53589)" /><path
-     stroke="#ddd3d3"
-     fill="none"
-     style="fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     style="fill:none;fill-rule:evenodd;stroke:#ddd3d3;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 26.747499,8.1974469 0.389243,0.00885 v 0"
-     stroke-width="0.2"
      id="path4681"
-     stroke-opacity="1"
      gorn="0.1.0.0.0.18.0.0.0.5"
-     transform="matrix(4.6997231,0,0,7.3545919,5.495393,-221.53589)" /><path
-     stroke="#ddd3d3"
-     fill="none"
-     style="fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="matrix(4.6997231,0,0,7.3545919,5.495393,-221.53589)"
+     inkscape:connector-curvature="0" /><path
+     style="fill:none;fill-rule:evenodd;stroke:#ddd3d3;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 26.756346,9.1484524 0.389243,0.00885 v 0"
-     stroke-width="0.2"
      id="path4681-0"
-     stroke-opacity="1"
      gorn="0.1.0.0.0.18.0.0.0.6"
-     transform="matrix(4.6997231,0,0,7.3545919,5.495393,-221.53589)" /><path
-     stroke="#ddd3d3"
-     fill="none"
-     style="fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="matrix(4.6997231,0,0,7.3545919,5.495393,-221.53589)"
+     inkscape:connector-curvature="0" /><path
+     style="fill:none;fill-rule:evenodd;stroke:#ddd3d3;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 31.060134,9.1351828 0.389243,0.00885 v 0"
-     stroke-width="0.2"
      id="path4681-6"
-     stroke-opacity="1"
      gorn="0.1.0.0.0.18.0.0.0.7"
-     transform="matrix(4.6997231,0,0,7.3545919,5.495393,-221.53589)" /><path
-     stroke="#ddd3d3"
-     fill="none"
-     style="fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="matrix(4.6997231,0,0,7.3545919,5.495393,-221.53589)"
+     inkscape:connector-curvature="0" /><path
+     style="fill:none;fill-rule:evenodd;stroke:#ddd3d3;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 31.04244,8.254963 0.389243,0.00885 v 0"
-     stroke-width="0.2"
      id="path4681-3"
-     stroke-opacity="1"
      gorn="0.1.0.0.0.18.0.0.0.8"
-     transform="matrix(4.6997231,0,0,7.3545919,5.495393,-221.53589)" /><rect
-     stroke="#ddd3d3"
-     fill="#b19a00"
-     style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="matrix(4.6997231,0,0,7.3545919,5.495393,-221.53589)"
+     inkscape:connector-curvature="0" /><rect
+     style="fill:#b19a00;fill-opacity:1;stroke:#ddd3d3;stroke-width:0.72251201;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      height="4.9420733"
      x="148.65251"
      width="5.0590506"
-     stroke-width="0.722512"
      y="-59.890995"
      id="led4"
-     fill-opacity="1"
-     stroke-opacity="1"
      gorn="0.1.0.0.0.22"
      transform="matrix(1,0,0,1.9205164,0.0398144,-20.505226)" /><rect
-     stroke="#ddd3d3"
-     fill="#000000"
-     style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     style="fill:#000000;fill-opacity:1;stroke:#ddd3d3;stroke-width:1.00127995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      height="9.491333"
      width="5.0590506"
      x="139.38449"
-     stroke-width="1.00128"
      y="-80.947327"
      id="rect4793-7"
-     fill-opacity="1"
-     stroke-opacity="1"
      gorn="0.1.0.0.0.26.0.0.0.0"
      transform="translate(0.59809814,-54.892094)" /><path
-     stroke="#ddd3d3"
-     fill="none"
      d="m 141.0092,-79.603864 1.82933,0.054 v 0"
-     style="fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="1.07124"
+     style="fill:none;fill-rule:evenodd;stroke:#ddd3d3;stroke-width:1.07123995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path4681-6-8"
-     stroke-opacity="1"
      gorn="0.1.0.0.0.26.0.0.0.1"
-     transform="translate(0.59809814,-54.892094)" /><path
-     stroke="#ddd3d3"
-     fill="none"
+     transform="translate(0.59809814,-54.892094)"
+     inkscape:connector-curvature="0" /><path
      d="m 141.0092,-72.837157 1.82934,0.054 v 0"
-     style="fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="1.07124"
+     style="fill:none;fill-rule:evenodd;stroke:#ddd3d3;stroke-width:1.07123995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path4681-6-55"
-     stroke-opacity="1"
      gorn="0.1.0.0.0.26.0.0.0.2"
-     transform="translate(0.59809814,-54.892094)" /><rect
-     stroke="#2c2c2a"
-     fill="#000000"
-     style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="translate(0.59809814,-54.892094)"
+     inkscape:connector-curvature="0" /><rect
+     style="fill:#000000;fill-opacity:1;stroke:#2c2c2a;stroke-width:0.927966;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      height="6.6237597"
      width="5.298665"
      x="116.54396"
-     stroke-width="0.927966"
      y="-77.682228"
      id="rect4795"
-     fill-opacity="1"
-     stroke-opacity="1"
      gorn="0.1.0.0.0.27.0.0.0.0"
      transform="translate(0.59809814,-54.892094)" /><path
-     stroke="#ddd3d3"
-     fill="none"
      d="m 115.72487,-74.402783 1.11905,0.08399 v 0"
-     style="fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="1.04494"
+     style="fill:none;fill-rule:evenodd;stroke:#ddd3d3;stroke-width:1.04493999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path4681-6-1"
-     stroke-opacity="1"
      gorn="0.1.0.0.0.27.0.0.0.1"
-     transform="translate(0.59809814,-54.892094)" /><path
-     stroke="#ddd3d3"
-     fill="none"
+     transform="translate(0.59809814,-54.892094)"
+     inkscape:connector-curvature="0" /><path
      d="m 121.26084,-75.880291 1.20817,0.07854 v 0"
-     style="fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="1.0499"
+     style="fill:none;fill-rule:evenodd;stroke:#ddd3d3;stroke-width:1.04990005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path4681-6-82"
-     stroke-opacity="1"
      gorn="0.1.0.0.0.27.0.0.0.2"
-     transform="translate(0.59809814,-54.892094)" /><path
-     stroke="#ddd3d3"
-     fill="none"
+     transform="translate(0.59809814,-54.892094)"
+     inkscape:connector-curvature="0" /><path
      d="m 121.32969,-72.851043 1.15201,0.0819 v 0"
-     style="fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="1.04693"
+     style="fill:none;fill-rule:evenodd;stroke:#ddd3d3;stroke-width:1.04692996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path4681-6-0"
-     stroke-opacity="1"
      gorn="0.1.0.0.0.27.0.0.0.3"
-     transform="translate(0.59809814,-54.892094)" /><rect
-     stroke="#ddd3d3"
-     fill="#000000"
-     style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="translate(0.59809814,-54.892094)"
+     inkscape:connector-curvature="0" /><rect
+     style="fill:#000000;fill-opacity:1;stroke:#ddd3d3;stroke-width:1.00127995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      height="9.491333"
      width="5.0590506"
      x="130.99469"
-     stroke-width="1.00128"
      y="-80.818787"
      id="rect4793"
-     fill-opacity="1"
-     stroke-opacity="1"
      gorn="0.1.0.0.0.28.0.0.0.0"
      transform="translate(0.59809814,-54.892094)" /><path
-     stroke="#ddd3d3"
-     fill="none"
      d="m 132.6213,-79.533377 1.82933,0.054 v 0"
-     style="fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="1.07124"
+     style="fill:none;fill-rule:evenodd;stroke:#ddd3d3;stroke-width:1.07123995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path4681-6-3"
-     stroke-opacity="1"
      gorn="0.1.0.0.0.28.0.0.0.1"
-     transform="translate(0.59809814,-54.892094)" /><path
-     stroke="#ddd3d3"
-     fill="none"
+     transform="translate(0.59809814,-54.892094)"
+     inkscape:connector-curvature="0" /><path
      d="m 132.62131,-72.625697 1.82933,0.054 v 0"
-     style="fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="1.07124"
+     style="fill:none;fill-rule:evenodd;stroke:#ddd3d3;stroke-width:1.07123995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path4681-6-4"
-     stroke-opacity="1"
      gorn="0.1.0.0.0.28.0.0.0.2"
-     transform="translate(0.59809814,-54.892094)" /><rect
-     stroke="#ddd3d3"
-     fill="#000000"
-     style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="translate(0.59809814,-54.892094)"
+     inkscape:connector-curvature="0" /><rect
+     style="fill:#000000;fill-opacity:1;stroke:#ddd3d3;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      height="2.8308578"
      x="23.561964"
      width="1.6631289"
-     stroke-width="0.2"
      y="2.1424124"
      id="rect4777-2-7"
-     fill-opacity="1"
-     stroke-opacity="1"
      gorn="0.1.0.0.0.41.0.0.0.0.0.0.0.0"
      transform="matrix(4.6997231,0,0,6.1043246,5.7247918,-179.28471)" /><rect
-     stroke="#ed3266"
-     fill="none"
-     style="stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+     style="fill:none;fill-opacity:1;stroke:#ed3266;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      height="0.95541447"
      x="24.128136"
      width="0.4954001"
-     stroke-width="0.5"
      y="3.2121108"
      id="rect4850-8-8"
-     fill-opacity="1"
-     stroke-opacity="1"
      gorn="0.1.0.0.0.41.0.0.0.0.0.0.0.1"
      transform="matrix(4.6997231,0,0,6.1043246,5.7247918,-179.28471)" /><path
-     stroke="#ddd3d3"
-     fill="none"
      d="m 118.60169,-151.0772 3.26517,0.0157 v 0"
-     style="fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="1.88055"
+     style="fill:none;fill-rule:evenodd;stroke:#ddd3d3;stroke-width:1.88055003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path4681-6-3-1-2-3-6"
-     stroke-opacity="1"
-     gorn="0.1.0.0.0.41.0.0.0.1" /><path
-     stroke="#ddd3d3"
-     fill="none"
+     gorn="0.1.0.0.0.41.0.0.0.1"
+     inkscape:connector-curvature="0" /><path
      d="m 118.62638,-163.93778 3.26517,0.0157 v 0"
-     style="fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="1.88055"
+     style="fill:none;fill-rule:evenodd;stroke:#ddd3d3;stroke-width:1.88055003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path4681-6-3-1-2-3-3-2"
-     stroke-opacity="1"
-     gorn="0.1.0.0.0.41.0.0.0.2" /></g>
+     gorn="0.1.0.0.0.41.0.0.0.2"
+     inkscape:connector-curvature="0" /></g>
                                 </g>
                             </g>
                         </g>
-                    </g>
-                    <g
-   transform="matrix(1,0,0,0.5206933,-0.03981439,44.034088)"
+                    </g><g
+   transform="matrix(1,0,0,0.91278785,-0.03981439,123.56812)"
    id="g1226">
                         <g
    id="g1224">
@@ -1818,9 +1196,8 @@
                                 </g>
                             </g>
                         </g>
-                    </g>
-                    <g
-   transform="matrix(1,0,0,0.5206933,-0.03981439,75.315071)"
+                    </g><g
+   transform="matrix(1,0,0,0.91278785,-0.03981439,178.40444)"
    id="g1244">
                         <g
    id="g1242">
@@ -1852,52 +1229,24 @@
                                 </g>
                             </g>
                         </g>
-                    </g>
-                    <g
-   transform="matrix(1,0,0,0.5206933,0.1595517,-21.019269)"
-   id="g1300">
-                        <g
-   id="g1298">
-                            <g
-   id="g1296">
-                                <g
-   style="display:inline"
-   id="relay4"
-   gorn="0.1.0.0.0.44.0.0.0">
-                                    <rect
-   style="fill:#00a7ff;fill-opacity:1"
-   height="58.82616"
+                    </g><rect
+   style="fill:#00a7ff;fill-opacity:1;stroke-width:0.95539933"
+   height="53.695805"
    width="89.42292"
-   x="22.005533"
-   y="63.206207"
+   x="22.165085"
+   y="67.221886"
    id="rect3398-9"
-   gorn="0.1.0.0.0.44.0.0.0.0" />
-                                    <g
-   transform="matrix(5.3262803,0,0,6.144044,-7.7128901,-183.77853)"
-   id="g1293">
-                                        <g
-   id="g1291">
-                                            <g
-   id="g1289">
-                                                <g
-   id="g4436-9"
-   gorn="0.1.0.0.0.44.0.0.0.1.0.0.0">
-                                                    <g
-   transform="scale(1.3283955,0.75278786)"
+   gorn="0.1.0.0.0.44.0.0.0.0" /><g
+   transform="matrix(7.0754068,0,0,4.2217914,-7.5533384,-158.22278)"
    id="g1253">
                                                         <g
    id="g1251">
                                                             <g
    id="g1249">
                                                                 <g
-   stroke="none"
-   fill="#ffffff"
-   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Times New Roman,  Italic';letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter"
-   stroke-width="0.996078"
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.25967002px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Times New Roman,  Italic';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.99607801;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    font-size="1.25967px"
    id="text4388-2"
-   fill-opacity="1"
-   stroke-opacity="1"
    xml:space="preserve"
    gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.0.0.0.0">
                                                                     <text
@@ -1906,39 +1255,28 @@
    id="tspan4390-3"
    gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.0.0.0.0.0">SONGLE</text>
 
+
                                                                 </g>
                                                             </g>
                                                         </g>
-                                                    </g>
-                                                    <ellipse
-   rx="1.2027016"
-   stroke="#ffffff"
-   ry="0.674272"
-   fill="none"
-   style="stroke-miterlimit:4;stroke-dasharray:none"
-   stroke-width="0.0928541"
+                                                    </g><ellipse
+   rx="6.4059258"
+   ry="3.7814581"
+   style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5074873;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    id="path4392-1"
-   fill-opacity="1"
-   stroke-opacity="1"
-   cx="8.0280638"
-   cy="43.530888"
-   gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.1" />
-                                                    <g
-   transform="scale(0.93755692,1.0666019)"
+   cx="35.206379"
+   cy="85.907524"
+   gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.1" /><g
+   transform="matrix(4.993691,0,0,5.9817261,-7.5533384,-158.22278)"
    id="g1262">
                                                         <g
    id="g1260">
                                                             <g
    id="g1258">
                                                                 <g
-   stroke="none"
-   fill="#fdfdfd"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter"
-   stroke-width="0.996078"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.79674101px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#fdfdfd;fill-opacity:1;stroke:none;stroke-width:0.99607801;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    font-size="0.796741px"
    id="text4394-8"
-   fill-opacity="1"
-   stroke-opacity="1"
    xml:space="preserve"
    gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.2.0.0.0">
                                                                     <text
@@ -1947,26 +1285,21 @@
    id="tspan4396-6"
    gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.2.0.0.0.0">CQC</text>
 
+
                                                                 </g>
                                                             </g>
                                                         </g>
-                                                    </g>
-                                                    <g
-   transform="scale(0.94043314,1.0633398)"
+                                                    </g><g
+   transform="matrix(5.0090105,0,0,5.9634315,-7.5533384,-158.22278)"
    id="g1270">
                                                         <g
    id="g1268">
                                                             <g
    id="g1266">
                                                                 <g
-   stroke="none"
-   fill="#fdffff"
-   style="font-style:normal;font-weight:normal;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter"
-   stroke-width="0.996078"
+   style="font-style:normal;font-weight:normal;font-size:1.16421998px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#fdffff;fill-opacity:1;stroke:none;stroke-width:0.99607801;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    font-size="1.16422px"
    id="text4398-5"
-   fill-opacity="1"
-   stroke-opacity="1"
    xml:space="preserve"
    gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.3.0.0.0">
                                                                     <text
@@ -1977,26 +1310,21 @@
    transform="scale(1.0235868,0.9769567)"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.1847837px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;stroke-width:1.01957273">10A  250VAC   10A  125VAC</text>
 
+
                                                                 </g>
                                                             </g>
                                                         </g>
-                                                    </g>
-                                                    <g
-   transform="scale(0.94043315,1.0633398)"
+                                                    </g><g
+   transform="matrix(5.0090106,0,0,5.9634315,-7.5533384,-158.22278)"
    id="g1278">
                                                         <g
    id="g1276">
                                                             <g
    id="g1274">
                                                                 <g
-   stroke="none"
-   fill="#fdffff"
-   style="font-style:normal;font-weight:normal;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter"
-   stroke-width="0.996078"
+   style="font-style:normal;font-weight:normal;font-size:1.16421998px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#fdffff;fill-opacity:1;stroke:none;stroke-width:0.99607801;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    font-size="1.16422px"
    id="text4398-1-9"
-   fill-opacity="1"
-   stroke-opacity="1"
    xml:space="preserve"
    gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.4.0.0.0">
                                                                     <text
@@ -2007,26 +1335,21 @@
    transform="scale(1.0116359,0.98849792)"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.19359934px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;stroke-width:1.00766861">10A    30VDC   10A   28VDC</text>
 
+
                                                                 </g>
                                                             </g>
                                                         </g>
-                                                    </g>
-                                                    <g
-   transform="scale(0.90252946,1.1079971)"
+                                                    </g><g
+   transform="matrix(4.8071249,0,0,6.213879,-7.5533384,-158.22278)"
    id="g1286">
                                                         <g
    id="g1284">
                                                             <g
    id="g1282">
                                                                 <g
-   stroke="none"
-   fill="#ffffff"
-   style="font-style:normal;font-weight:normal;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter"
-   stroke-width="0.996078"
+   style="font-style:normal;font-weight:normal;font-size:2.03250003px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.99607801;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    font-size="2.0325px"
    id="text4420-8"
-   fill-opacity="1"
-   stroke-opacity="1"
    xml:space="preserve"
    gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.5.0.0.0">
                                                                     <text
@@ -2037,233 +1360,107 @@
    transform="scale(1.0118892,0.98825054)"
    style="font-size:2.05666614px;stroke-width:1.00791979">SRD-05VDC-SL-C</text>
 
+
                                                                 </g>
                                                             </g>
                                                         </g>
-                                                    </g>
-                                                </g>
-                                            </g>
-                                        </g>
-                                    </g>
-                                </g>
-                            </g>
-                        </g>
-                    </g>
-                    <g
-   transform="matrix(5.0456672,0,0,3.3342666,1.2450406,-114.77042)"
-   id="g1321">
-                        <g
-   id="g1319">
-                            <g
-   id="g1317">
-                                <g
-   style="display:inline"
-   id="K3K4screws"
-   gorn="0.1.0.0.0.45.0.0.0">
-                                    <rect
-   stroke="#ffffff"
-   fill="#007dff"
-   style="stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-   height="18.215406"
-   width="1.8513565"
-   x="1.4408622"
-   stroke-width="0.0172333"
-   y="38.127983"
+                                                    </g><rect
+   style="fill:#007dff;fill-opacity:1;stroke:#ffffff;stroke-width:0.09358836;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   height="106.46995"
+   width="9.3413286"
+   x="8.515152"
+   y="68.039955"
    id="rect4937-5"
-   fill-opacity="1"
-   stroke-opacity="1"
-   gorn="0.1.0.0.0.45.0.0.0.0" />
-                                    <g
-   id="g4449-1"
-   gorn="0.1.0.0.0.45.0.0.0.1">
-                                        <ellipse
-   rx="0.63005066"
-   stroke="#000000"
-   ry="0.65037483"
-   fill="#a0892c"
-   style="stroke-miterlimit:4;stroke-dasharray:none"
-   stroke-width="0.1"
+   gorn="0.1.0.0.0.45.0.0.0.0" /><ellipse
+   gorn="0.1.0.0.0.45.0.0.0.1.0"
+   cy="75.775192"
+   cx="13.14075"
    id="path4293-8"
-   fill-opacity="1"
-   stroke-opacity="1"
-   cx="2.3576088"
-   cy="39.451366"
-   gorn="0.1.0.0.0.45.0.0.0.1.0" />
-                                        <ellipse
-   rx="0.63005066"
-   stroke="#000000"
-   ry="0.65037483"
-   fill="#a0892c"
-   style="stroke-miterlimit:4;stroke-dasharray:none"
-   stroke-width="0.1"
+   style="fill:#a0892c;fill-opacity:1;stroke:#000000;stroke-width:0.54306698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   ry="3.8014729"
+   rx="3.1790259" /><ellipse
+   gorn="0.1.0.0.0.45.0.0.0.1.1"
+   cy="93.594566"
+   cx="13.14075"
    id="path4293-9-7"
-   fill-opacity="1"
-   stroke-opacity="1"
-   cx="2.3576088"
-   cy="42.499992"
-   gorn="0.1.0.0.0.45.0.0.0.1.1" />
-                                        <ellipse
-   rx="0.63005066"
-   stroke="#000000"
-   ry="0.65037483"
-   fill="#a0892c"
-   style="stroke-miterlimit:4;stroke-dasharray:none"
-   stroke-width="0.1"
+   style="fill:#a0892c;fill-opacity:1;stroke:#000000;stroke-width:0.54306698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   ry="3.8014729"
+   rx="3.1790259" /><ellipse
+   gorn="0.1.0.0.0.45.0.0.0.1.2"
+   cy="114.02744"
+   cx="13.345849"
    id="path4293-4-6"
-   fill-opacity="1"
-   stroke-opacity="1"
-   cx="2.3982573"
-   cy="45.99575"
-   gorn="0.1.0.0.0.45.0.0.0.1.2" />
-                                        <ellipse
-   rx="0.63005066"
-   stroke="#000000"
-   ry="0.65037483"
-   fill="#a0892c"
-   style="stroke-miterlimit:4;stroke-dasharray:none"
-   stroke-width="0.1"
+   style="fill:#a0892c;fill-opacity:1;stroke:#000000;stroke-width:0.54306698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   ry="3.8014729"
+   rx="3.1790259" /><ellipse
+   gorn="0.1.0.0.0.45.0.0.0.1.3"
+   cy="132.08443"
+   cx="13.14075"
    id="path4293-7-9"
-   fill-opacity="1"
-   stroke-opacity="1"
-   cx="2.3576088"
-   cy="49.08503"
-   gorn="0.1.0.0.0.45.0.0.0.1.3" />
-                                        <ellipse
-   rx="0.63005066"
-   stroke="#000000"
-   ry="0.65037483"
-   fill="#a0892c"
-   style="stroke-miterlimit:4;stroke-dasharray:none"
-   stroke-width="0.1"
+   style="fill:#a0892c;fill-opacity:1;stroke:#000000;stroke-width:0.54306698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   ry="3.8014729"
+   rx="3.1790259" /><ellipse
+   gorn="0.1.0.0.0.45.0.0.0.1.4"
+   cy="151.0918"
+   cx="12.935652"
    id="path4293-79-9"
-   fill-opacity="1"
-   stroke-opacity="1"
-   cx="2.3169603"
-   cy="52.336903"
-   gorn="0.1.0.0.0.45.0.0.0.1.4" />
-                                        <ellipse
-   rx="0.63005066"
-   stroke="#000000"
-   ry="0.65037483"
-   fill="#a0892c"
-   style="stroke-miterlimit:4;stroke-dasharray:none"
-   stroke-width="0.1"
+   style="fill:#a0892c;fill-opacity:1;stroke:#000000;stroke-width:0.54306698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   ry="3.8014729"
+   rx="3.1790259" /><ellipse
+   gorn="0.1.0.0.0.45.0.0.0.1.5"
+   cy="169.1488"
+   cx="12.935652"
    id="path4293-2-8"
-   fill-opacity="1"
-   stroke-opacity="1"
-   cx="2.3169603"
-   cy="55.426186"
-   gorn="0.1.0.0.0.45.0.0.0.1.5" />
-                                        <path
-   stroke="#4f4242"
-   fill="#b8b4a3"
-   d="m 1.9104761,39.12622 0.8129686,0.650375 v -0.04065"
-   style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-   stroke-width="0.2"
+   style="fill:#a0892c;fill-opacity:1;stroke:#000000;stroke-width:0.54306698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   ry="3.8014729"
+   rx="3.1790259" /><path
+   inkscape:connector-curvature="0"
+   gorn="0.1.0.0.0.45.0.0.0.1.6"
    id="connector16pin"
-   fill-opacity="1"
-   stroke-opacity="1"
-   gorn="0.1.0.0.0.45.0.0.0.1.6" />
-                                        <path
-   stroke="#4f4242"
-   fill="#b8b4a3"
-   d="m 1.9730077,45.646278 0.8129686,0.650375 v -0.04065"
-   style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-   stroke-width="0.2"
+   style="fill:#b8b4a3;fill-opacity:1;fill-rule:evenodd;stroke:#4f4242;stroke-width:1.08613396;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="m 10.884667,73.874699 4.101969,3.801474 v -0.237602" /><path
+   inkscape:connector-curvature="0"
+   gorn="0.1.0.0.0.45.0.0.0.1.7"
    id="connector14pin"
-   fill-opacity="1"
-   stroke-opacity="1"
-   gorn="0.1.0.0.0.45.0.0.0.1.7" />
-                                        <path
-   stroke="#4f4242"
-   fill="#b8b4a3"
-   d="m 2.7828584,48.735559 -0.8129686,0.650375 v -0.04065"
-   style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-   stroke-width="0.2"
+   style="fill:#b8b4a3;fill-opacity:1;fill-rule:evenodd;stroke:#4f4242;stroke-width:1.08613396;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="m 11.200181,111.98476 4.101969,3.80147 v -0.2376" /><path
+   inkscape:connector-curvature="0"
+   gorn="0.1.0.0.0.45.0.0.0.1.8"
    id="connector13pin"
-   fill-opacity="1"
-   stroke-opacity="1"
-   gorn="0.1.0.0.0.45.0.0.0.1.8" />
-                                        <path
-   stroke="#4f4242"
-   fill="#b8b4a3"
-   d="m 1.8917109,51.987433 0.8129686,0.650375 v -0.04065"
-   style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-   stroke-width="0.2"
+   style="fill:#b8b4a3;fill-opacity:1;fill-rule:evenodd;stroke:#4f4242;stroke-width:1.08613396;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="m 15.286418,130.04176 -4.101969,3.80147 v -0.2376" /><path
+   inkscape:connector-curvature="0"
+   gorn="0.1.0.0.0.45.0.0.0.1.9"
    id="connector12pin"
-   fill-opacity="1"
-   stroke-opacity="1"
-   gorn="0.1.0.0.0.45.0.0.0.1.9" />
-                                        <path
-   stroke="#4f4242"
-   fill="#b8b4a3"
-   d="m 2.0136561,42.922833 0.650375,-0.812968 h -0.04065"
-   style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-   stroke-width="0.2"
+   style="fill:#b8b4a3;fill-opacity:1;fill-rule:evenodd;stroke:#4f4242;stroke-width:1.08613396;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="m 10.789984,149.04912 4.101969,3.80148 v -0.2376" /><path
+   inkscape:connector-curvature="0"
+   gorn="0.1.0.0.0.45.0.0.0.1.10"
    id="connector15pin"
-   fill-opacity="1"
-   stroke-opacity="1"
-   gorn="0.1.0.0.0.45.0.0.0.1.10" />
-                                        <path
-   stroke="#4f4242"
-   fill="#b8b4a3"
-   d="m 1.8917109,55.076713 0.8129686,0.650375 v -0.04065"
-   style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-   stroke-width="0.2"
+   style="fill:#b8b4a3;fill-opacity:1;fill-rule:evenodd;stroke:#4f4242;stroke-width:1.08613396;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="m 11.405279,96.066089 3.281576,-4.751838 h -0.205106" /><path
+   inkscape:connector-curvature="0"
+   gorn="0.1.0.0.0.45.0.0.0.1.11"
    id="connector11pin"
-   fill-opacity="1"
-   stroke-opacity="1"
-   gorn="0.1.0.0.0.45.0.0.0.1.11" />
-                                    </g>
-                                </g>
-                            </g>
-                        </g>
-                    </g>
-                    <g
-   transform="matrix(1,0,0,0.5206933,0.1595517,-21.019269)"
-   id="g1377">
-                        <g
-   id="g1375">
-                            <g
-   id="g1373">
-                                <g
-   style="display:inline"
-   id="relay3"
-   gorn="0.1.0.0.0.46.0.0.0">
-                                    <rect
-   style="fill:#00a7ff;fill-opacity:1"
-   height="58.565868"
+   style="fill:#b8b4a3;fill-opacity:1;fill-rule:evenodd;stroke:#4f4242;stroke-width:1.08613396;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="m 10.789984,167.10612 4.101969,3.80147 v -0.2376" /><rect
+   style="fill:#00a7ff;fill-opacity:1;stroke-width:0.95539933"
+   height="53.458214"
    width="89.42292"
-   x="22.005533"
-   y="124.11472"
+   x="22.165085"
+   y="122.81844"
    id="rect3398-3-1"
-   gorn="0.1.0.0.0.46.0.0.0.0" />
-                                    <g
-   transform="matrix(5.3262803,0,0,6.1664867,-7.4979501,-124.27567)"
-   id="g1370">
-                                        <g
-   id="g1368">
-                                            <g
-   id="g1366">
-                                                <g
-   id="g4436-3-5"
-   gorn="0.1.0.0.0.46.0.0.0.1.0.0.0">
-                                                    <g
-   transform="scale(1.3283955,0.75278786)"
+   gorn="0.1.0.0.0.46.0.0.0.0" /><g
+   transform="matrix(7.0754068,0,0,4.2372126,-7.3383984,-103.9093)"
    id="g1330">
                                                         <g
    id="g1328">
                                                             <g
    id="g1326">
                                                                 <g
-   stroke="none"
-   fill="#ffffff"
-   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Times New Roman,  Italic';letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter"
-   stroke-width="0.996078"
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.25967002px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Times New Roman,  Italic';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.99607801;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    font-size="1.25967px"
    id="text4388-5-7"
-   fill-opacity="1"
-   stroke-opacity="1"
    xml:space="preserve"
    gorn="0.1.0.0.0.46.0.0.0.1.0.0.0.0.0.0.0">
                                                                     <text
@@ -2272,39 +1469,28 @@
    id="tspan4390-2-7"
    gorn="0.1.0.0.0.46.0.0.0.1.0.0.0.0.0.0.0.0">SONGLE</text>
 
+
                                                                 </g>
                                                             </g>
                                                         </g>
-                                                    </g>
-                                                    <ellipse
-   rx="1.2027016"
-   stroke="#ffffff"
-   ry="0.674272"
-   fill="none"
-   style="stroke-miterlimit:4;stroke-dasharray:none"
-   stroke-width="0.0928541"
+                                                    </g><ellipse
+   rx="6.4059258"
+   ry="3.7952709"
+   style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.50841331;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    id="path4392-0-1"
-   fill-opacity="1"
-   stroke-opacity="1"
-   cx="8.0280638"
-   cy="43.392864"
-   gorn="0.1.0.0.0.46.0.0.0.1.0.0.0.1" />
-                                                    <g
-   transform="scale(0.93755692,1.0666019)"
+   cx="35.421318"
+   cy="140.33586"
+   gorn="0.1.0.0.0.46.0.0.0.1.0.0.0.1" /><g
+   transform="matrix(4.993691,0,0,6.0035758,-7.3383984,-103.9093)"
    id="g1339">
                                                         <g
    id="g1337">
                                                             <g
    id="g1335">
                                                                 <g
-   stroke="none"
-   fill="#fdfdfd"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter"
-   stroke-width="0.996078"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.79674101px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#fdfdfd;fill-opacity:1;stroke:none;stroke-width:0.99607801;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    font-size="0.796741px"
    id="text4394-7-4"
-   fill-opacity="1"
-   stroke-opacity="1"
    xml:space="preserve"
    gorn="0.1.0.0.0.46.0.0.0.1.0.0.0.2.0.0.0">
                                                                     <text
@@ -2313,26 +1499,21 @@
    id="tspan4396-3-1"
    gorn="0.1.0.0.0.46.0.0.0.1.0.0.0.2.0.0.0.0">CQC</text>
 
+
                                                                 </g>
                                                             </g>
                                                         </g>
-                                                    </g>
-                                                    <g
-   transform="scale(0.94043314,1.0633398)"
+                                                    </g><g
+   transform="matrix(5.0090105,0,0,5.9852145,-7.3383984,-103.9093)"
    id="g1347">
                                                         <g
    id="g1345">
                                                             <g
    id="g1343">
                                                                 <g
-   stroke="none"
-   fill="#fdffff"
-   style="font-style:normal;font-weight:normal;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter"
-   stroke-width="0.996078"
+   style="font-style:normal;font-weight:normal;font-size:1.16421998px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#fdffff;fill-opacity:1;stroke:none;stroke-width:0.99607801;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    font-size="1.16422px"
    id="text4398-8-2"
-   fill-opacity="1"
-   stroke-opacity="1"
    xml:space="preserve"
    gorn="0.1.0.0.0.46.0.0.0.1.0.0.0.3.0.0.0">
                                                                     <text
@@ -2343,26 +1524,21 @@
    transform="scale(1.0240911,0.9764756)"
    style="font-size:1.19226384px;stroke-width:1.02007508">10A  250VAC   10A  125VAC</text>
 
+
                                                                 </g>
                                                             </g>
                                                         </g>
-                                                    </g>
-                                                    <g
-   transform="scale(0.94043315,1.0633398)"
+                                                    </g><g
+   transform="matrix(5.0090106,0,0,5.9852145,-7.3383984,-103.9093)"
    id="g1355">
                                                         <g
    id="g1353">
                                                             <g
    id="g1351">
                                                                 <g
-   stroke="none"
-   fill="#fdffff"
-   style="font-style:normal;font-weight:normal;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter"
-   stroke-width="0.996078"
+   style="font-style:normal;font-weight:normal;font-size:1.16421998px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#fdffff;fill-opacity:1;stroke:none;stroke-width:0.99607801;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    font-size="1.16422px"
    id="text4398-1-7-4"
-   fill-opacity="1"
-   stroke-opacity="1"
    xml:space="preserve"
    gorn="0.1.0.0.0.46.0.0.0.1.0.0.0.4.0.0.0">
                                                                     <text
@@ -2373,26 +1549,21 @@
    transform="scale(1.0219938,0.97847954)"
    style="font-size:1.18982089px;stroke-width:1.01798522">10A    30VDC   10A   28VDC</text>
 
+
                                                                 </g>
                                                             </g>
                                                         </g>
-                                                    </g>
-                                                    <g
-   transform="scale(0.90252946,1.1079971)"
+                                                    </g><g
+   transform="matrix(4.8071249,0,0,6.2365767,-7.3383984,-103.9093)"
    id="g1363">
                                                         <g
    id="g1361">
                                                             <g
    id="g1359">
                                                                 <g
-   stroke="none"
-   fill="#ffffff"
-   style="font-style:normal;font-weight:normal;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter"
-   stroke-width="0.996078"
+   style="font-style:normal;font-weight:normal;font-size:2.03250003px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.99607801;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    font-size="2.0325px"
    id="text4420-9-7"
-   fill-opacity="1"
-   stroke-opacity="1"
    xml:space="preserve"
    gorn="0.1.0.0.0.46.0.0.0.1.0.0.0.5.0.0.0">
                                                                     <text
@@ -2403,634 +1574,458 @@
    transform="scale(1.0102845,0.9898202)"
    style="font-size:2.05340648px;stroke-width:1.00632346">SRD-05VDC-SL-C</text>
 
+
                                                                 </g>
                                                             </g>
                                                         </g>
-                                                    </g>
-                                                </g>
-                                            </g>
-                                        </g>
-                                    </g>
-                                </g>
-                            </g>
-                        </g>
-                    </g>
-                    <path
-   style="fill:#ffffff;fill-opacity:0.1"
-   d="M 1.0489653,-114.3969 H 177.37404 c 1.89738,0 3.44829,1.86098 3.44829,4.12312 v -2.05827 c 0,-2.26215 -1.55091,-4.12314 -3.44829,-4.12314 H 1.0489653 Z"
+                                                    </g><path
+   style="fill:#ffffff;fill-opacity:0.1;stroke-width:1.32401812"
+   d="M 1.0489653,-154.1652 H 177.37404 c 1.89738,0 3.44829,3.26234 3.44829,7.22793 v -3.6082 c 0,-3.9656 -1.55091,-7.22796 -3.44829,-7.22796 H 1.0489653 Z"
    id="path3384"
-   gorn="0.1.0.0.0.47" />
-                    
-                </g>
-            </g>
+   gorn="0.1.0.0.0.47"
+   inkscape:connector-curvature="0" />
 <g
    inkscape:groupmode="layer"
    id="layer1"
-   inkscape:label="Relays" /><g
-   id="g1354"><path
-     stroke="#ffffff"
-     fill="none"
-     style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-     d="m 7.4870272,-37.608677 -3.7991755,0.439373 v 16.257087 h -0.23745"
-     stroke-width="0.794626"
-     id="path4268-5-3"
-     stroke-opacity="1"
-     gorn="0.1.0.0.0.10.0.0.0.0" /><path
-     stroke="#fffffd"
-     fill="none"
-     style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.4;stroke-dasharray:none"
-     d="M 7.1456881,5.0372034 H 3.5303917 l 0.15064,-13.6033492 3.3140164,-4.0442482 v 0.367654"
-     stroke-width="0.578953"
-     id="path4240-0-1-1"
-     stroke-opacity="0.994083"
-     gorn="0.1.0.0.0.10.0.0.0.2" /><text
-     x="12.348851"
+   inkscape:label="Relays" /><path
+   inkscape:connector-curvature="0"
+   gorn="0.1.0.0.0.10.0.0.0.0"
+   id="path4268-5-3"
+   d="m 7.4870272,-37.608677 -3.7991755,0.439373 v 16.257087 h -0.23745"
+   style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.794626;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /><path
+   inkscape:connector-curvature="0"
+   gorn="0.1.0.0.0.10.0.0.0.2"
+   id="path4240-0-1-1"
+   d="M 7.1456881,5.0372034 H 3.5303917 l 0.15064,-13.6033492 3.3140164,-4.0442482 v 0.367654"
+   style="fill:none;fill-rule:evenodd;stroke:#fffffd;stroke-width:0.57895303;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.4000001;stroke-dasharray:none;stroke-opacity:0.994083" /><text
+   transform="matrix(0,-1.0689485,0.93549876,0,0,0)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.69598007px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;stroke-width:0.47466499;stroke-linecap:butt;stroke-linejoin:miter"
+   gorn="0.1.0.0.0.10.0.0.0.1.0.0.0.0"
+   id="tspan4287-5-6"
+   y="7.8712325"
+   x="12.348851"><tspan
      y="7.8712325"
-     id="tspan4287-5-6"
-     gorn="0.1.0.0.0.10.0.0.0.1.0.0.0.0"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.69598px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, @wght=400';letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;stroke-width:0.474665;stroke-linecap:butt;stroke-linejoin:miter;font-variation-settings:'wght' 400;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
-     transform="matrix(0,-1.0689485,0.93549876,0,0,0)"><tspan
-       sodipodi:role="line"
-       id="tspan734">K6</tspan></text>
-<path
-     stroke="#ffffff"
-     fill="none"
-     style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-     d="m 7.6121272,21.071449 -4.0017855,0.42096 v 15.572556 h -0.25011"
-     stroke-width="0.798184"
-     id="path4268-3-8-6"
-     stroke-opacity="1"
-     gorn="0.1.0.0.0.11.0.0.0.0" /><path
-     stroke="#fffffd"
-     fill="none"
-     style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.4;stroke-dasharray:none"
-     d="M 7.4652472,60.280846 H 3.4277517 l 0.16823,-12.517377 3.7010364,-3.721397 v 0.338312"
-     stroke-width="0.586898"
-     id="path4240-06-1"
-     stroke-opacity="0.994083"
-     gorn="0.1.0.0.0.11.0.0.0.2" /><text
-     x="-47.212448"
-     y="6.8384557"
-     id="tspan4291-0-7"
-     gorn="0.1.0.0.0.11.0.0.0.1.0.0.0.0"
-     style="font-style:normal;font-weight:normal;font-size:5.26592px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:0.438827;stroke-linecap:butt;stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, @wght=400';font-stretch:normal;font-variant:normal;font-variation-settings:'wght' 400;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
-     transform="matrix(0,-0.91168786,1.0968666,0,0,0)"><tspan
-       sodipodi:role="line"
-       id="tspan732">K5</tspan></text>
-</g><g
-   id="g789"><rect
-     style="display:inline;fill:#00a7ff;fill-opacity:1;stroke-width:0.955399"
-     height="53.695805"
-     width="89.42292"
-     x="22.283478"
-     y="-44.136948"
-     id="rect3398-9-3"
-     gorn="0.1.0.0.0.44.0.0.0.0" /><text
-     x="58.225147"
-     y="-45.871468"
-     id="tspan4390-3-2"
-     gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.0.0.0.0.0"
-     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.87032px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Times New Roman, Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;stroke-width:0.57253;stroke-linecap:butt;stroke-linejoin:miter"
-     transform="scale(1.181487,0.84639107)">SONGLE</text>
-<ellipse
-     rx="6.4059258"
-     stroke="#ffffff"
-     ry="3.7814581"
-     fill="none"
-     style="display:inline;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="0.507487"
-     id="path4392-1-8"
-     fill-opacity="1"
-     stroke-opacity="1"
-     cx="35.324837"
-     cy="-25.451305"
-     gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.1" /><text
-     x="34.142391"
-     y="-21.090441"
-     id="tspan4396-6-2"
-     gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.2.0.0.0.0"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.90680981px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;stroke-width:0.40890101;stroke-linecap:butt;stroke-linejoin:miter"
-     transform="scale(0.89184983,1.121265)">CQC</text>
-<text
-     x="24.948982"
-     y="-11.785106"
-     id="tspan4400-0-2"
-     gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.3.0.0.0.0"
-     transform="scale(0.96164491,1.0398849)"
-     style="font-style:normal;font-weight:normal;font-size:6.9716568px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:5.96476698;stroke-linecap:butt;stroke-linejoin:miter">10A 250VAC 10A 125VAC</text>
-<text
-     x="25.096714"
-     y="-3.948879"
-     id="tspan4400-3-06-5"
-     gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.4.0.0.0.0"
-     transform="scale(0.9430911,1.060343)"
-     style="font-style:normal;font-weight:normal;font-size:7.31539726px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:6.2588892;stroke-linecap:butt;stroke-linejoin:miter">10A  30VDC 10A  28VDC</text>
-<text
-     x="26.048794"
-     y="7.0510626"
-     id="tspan4422-6-6"
-     gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.5.0.0.0.0"
-     transform="scale(0.88687605,1.1275533)"
-     style="font-style:normal;font-weight:normal;font-size:11.20104027px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;stroke-width:5.48931837;stroke-linecap:butt;stroke-linejoin:miter">SRD-05VDC-SL-C</text>
-</g><g
-   id="g1271"><rect
-     stroke="#ffffff"
-     fill="#007dff"
-     style="display:inline;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-     height="106.46995"
-     width="9.3413286"
-     x="8.6334753"
-     stroke-width="0.0935884"
-     y="-43.318878"
-     id="rect4937-5-3"
-     fill-opacity="1"
-     stroke-opacity="1"
-     gorn="0.1.0.0.0.45.0.0.0.0" /><ellipse
-     rx="3.1790259"
-     stroke="#000000"
-     ry="3.8014729"
-     fill="#a0892c"
-     style="display:inline;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="0.543067"
-     id="path4293-8-1"
-     fill-opacity="1"
-     stroke-opacity="1"
-     cx="13.259087"
-     cy="-35.583637"
-     gorn="0.1.0.0.0.45.0.0.0.1.0" /><ellipse
-     rx="3.1790259"
-     stroke="#000000"
-     ry="3.8014729"
-     fill="#a0892c"
-     style="display:inline;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="0.543067"
-     id="path4293-9-7-1"
-     fill-opacity="1"
-     stroke-opacity="1"
-     cx="13.259087"
-     cy="-17.764271"
-     gorn="0.1.0.0.0.45.0.0.0.1.1" /><ellipse
-     rx="3.1790259"
-     stroke="#000000"
-     ry="3.8014729"
-     fill="#a0892c"
-     style="display:inline;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="0.543067"
-     id="path4293-4-6-5"
-     fill-opacity="1"
-     stroke-opacity="1"
-     cx="13.464188"
-     cy="2.6686025"
-     gorn="0.1.0.0.0.45.0.0.0.1.2" /><ellipse
-     rx="3.1790259"
-     stroke="#000000"
-     ry="3.8014729"
-     fill="#a0892c"
-     style="display:inline;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="0.543067"
-     id="path4293-7-9-8"
-     fill-opacity="1"
-     stroke-opacity="1"
-     cx="13.259087"
-     cy="20.725624"
-     gorn="0.1.0.0.0.45.0.0.0.1.3" /><ellipse
-     rx="3.1790259"
-     stroke="#000000"
-     ry="3.8014729"
-     fill="#a0892c"
-     style="display:inline;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="0.543067"
-     id="path4293-79-9-6"
-     fill-opacity="1"
-     stroke-opacity="1"
-     cx="13.053997"
-     cy="39.733067"
-     gorn="0.1.0.0.0.45.0.0.0.1.4" /><ellipse
-     rx="3.1790259"
-     stroke="#000000"
-     ry="3.8014729"
-     fill="#a0892c"
-     style="display:inline;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="0.543067"
-     id="path4293-2-8-9"
-     fill-opacity="1"
-     stroke-opacity="1"
-     cx="13.053997"
-     cy="57.790154"
-     gorn="0.1.0.0.0.45.0.0.0.1.5" /><path
-     stroke="#4f4242"
-     fill="#b8b4a3"
-     d="m 11.003284,-37.484114 4.101966,3.801474 v -0.237602"
-     style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="1.08613"
-     id="connector16pin-1"
-     fill-opacity="1"
-     stroke-opacity="1"
-     gorn="0.1.0.0.0.45.0.0.0.1.6" /><path
-     stroke="#4f4242"
-     fill="#b8b4a3"
-     d="M 11.318794,0.62594884 15.420759,4.4274233 V 4.1898223"
-     style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="1.08613"
-     id="connector14pin-1"
-     fill-opacity="1"
-     stroke-opacity="1"
-     gorn="0.1.0.0.0.45.0.0.0.1.7" /><path
-     stroke="#4f4242"
-     fill="#b8b4a3"
-     d="m 15.405029,18.68295 -4.101965,3.801474 v -0.237601"
-     style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="1.08613"
-     id="connector13pin-1"
-     fill-opacity="1"
-     stroke-opacity="1"
-     gorn="0.1.0.0.0.45.0.0.0.1.8" /><path
-     stroke="#4f4242"
-     fill="#b8b4a3"
-     d="m 10.908594,37.690314 4.101966,3.801474 v -0.237601"
-     style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="1.08613"
-     id="connector12pin-8"
-     fill-opacity="1"
-     stroke-opacity="1"
-     gorn="0.1.0.0.0.45.0.0.0.1.9" /><path
-     stroke="#4f4242"
-     fill="#b8b4a3"
-     d="m 11.523894,-15.292724 3.281566,-4.751838 h -0.2051"
-     style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="1.08613"
-     id="connector15pin-8"
-     fill-opacity="1"
-     stroke-opacity="1"
-     gorn="0.1.0.0.0.45.0.0.0.1.10" /><path
-     stroke="#4f4242"
-     fill="#b8b4a3"
-     d="m 10.908594,55.747302 4.101966,3.801465 v -0.2376"
-     style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="1.08613"
-     id="connector11pin-7"
-     fill-opacity="1"
-     stroke-opacity="1"
-     gorn="0.1.0.0.0.45.0.0.0.1.11" /></g><g
-   id="g799"><rect
-     style="display:inline;fill:#00a7ff;fill-opacity:1;stroke-width:0.955399"
-     height="53.458214"
-     width="89.42292"
-     x="22.283478"
-     y="11.459595"
-     id="rect3398-3-1-0"
-     gorn="0.1.0.0.0.46.0.0.0.0" /><text
-     x="53.195858"
-     y="22.516394"
-     id="tspan4390-2-7-8"
-     gorn="0.1.0.0.0.46.0.0.0.1.0.0.0.0.0.0.0.0"
-     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.80921px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Times New Roman, Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;stroke-width:0.56743;stroke-linecap:butt;stroke-linejoin:miter"
-     transform="scale(1.2683677,0.78841491)">SONGLE</text>
-<ellipse
-     rx="6.4059258"
-     stroke="#ffffff"
-     ry="3.7952709"
-     fill="none"
-     style="display:inline;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="0.508413"
-     id="path4392-0-1-5"
-     fill-opacity="1"
-     stroke-opacity="1"
-     cx="35.539761"
-     cy="28.9771"
-     gorn="0.1.0.0.0.46.0.0.0.1.0.0.0.1" /><text
-     x="32.014847"
-     y="29.629042"
-     id="tspan4396-3-1-0"
-     gorn="0.1.0.0.0.46.0.0.0.1.0.0.0.2.0.0.0.0"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.84152985px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:0.40346101;stroke-linecap:butt;stroke-linejoin:miter"
-     transform="scale(0.95749379,1.0443932)">CQC</text>
-<text
-     x="24.507296"
-     y="41.510796"
-     id="tspan4400-8-6-9"
-     gorn="0.1.0.0.0.46.0.0.0.1.0.0.0.3.0.0.0.0"
-     transform="scale(0.98310884,1.0171814)"
-     style="font-style:normal;font-weight:normal;font-size:6.85038805px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:5.86104488;stroke-linecap:butt;stroke-linejoin:miter">10A 250VAC 10A 125VAC</text>
-<text
-     x="24.213396"
-     y="49.477013"
-     id="tspan4400-3-0-1-7"
-     gorn="0.1.0.0.0.46.0.0.0.1.0.0.0.4.0.0.0.0"
-     transform="scale(0.99532588,1.0046961)"
-     style="font-style:normal;font-weight:normal;font-size:6.93551254px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;stroke-width:5.93387461;stroke-linecap:butt;stroke-linejoin:miter">10A  30VDC 10A  28VDC</text>
-<text
-     x="26.285217"
-     y="55.435173"
-     id="tspan4422-4-0-4"
-     gorn="0.1.0.0.0.46.0.0.0.1.0.0.0.5.0.0.0.0"
-     transform="scale(0.88697881,1.1274226)"
-     style="font-style:normal;font-weight:normal;font-size:11.24321175px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:5.51002026;stroke-linecap:butt;stroke-linejoin:miter">SRD-05VDC-SL-C</text>
-</g><g
-   id="g789-6"
-   transform="matrix(1,0,0,0.97982865,-0.15473099,-55.558478)"><rect
-     style="display:inline;fill:#00a7ff;fill-opacity:1;stroke-width:0.955399"
-     height="53.695805"
-     width="89.42292"
-     x="22.283478"
-     y="-44.136948"
-     id="rect3398-9-3-1"
-     gorn="0.1.0.0.0.44.0.0.0.0" /><text
-     x="58.225147"
-     y="-45.871468"
-     id="tspan4390-3-2-7"
-     gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.0.0.0.0.0"
-     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.87032px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Times New Roman, Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;stroke-width:0.57253;stroke-linecap:butt;stroke-linejoin:miter"
-     transform="scale(1.181487,0.84639107)">SONGLE</text>
-<ellipse
-     rx="6.4059258"
-     stroke="#ffffff"
-     ry="3.7814581"
-     fill="none"
-     style="display:inline;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="0.507487"
-     id="path4392-1-8-2"
-     fill-opacity="1"
-     stroke-opacity="1"
-     cx="35.324837"
-     cy="-25.451305"
-     gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.1" /><text
-     x="34.142391"
-     y="-21.090441"
-     id="tspan4396-6-2-7"
-     gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.2.0.0.0.0"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.90680981px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;stroke-width:0.40890101;stroke-linecap:butt;stroke-linejoin:miter"
-     transform="scale(0.89184983,1.121265)">CQC</text>
-<text
-     x="24.948982"
-     y="-11.785106"
-     id="tspan4400-0-2-4"
-     gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.3.0.0.0.0"
-     transform="scale(0.96164491,1.0398849)"
-     style="font-style:normal;font-weight:normal;font-size:6.9716568px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:5.96476698;stroke-linecap:butt;stroke-linejoin:miter">10A 250VAC 10A 125VAC</text>
-<text
-     x="25.074713"
-     y="-3.9400134"
-     id="tspan4400-3-06-5-6"
-     gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.4.0.0.0.0"
-     transform="scale(0.94378294,1.0595657)"
-     style="font-style:normal;font-weight:normal;font-size:7.33658171px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:6.27701378;stroke-linecap:butt;stroke-linejoin:miter">10A  30VDC 10A  28VDC</text>
-<text
-     x="26.048794"
-     y="7.0510626"
-     id="tspan4422-6-6-9"
-     gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.5.0.0.0.0"
-     transform="scale(0.88687605,1.1275533)"
-     style="font-style:normal;font-weight:normal;font-size:11.20104027px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;stroke-width:5.48931837;stroke-linecap:butt;stroke-linejoin:miter">SRD-05VDC-SL-C</text>
-</g><g
-   id="g789-65"
-   transform="matrix(1,0,0,0.97694703,-0.15115049,-110.29926)"><rect
-     style="display:inline;fill:#00a7ff;fill-opacity:1;stroke-width:0.955399"
-     height="53.695805"
-     width="89.42292"
-     x="22.283478"
-     y="-44.136948"
-     id="rect3398-9-3-18"
-     gorn="0.1.0.0.0.44.0.0.0.0" /><text
-     x="58.225147"
-     y="-45.871468"
-     id="tspan4390-3-2-1"
-     gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.0.0.0.0.0"
-     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.87032px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Times New Roman, Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;stroke-width:0.57253;stroke-linecap:butt;stroke-linejoin:miter"
-     transform="scale(1.181487,0.84639107)">SONGLE</text>
-<ellipse
-     rx="6.4059258"
-     stroke="#ffffff"
-     ry="3.7814581"
-     fill="none"
-     style="display:inline;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="0.507487"
-     id="path4392-1-8-5"
-     fill-opacity="1"
-     stroke-opacity="1"
-     cx="35.324837"
-     cy="-25.451305"
-     gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.1" /><text
-     x="34.142391"
-     y="-21.090441"
-     id="tspan4396-6-2-8"
-     gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.2.0.0.0.0"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.90680981px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;stroke-width:0.40890101;stroke-linecap:butt;stroke-linejoin:miter"
-     transform="scale(0.89184983,1.121265)">CQC</text>
-<text
-     x="24.99794"
-     y="-11.763648"
-     id="tspan4400-0-2-2"
-     gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.3.0.0.0.0"
-     transform="scale(0.95989401,1.0417817)"
-     style="font-style:normal;font-weight:normal;font-size:6.95896339px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:5.95390701;stroke-linecap:butt;stroke-linejoin:miter">10A 250VAC 10A 125VAC</text>
-<text
-     x="25.099127"
-     y="-3.9346981"
-     id="tspan4400-3-06-5-1"
-     gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.4.0.0.0.0"
-     transform="scale(0.94292144,1.0605337)"
-     style="font-style:normal;font-weight:normal;font-size:7.33219528px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:6.27326107;stroke-linecap:butt;stroke-linejoin:miter">10A  30VDC 10A  28VDC</text>
-<text
-     x="26.048794"
-     y="7.0510626"
-     id="tspan4422-6-6-6"
-     gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.5.0.0.0.0"
-     transform="scale(0.88687605,1.1275533)"
-     style="font-style:normal;font-weight:normal;font-size:11.20104027px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;stroke-width:5.48931837;stroke-linecap:butt;stroke-linejoin:miter">SRD-05VDC-SL-C</text>
-</g><g
-   id="g1271-7"
-   transform="translate(0.0027257,-109.50125)"><rect
-     stroke="#ffffff"
-     fill="#007dff"
-     style="display:inline;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-     height="106.46995"
-     width="9.3413286"
-     x="8.6334753"
-     stroke-width="0.0935884"
-     y="-43.318878"
-     id="rect4937-5-3-8"
-     fill-opacity="1"
-     stroke-opacity="1"
-     gorn="0.1.0.0.0.45.0.0.0.0" /><ellipse
-     rx="3.1790259"
-     stroke="#000000"
-     ry="3.8014729"
-     fill="#a0892c"
-     style="display:inline;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="0.543067"
-     id="path4293-8-1-8"
-     fill-opacity="1"
-     stroke-opacity="1"
-     cx="13.259087"
-     cy="-35.583637"
-     gorn="0.1.0.0.0.45.0.0.0.1.0" /><ellipse
-     rx="3.1790259"
-     stroke="#000000"
-     ry="3.8014729"
-     fill="#a0892c"
-     style="display:inline;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="0.543067"
-     id="path4293-9-7-1-7"
-     fill-opacity="1"
-     stroke-opacity="1"
-     cx="13.259087"
-     cy="-17.764271"
-     gorn="0.1.0.0.0.45.0.0.0.1.1" /><ellipse
-     rx="3.1790259"
-     stroke="#000000"
-     ry="3.8014729"
-     fill="#a0892c"
-     style="display:inline;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="0.543067"
-     id="path4293-4-6-5-8"
-     fill-opacity="1"
-     stroke-opacity="1"
-     cx="13.464188"
-     cy="2.6686025"
-     gorn="0.1.0.0.0.45.0.0.0.1.2" /><ellipse
-     rx="3.1790259"
-     stroke="#000000"
-     ry="3.8014729"
-     fill="#a0892c"
-     style="display:inline;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="0.543067"
-     id="path4293-7-9-8-3"
-     fill-opacity="1"
-     stroke-opacity="1"
-     cx="13.259087"
-     cy="20.725624"
-     gorn="0.1.0.0.0.45.0.0.0.1.3" /><ellipse
-     rx="3.1790259"
-     stroke="#000000"
-     ry="3.8014729"
-     fill="#a0892c"
-     style="display:inline;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="0.543067"
-     id="path4293-79-9-6-7"
-     fill-opacity="1"
-     stroke-opacity="1"
-     cx="13.053997"
-     cy="39.733067"
-     gorn="0.1.0.0.0.45.0.0.0.1.4" /><ellipse
-     rx="3.1790259"
-     stroke="#000000"
-     ry="3.8014729"
-     fill="#a0892c"
-     style="display:inline;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="0.543067"
-     id="path4293-2-8-9-9"
-     fill-opacity="1"
-     stroke-opacity="1"
-     cx="13.053997"
-     cy="57.790154"
-     gorn="0.1.0.0.0.45.0.0.0.1.5" /><path
-     stroke="#4f4242"
-     fill="#b8b4a3"
-     d="m 11.003284,-37.484114 4.101966,3.801474 v -0.237602"
-     style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="1.08613"
-     id="connector16pin-1-6"
-     fill-opacity="1"
-     stroke-opacity="1"
-     gorn="0.1.0.0.0.45.0.0.0.1.6" /><path
-     stroke="#4f4242"
-     fill="#b8b4a3"
-     d="M 11.318794,0.62594884 15.420759,4.4274233 V 4.1898223"
-     style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="1.08613"
-     id="connector14pin-1-9"
-     fill-opacity="1"
-     stroke-opacity="1"
-     gorn="0.1.0.0.0.45.0.0.0.1.7" /><path
-     stroke="#4f4242"
-     fill="#b8b4a3"
-     d="m 15.405029,18.68295 -4.101965,3.801474 v -0.237601"
-     style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="1.08613"
-     id="connector13pin-1-7"
-     fill-opacity="1"
-     stroke-opacity="1"
-     gorn="0.1.0.0.0.45.0.0.0.1.8" /><path
-     stroke="#4f4242"
-     fill="#b8b4a3"
-     d="m 10.908594,37.690314 4.101966,3.801474 v -0.237601"
-     style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="1.08613"
-     id="connector12pin-8-4"
-     fill-opacity="1"
-     stroke-opacity="1"
-     gorn="0.1.0.0.0.45.0.0.0.1.9" /><path
-     stroke="#4f4242"
-     fill="#b8b4a3"
-     d="m 11.523894,-15.292724 3.281566,-4.751838 h -0.2051"
-     style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="1.08613"
-     id="connector15pin-8-2"
-     fill-opacity="1"
-     stroke-opacity="1"
-     gorn="0.1.0.0.0.45.0.0.0.1.10" /><path
-     stroke="#4f4242"
-     fill="#b8b4a3"
-     d="m 10.908594,55.747302 4.101966,3.801465 v -0.2376"
-     style="display:inline;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-     stroke-width="1.08613"
-     id="connector11pin-7-4"
-     fill-opacity="1"
-     stroke-opacity="1"
-     gorn="0.1.0.0.0.45.0.0.0.1.11" /></g><g
-   id="g1354-6"
-   transform="translate(-0.13125173,-109.94223)"><path
-     stroke="#ffffff"
-     fill="none"
-     style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-     d="m 7.4870272,-37.608677 -3.7991755,0.439373 v 16.257087 h -0.23745"
-     stroke-width="0.794626"
-     id="path4268-5-3-5"
-     stroke-opacity="1"
-     gorn="0.1.0.0.0.10.0.0.0.0" /><path
-     stroke="#fffffd"
-     fill="none"
-     style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.4;stroke-dasharray:none"
-     d="M 7.1456881,5.0372034 H 3.5303917 l 0.15064,-13.6033492 3.3140164,-4.0442482 v 0.367654"
-     stroke-width="0.578953"
-     id="path4240-0-1-1-9"
-     stroke-opacity="0.994083"
-     gorn="0.1.0.0.0.10.0.0.0.2" /><text
      x="12.348851"
-     y="7.8712325"
-     id="tspan4287-5-6-4"
-     gorn="0.1.0.0.0.10.0.0.0.1.0.0.0.0"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.69598px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;stroke-width:0.474665;stroke-linecap:butt;stroke-linejoin:miter;"
-     transform="matrix(0,-1.0689485,0.93549876,0,0,0)"><tspan
-       sodipodi:role="line"
-       id="tspan1410">K8</tspan></text>
+     id="tspan734"
+     sodipodi:role="line">K6</tspan></text>
 <path
-     stroke="#ffffff"
-     fill="none"
-     style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-     d="m 7.6121272,21.071449 -4.0017855,0.42096 v 15.572556 h -0.25011"
-     stroke-width="0.798184"
-     id="path4268-3-8-6-9"
-     stroke-opacity="1"
-     gorn="0.1.0.0.0.11.0.0.0.0" /><path
-     stroke="#fffffd"
-     fill="none"
-     style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.4;stroke-dasharray:none"
-     d="M 7.4652472,60.280846 H 3.4277517 l 0.16823,-12.517377 3.7010364,-3.721397 v 0.338312"
-     stroke-width="0.586898"
-     id="path4240-06-1-0"
-     stroke-opacity="0.994083"
-     gorn="0.1.0.0.0.11.0.0.0.2" /><text
-     x="-47.212448"
+   inkscape:connector-curvature="0"
+   gorn="0.1.0.0.0.11.0.0.0.0"
+   id="path4268-3-8-6"
+   d="m 7.6121272,21.071449 -4.0017855,0.42096 v 15.572556 h -0.25011"
+   style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.79818398;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /><path
+   inkscape:connector-curvature="0"
+   gorn="0.1.0.0.0.11.0.0.0.2"
+   id="path4240-06-1"
+   d="M 7.4652472,60.280846 H 3.4277517 l 0.16823,-12.517377 3.7010364,-3.721397 v 0.338312"
+   style="fill:none;fill-rule:evenodd;stroke:#fffffd;stroke-width:0.58689803;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.4000001;stroke-dasharray:none;stroke-opacity:0.994083" /><text
+   transform="matrix(0,-0.91168788,1.0968666,0,0,0)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26592016px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:0.43882701;stroke-linecap:butt;stroke-linejoin:miter"
+   gorn="0.1.0.0.0.11.0.0.0.1.0.0.0.0"
+   id="tspan4291-0-7"
+   y="6.8384557"
+   x="-47.212448"><tspan
      y="6.8384557"
-     id="tspan4291-0-7-4"
-     gorn="0.1.0.0.0.11.0.0.0.1.0.0.0.0"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26592px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:0.438827;stroke-linecap:butt;stroke-linejoin:miter;"
-     transform="matrix(0,-0.91168786,1.0968666,0,0,0)"><tspan
-       sodipodi:role="line"
-       id="tspan1408">K7</tspan></text>
-</g><g
+     x="-47.212448"
+     id="tspan732"
+     sodipodi:role="line">K5</tspan></text>
+<rect
+   gorn="0.1.0.0.0.44.0.0.0.0"
+   id="rect3398-9-3"
+   y="-44.136948"
+   x="22.283478"
+   width="89.42292"
+   height="53.695805"
+   style="display:inline;fill:#00a7ff;fill-opacity:1;stroke-width:0.95539898" /><text
+   transform="scale(1.181487,0.84639105)"
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.87031984px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Times New Roman, Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;stroke-width:0.57252997;stroke-linecap:butt;stroke-linejoin:miter"
+   gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.0.0.0.0.0"
+   id="tspan4390-3-2"
+   y="-45.871468"
+   x="58.225147">SONGLE</text>
+<ellipse
+   gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.1"
+   cy="-25.451305"
+   cx="35.324837"
+   id="path4392-1-8"
+   style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.507487;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   ry="3.7814581"
+   rx="6.4059258" /><text
+   transform="scale(0.89184983,1.121265)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.90680981px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;stroke-width:0.40890101;stroke-linecap:butt;stroke-linejoin:miter"
+   gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.2.0.0.0.0"
+   id="tspan4396-6-2"
+   y="-21.090441"
+   x="34.142391">CQC</text>
+<text
+   style="font-style:normal;font-weight:normal;font-size:6.9716568px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:5.96476698;stroke-linecap:butt;stroke-linejoin:miter"
+   transform="scale(0.9616449,1.0398849)"
+   gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.3.0.0.0.0"
+   id="tspan4400-0-2"
+   y="-11.785106"
+   x="24.948982">10A 250VAC 10A 125VAC</text>
+<text
+   style="font-style:normal;font-weight:normal;font-size:7.31539726px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:6.2588892;stroke-linecap:butt;stroke-linejoin:miter"
+   transform="scale(0.94309108,1.060343)"
+   gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.4.0.0.0.0"
+   id="tspan4400-3-06-5"
+   y="-3.948879"
+   x="25.096714">10A  30VDC 10A  28VDC</text>
+<text
+   style="font-style:normal;font-weight:normal;font-size:11.20104027px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;stroke-width:5.48931837;stroke-linecap:butt;stroke-linejoin:miter"
+   transform="scale(0.88687604,1.1275533)"
+   gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.5.0.0.0.0"
+   id="tspan4422-6-6"
+   y="7.0510626"
+   x="26.048794">SRD-05VDC-SL-C</text>
+<rect
+   gorn="0.1.0.0.0.45.0.0.0.0"
+   id="rect4937-5-3"
+   y="-43.318878"
+   x="8.6334753"
+   width="9.3413286"
+   height="106.46995"
+   style="display:inline;fill:#007dff;fill-opacity:1;stroke:#ffffff;stroke-width:0.0935884;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /><ellipse
+   gorn="0.1.0.0.0.45.0.0.0.1.0"
+   cy="-35.583637"
+   cx="13.259087"
+   id="path4293-8-1"
+   style="display:inline;fill:#a0892c;fill-opacity:1;stroke:#000000;stroke-width:0.54306698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   ry="3.8014729"
+   rx="3.1790259" /><ellipse
+   gorn="0.1.0.0.0.45.0.0.0.1.1"
+   cy="-17.764271"
+   cx="13.259087"
+   id="path4293-9-7-1"
+   style="display:inline;fill:#a0892c;fill-opacity:1;stroke:#000000;stroke-width:0.54306698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   ry="3.8014729"
+   rx="3.1790259" /><ellipse
+   gorn="0.1.0.0.0.45.0.0.0.1.2"
+   cy="2.6686025"
+   cx="13.464188"
+   id="path4293-4-6-5"
+   style="display:inline;fill:#a0892c;fill-opacity:1;stroke:#000000;stroke-width:0.54306698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   ry="3.8014729"
+   rx="3.1790259" /><ellipse
+   gorn="0.1.0.0.0.45.0.0.0.1.3"
+   cy="20.725624"
+   cx="13.259087"
+   id="path4293-7-9-8"
+   style="display:inline;fill:#a0892c;fill-opacity:1;stroke:#000000;stroke-width:0.54306698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   ry="3.8014729"
+   rx="3.1790259" /><ellipse
+   gorn="0.1.0.0.0.45.0.0.0.1.4"
+   cy="39.733067"
+   cx="13.053997"
+   id="path4293-79-9-6"
+   style="display:inline;fill:#a0892c;fill-opacity:1;stroke:#000000;stroke-width:0.54306698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   ry="3.8014729"
+   rx="3.1790259" /><ellipse
+   gorn="0.1.0.0.0.45.0.0.0.1.5"
+   cy="57.790154"
+   cx="13.053997"
+   id="path4293-2-8-9"
+   style="display:inline;fill:#a0892c;fill-opacity:1;stroke:#000000;stroke-width:0.54306698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   ry="3.8014729"
+   rx="3.1790259" /><path
+   inkscape:connector-curvature="0"
+   gorn="0.1.0.0.0.45.0.0.0.1.6"
+   id="connector16pin-1"
+   style="display:inline;fill:#b8b4a3;fill-opacity:1;fill-rule:evenodd;stroke:#4f4242;stroke-width:1.08613002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="m 11.003284,-37.484114 4.101966,3.801474 v -0.237602" /><path
+   inkscape:connector-curvature="0"
+   gorn="0.1.0.0.0.45.0.0.0.1.7"
+   id="connector14pin-1"
+   style="display:inline;fill:#b8b4a3;fill-opacity:1;fill-rule:evenodd;stroke:#4f4242;stroke-width:1.08613002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="M 11.318794,0.62594884 15.420759,4.4274233 V 4.1898223" /><path
+   inkscape:connector-curvature="0"
+   gorn="0.1.0.0.0.45.0.0.0.1.8"
+   id="connector13pin-1"
+   style="display:inline;fill:#b8b4a3;fill-opacity:1;fill-rule:evenodd;stroke:#4f4242;stroke-width:1.08613002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="m 15.405029,18.68295 -4.101965,3.801474 v -0.237601" /><path
+   inkscape:connector-curvature="0"
+   gorn="0.1.0.0.0.45.0.0.0.1.9"
+   id="connector12pin-8"
+   style="display:inline;fill:#b8b4a3;fill-opacity:1;fill-rule:evenodd;stroke:#4f4242;stroke-width:1.08613002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="m 10.908594,37.690314 4.101966,3.801474 v -0.237601" /><path
+   inkscape:connector-curvature="0"
+   gorn="0.1.0.0.0.45.0.0.0.1.10"
+   id="connector15pin-8"
+   style="display:inline;fill:#b8b4a3;fill-opacity:1;fill-rule:evenodd;stroke:#4f4242;stroke-width:1.08613002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="m 11.523894,-15.292724 3.281566,-4.751838 h -0.2051" /><path
+   inkscape:connector-curvature="0"
+   gorn="0.1.0.0.0.45.0.0.0.1.11"
+   id="connector11pin-7"
+   style="display:inline;fill:#b8b4a3;fill-opacity:1;fill-rule:evenodd;stroke:#4f4242;stroke-width:1.08613002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="m 10.908594,55.747302 4.101966,3.801465 v -0.2376" /><rect
+   gorn="0.1.0.0.0.46.0.0.0.0"
+   id="rect3398-3-1-0"
+   y="11.459595"
+   x="22.283478"
+   width="89.42292"
+   height="53.458214"
+   style="display:inline;fill:#00a7ff;fill-opacity:1;stroke-width:0.95539898" /><text
+   transform="scale(1.2683677,0.78841491)"
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.80920982px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Times New Roman, Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;stroke-width:0.56743002;stroke-linecap:butt;stroke-linejoin:miter"
+   gorn="0.1.0.0.0.46.0.0.0.1.0.0.0.0.0.0.0.0"
+   id="tspan4390-2-7-8"
+   y="22.516394"
+   x="53.195858">SONGLE</text>
+<ellipse
+   gorn="0.1.0.0.0.46.0.0.0.1.0.0.0.1"
+   cy="28.9771"
+   cx="35.539761"
+   id="path4392-0-1-5"
+   style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.50841302;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   ry="3.7952709"
+   rx="6.4059258" /><text
+   transform="scale(0.95749379,1.0443932)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.84152985px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:0.40346101;stroke-linecap:butt;stroke-linejoin:miter"
+   gorn="0.1.0.0.0.46.0.0.0.1.0.0.0.2.0.0.0.0"
+   id="tspan4396-3-1-0"
+   y="29.629042"
+   x="32.014847">CQC</text>
+<text
+   style="font-style:normal;font-weight:normal;font-size:6.85038805px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:5.86104488;stroke-linecap:butt;stroke-linejoin:miter"
+   transform="scale(0.98310883,1.0171814)"
+   gorn="0.1.0.0.0.46.0.0.0.1.0.0.0.3.0.0.0.0"
+   id="tspan4400-8-6-9"
+   y="41.510796"
+   x="24.507296">10A 250VAC 10A 125VAC</text>
+<text
+   style="font-style:normal;font-weight:normal;font-size:6.93551254px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;stroke-width:5.93387461;stroke-linecap:butt;stroke-linejoin:miter"
+   transform="scale(0.99532587,1.0046961)"
+   gorn="0.1.0.0.0.46.0.0.0.1.0.0.0.4.0.0.0.0"
+   id="tspan4400-3-0-1-7"
+   y="49.477013"
+   x="24.213396">10A  30VDC 10A  28VDC</text>
+<text
+   style="font-style:normal;font-weight:normal;font-size:11.24321175px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:5.51002026;stroke-linecap:butt;stroke-linejoin:miter"
+   transform="scale(0.88697883,1.1274226)"
+   gorn="0.1.0.0.0.46.0.0.0.1.0.0.0.5.0.0.0.0"
+   id="tspan4422-4-0-4"
+   y="55.435173"
+   x="26.285217">SRD-05VDC-SL-C</text>
+<rect
+   gorn="0.1.0.0.0.44.0.0.0.0"
+   id="rect3398-9-3-1"
+   y="-98.805122"
+   x="22.128746"
+   width="89.42292"
+   height="52.612686"
+   style="display:inline;fill:#00a7ff;fill-opacity:1;stroke-width:0.94571406" /><text
+   transform="scale(1.1935864,0.83781114)"
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.80067539px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Times New Roman, Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;stroke-width:0.56672621;stroke-linecap:butt;stroke-linejoin:miter"
+   gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.0.0.0.0.0"
+   id="tspan4390-3-2-7"
+   y="-111.72031"
+   x="57.505283">SONGLE</text>
+<ellipse
+   gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.1"
+   cy="-80.496399"
+   cx="35.170105"
+   id="path4392-1-8-2"
+   style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.50234258;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   ry="3.7051811"
+   rx="6.4059258" /><text
+   transform="scale(0.90098313,1.1098987)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.85706949px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;stroke-width:0.40475595;stroke-linecap:butt;stroke-linejoin:miter"
+   gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.2.0.0.0.0"
+   id="tspan4396-6-2-7"
+   y="-70.933899"
+   x="33.624554">CQC</text>
+<text
+   style="font-style:normal;font-weight:normal;font-size:6.90098476px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:5.90430164;stroke-linecap:butt;stroke-linejoin:miter"
+   transform="scale(0.97149299,1.0293435)"
+   gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.3.0.0.0.0"
+   id="tspan4400-0-2-4"
+   y="-65.640312"
+   x="24.536802">10A 250VAC 10A 125VAC</text>
+<text
+   style="font-style:normal;font-weight:normal;font-size:7.26221037px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:6.2133832;stroke-linecap:butt;stroke-linejoin:miter"
+   transform="scale(0.95344809,1.0488248)"
+   gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.4.0.0.0.0"
+   id="tspan4400-3-06-5-6"
+   y="-56.8722"
+   x="24.658243">10A  30VDC 10A  28VDC</text>
+<text
+   style="font-style:normal;font-weight:normal;font-size:11.08749485px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;stroke-width:5.4336729;stroke-linecap:butt;stroke-linejoin:miter"
+   transform="scale(0.89595843,1.1161232)"
+   gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.5.0.0.0.0"
+   id="tspan4422-6-6-9"
+   y="-42.7985"
+   x="25.612038">SRD-05VDC-SL-C</text>
+<rect
+   gorn="0.1.0.0.0.44.0.0.0.0"
+   id="rect3398-9-3-18"
+   y="-153.41872"
+   x="22.132328"
+   width="89.42292"
+   height="52.457958"
+   style="display:inline;fill:#00a7ff;fill-opacity:1;stroke-width:0.94432235" /><text
+   transform="scale(1.1953454,0.83657825)"
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.79066753px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Times New Roman, Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;stroke-width:0.56589222;stroke-linecap:butt;stroke-linejoin:miter"
+   gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.0.0.0.0.0"
+   id="tspan4390-3-2-1"
+   y="-177.18536"
+   x="57.423656">SONGLE</text>
+<ellipse
+   gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.1"
+   cy="-135.16383"
+   cx="35.173687"
+   id="path4392-1-8-5"
+   style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.50160336;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   ry="3.6942842"
+   rx="6.4059258" /><text
+   transform="scale(0.90231095,1.1082654)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.8499217px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;stroke-width:0.40416032;stroke-linecap:butt;stroke-linejoin:miter"
+   gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.2.0.0.0.0"
+   id="tspan4396-6-2-8"
+   y="-120.37016"
+   x="33.579041">CQC</text>
+<text
+   style="font-style:normal;font-weight:normal;font-size:6.87828302px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:5.88487911;stroke-linecap:butt;stroke-linejoin:miter"
+   transform="scale(0.97115327,1.0297036)"
+   gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.3.0.0.0.0"
+   id="tspan4400-0-2-2"
+   y="-118.74475"
+   x="24.552481">10A 250VAC 10A 125VAC</text>
+<text
+   style="font-style:normal;font-weight:normal;font-size:7.24718761px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:6.20053053;stroke-linecap:butt;stroke-linejoin:miter"
+   transform="scale(0.95398165,1.0482382)"
+   gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.4.0.0.0.0"
+   id="tspan4400-3-06-5-1"
+   y="-109.11255"
+   x="24.649693">10A  30VDC 10A  28VDC</text>
+<text
+   style="font-style:normal;font-weight:normal;font-size:11.07117844px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;stroke-width:5.42567682;stroke-linecap:butt;stroke-linejoin:miter"
+   transform="scale(0.89727884,1.1144808)"
+   gorn="0.1.0.0.0.44.0.0.0.1.0.0.0.5.0.0.0.0"
+   id="tspan4422-6-6-6"
+   y="-91.999878"
+   x="25.578337">SRD-05VDC-SL-C</text>
+<rect
+   gorn="0.1.0.0.0.45.0.0.0.0"
+   id="rect4937-5-3-8"
+   y="-152.82013"
+   x="8.6362009"
+   width="9.3413286"
+   height="106.46995"
+   style="display:inline;fill:#007dff;fill-opacity:1;stroke:#ffffff;stroke-width:0.0935884;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /><ellipse
+   gorn="0.1.0.0.0.45.0.0.0.1.0"
+   cy="-145.08488"
+   cx="13.261812"
+   id="path4293-8-1-8"
+   style="display:inline;fill:#a0892c;fill-opacity:1;stroke:#000000;stroke-width:0.54306698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   ry="3.8014729"
+   rx="3.1790259" /><ellipse
+   gorn="0.1.0.0.0.45.0.0.0.1.1"
+   cy="-127.26552"
+   cx="13.261812"
+   id="path4293-9-7-1-7"
+   style="display:inline;fill:#a0892c;fill-opacity:1;stroke:#000000;stroke-width:0.54306698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   ry="3.8014729"
+   rx="3.1790259" /><ellipse
+   gorn="0.1.0.0.0.45.0.0.0.1.2"
+   cy="-106.83265"
+   cx="13.466913"
+   id="path4293-4-6-5-8"
+   style="display:inline;fill:#a0892c;fill-opacity:1;stroke:#000000;stroke-width:0.54306698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   ry="3.8014729"
+   rx="3.1790259" /><ellipse
+   gorn="0.1.0.0.0.45.0.0.0.1.3"
+   cy="-88.775627"
+   cx="13.261812"
+   id="path4293-7-9-8-3"
+   style="display:inline;fill:#a0892c;fill-opacity:1;stroke:#000000;stroke-width:0.54306698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   ry="3.8014729"
+   rx="3.1790259" /><ellipse
+   gorn="0.1.0.0.0.45.0.0.0.1.4"
+   cy="-69.768181"
+   cx="13.056723"
+   id="path4293-79-9-6-7"
+   style="display:inline;fill:#a0892c;fill-opacity:1;stroke:#000000;stroke-width:0.54306698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   ry="3.8014729"
+   rx="3.1790259" /><ellipse
+   gorn="0.1.0.0.0.45.0.0.0.1.5"
+   cy="-51.711098"
+   cx="13.056723"
+   id="path4293-2-8-9-9"
+   style="display:inline;fill:#a0892c;fill-opacity:1;stroke:#000000;stroke-width:0.54306698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   ry="3.8014729"
+   rx="3.1790259" /><path
+   inkscape:connector-curvature="0"
+   gorn="0.1.0.0.0.45.0.0.0.1.6"
+   id="connector16pin-1-6"
+   style="display:inline;fill:#b8b4a3;fill-opacity:1;fill-rule:evenodd;stroke:#4f4242;stroke-width:1.08613002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="m 11.00601,-146.98536 4.101966,3.80147 v -0.2376" /><path
+   inkscape:connector-curvature="0"
+   gorn="0.1.0.0.0.45.0.0.0.1.7"
+   id="connector14pin-1-9"
+   style="display:inline;fill:#b8b4a3;fill-opacity:1;fill-rule:evenodd;stroke:#4f4242;stroke-width:1.08613002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="m 11.32152,-108.8753 4.101965,3.80147 v -0.2376" /><path
+   inkscape:connector-curvature="0"
+   gorn="0.1.0.0.0.45.0.0.0.1.8"
+   id="connector13pin-1-7"
+   style="display:inline;fill:#b8b4a3;fill-opacity:1;fill-rule:evenodd;stroke:#4f4242;stroke-width:1.08613002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="m 15.407755,-90.8183 -4.101965,3.801474 v -0.237601" /><path
+   inkscape:connector-curvature="0"
+   gorn="0.1.0.0.0.45.0.0.0.1.9"
+   id="connector12pin-8-4"
+   style="display:inline;fill:#b8b4a3;fill-opacity:1;fill-rule:evenodd;stroke:#4f4242;stroke-width:1.08613002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="m 10.91132,-71.810936 4.101966,3.801474 v -0.237601" /><path
+   inkscape:connector-curvature="0"
+   gorn="0.1.0.0.0.45.0.0.0.1.10"
+   id="connector15pin-8-2"
+   style="display:inline;fill:#b8b4a3;fill-opacity:1;fill-rule:evenodd;stroke:#4f4242;stroke-width:1.08613002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="m 11.52662,-124.79397 3.281566,-4.75184 h -0.2051" /><path
+   inkscape:connector-curvature="0"
+   gorn="0.1.0.0.0.45.0.0.0.1.11"
+   id="connector11pin-7-4"
+   style="display:inline;fill:#b8b4a3;fill-opacity:1;fill-rule:evenodd;stroke:#4f4242;stroke-width:1.08613002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="m 10.91132,-53.753948 4.101966,3.801465 v -0.2376" /><path
+   inkscape:connector-curvature="0"
+   gorn="0.1.0.0.0.10.0.0.0.0"
+   id="path4268-5-3-5"
+   d="M 7.3557755,-147.55091 3.5566,-147.11153 v 16.25708 H 3.31915"
+   style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.794626;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /><path
+   inkscape:connector-curvature="0"
+   gorn="0.1.0.0.0.10.0.0.0.2"
+   id="path4240-0-1-1-9"
+   d="M 7.0144364,-104.90503 H 3.39914 l 0.15064,-13.60335 3.3140164,-4.04424 v 0.36765"
+   style="fill:none;fill-rule:evenodd;stroke:#fffffd;stroke-width:0.57895303;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.4000001;stroke-dasharray:none;stroke-opacity:0.994083" /><text
+   transform="matrix(0,-1.0689485,0.93549876,0,0,0)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.69598007px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;stroke-width:0.47466499;stroke-linecap:butt;stroke-linejoin:miter"
+   gorn="0.1.0.0.0.10.0.0.0.1.0.0.0.0"
+   id="tspan4287-5-6-4"
+   y="7.7309313"
+   x="115.19967"><tspan
+     y="7.7309313"
+     x="115.19967"
+     id="tspan1410"
+     sodipodi:role="line">K8</tspan></text>
+<path
+   inkscape:connector-curvature="0"
+   gorn="0.1.0.0.0.11.0.0.0.0"
+   id="path4268-3-8-6-9"
+   d="m 7.4808755,-88.870781 -4.0017855,0.42096 v 15.572556 H 3.22898"
+   style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.79818398;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /><path
+   inkscape:connector-curvature="0"
+   gorn="0.1.0.0.0.11.0.0.0.2"
+   id="path4240-06-1-0"
+   d="M 7.3339955,-49.661384 H 3.2965 l 0.16823,-12.517377 3.7010364,-3.721397 v 0.338312"
+   style="fill:none;fill-rule:evenodd;stroke:#fffffd;stroke-width:0.58689803;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.4000001;stroke-dasharray:none;stroke-opacity:0.994083" /><text
+   transform="matrix(0,-0.91168788,1.0968666,0,0,0)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26592016px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:0.43882701;stroke-linecap:butt;stroke-linejoin:miter"
+   gorn="0.1.0.0.0.11.0.0.0.1.0.0.0.0"
+   id="tspan4291-0-7-4"
+   y="6.7187948"
+   x="73.379517"><tspan
+     y="6.7187948"
+     x="73.379517"
+     id="tspan1408"
+     sodipodi:role="line">K7</tspan></text>
+<g
    id="g1504-6"
    transform="matrix(1,0,0,0.91278784,0.33094978,119.7819)"><rect
      stroke="#625862"
